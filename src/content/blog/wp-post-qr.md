@@ -4,7 +4,7 @@ description: This Instruction will guide you to make QR code Plugins to generate
 
 pubDate: 2024.01.23
 heroImage: '../../assets/sub-page.jpg'
-category: 'report'
+category: 'Bulletin'
 tags: ['wordpress','Linux','AWS','plugin']
 
 draft: False

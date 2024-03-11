@@ -4,7 +4,7 @@ description: 'The Tibetan Computer Emergency Readiness Team (TibCERT) is a forma
 
 pubDate: 2020.05.21
 heroImage: '../../assets/sub-page.jpg'
-category: 'report'
+category: 'Bulletin'
 tags: ['Bulletin']
 
 draft: False

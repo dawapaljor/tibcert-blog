@@ -6,7 +6,8 @@ import SunIcon from '@/components/icons/SunIcon'
 import MoonIcon from '@/components/icons/MoonIcon'
 import PageFindSearch from '@/components/Search'
 import InstagramIcon from '@/components/icons/InstagramIcon'
-
+import Logo from './icons/Logo.astro'
+``
 // ADD YOUR SOCIAL NETWORKS HERE
 const SOCIALNETWORKS = [
 	{
@@ -28,7 +29,7 @@ const SOCIALNETWORKS = [
 ---
 
 <header class='flex justify-between items-center h-12 font-semibold'>
-	<a class='text-lg' href='/'>Home</a>
+	<a class='text-lg' href='/'><Logo></Logo></a>
 	<nav class='nav-menu flex justify-center items-center md:flex gap-4'>
 		{
 			SOCIALNETWORKS.map((network) => (

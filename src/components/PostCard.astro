@@ -9,7 +9,7 @@ const {
 	slug
 } = Astro.props
 ---
-<article class='grid grid-rows-[300px_auto] group rounded-xl'>
+<article class='grid grid-rows-[100px_auto] group rounded-xl'>
 	<a class='relative' href={`/post/${slug}/`}
 		><Image
 			src={heroImage}
@@ -34,7 +34,7 @@ const {
 
 		<div class='flex flex-col gap-3'>
 			<div class='flex flex-col gap-2'>
-				<a class='text-2xl font-semibold' href={`/post/${slug}/`}>
+				<a class='text-xl font-semibold' href={`/post/${slug}/`}>
 					{title}
 				</a>
 			</div>

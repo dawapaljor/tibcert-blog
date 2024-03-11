@@ -3,7 +3,9 @@ export const CATEGORIES = [
 	'Wordpress Tricks',
 	'Linux',
 	'GitHub',
-	'report',
+	'Bulletin',
 	'Category 4',
-	'Category 5'
+	'Category 5',
+	'china',
+	'Reports'
 ] as const
