@@ -9,8 +9,8 @@ interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
 	author: 'Dawa Paljor',
-	title: 'Personal Blog',
-	description: 'This is for my Personal Blogging',
+	title: 'TIBCERT Blog',
+	description: 'Strengthening security and building technical excellence of Tibetan organizations through collaboration and knowledge sharing',
 	lang: 'en-GB',
 	ogLocale: 'en_GB',
 	shareMessage: 'Share this post' // Message to share a post on social media

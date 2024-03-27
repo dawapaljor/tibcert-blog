@@ -25,31 +25,6 @@ const blog = defineCollection({
 			draft: z.boolean().default(false)
 		})
 })
-
-
-const tibetan = defineCollection({
-	// Type-check frontmatter using a schema
-// Assuming you have an array of objects called 'data'
-// Assuming you have an array of objects called 'data'
-	schema: ({ image }) =>
-		z.object({
-			title: z.string().max(180),
-			description: z.string(),
-			// Transform string to Date object
-			pubDate: z
-				.string()
-				.or(z.date())
-				.transform((val) => new Date(val)),
-			updatedDate: z
-				.string()
-				.optional()
-				.transform((str) => (str ? new Date(str) : undefined)),
-			heroImage: image().optional(),
-			category: z.enum(CATEGORIES),
-			tags: z.array(z.string()),
-			draft: z.boolean().default(false)
-		})
-})
-export const collections = { blog,tibetan }
+export const collections = { blog }
 
 
