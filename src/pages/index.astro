@@ -6,17 +6,16 @@ import BaseLayout from '@/layouts/BaseLayout'
 import { getPosts } from '@/utils'
 import Logo from '@/components/icons/Logo'
 
-const MAX_POSTS = 5 // max number of posts to show on the home page
+const MAX_POSTS = 20 // max number of posts to show on the home page
 const posts = await getPosts(MAX_POSTS)
 ---
 
 <BaseLayout title='Home'>
-
-
+	
 	<ListCategories />
-
+	<h2 class='text-lg font-medium tracking-wide text-end'>Latest Post</h2>
 	<div>
-		<h2 class='text-lg font-medium tracking-wide text-end'>Latest Post</h2>
+		
 		<ListPosts FirstBig={true} posts={posts} />
 	</div>
 </BaseLayout>

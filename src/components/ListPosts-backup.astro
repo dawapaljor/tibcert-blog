@@ -8,14 +8,7 @@ type Props = {
 	FirstBig?: boolean
 }
 
-const { posts, FirstBig = false } = Astro.props;
-
-const sortedPosts = [...posts].sort((a,b) => {
-  // Let's say there's a `publishedAt` property in each post
-  const timestampA = new Date(a.data.pubDate).getTime();
-  const timestampB = new Date(b.data.pubDate).getTime();
-  return timestampB - timestampA;
-});
+const { posts, FirstBig = false } = Astro.props
 ---
 
 <section
@@ -25,7 +18,7 @@ const sortedPosts = [...posts].sort((a,b) => {
 	)}>
 	{
 		
-		sortedPosts.map(async (post) => {
+		posts.map(async (post) => {
 			const { remarkPluginFrontmatter } = await post.render()
 			return (
 				<PostCard
