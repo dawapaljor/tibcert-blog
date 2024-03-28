@@ -6,7 +6,7 @@ description: In the wake of exponential advancements in digital technology aroun
 comments: true
 tags: [5g, 5G cellular technology, Belt and Road initiative, BRI, Chinese security threat, Digital Silk Road, huawei, Reports, Tibet, wireless technology, zte]
 category: 'Reports'
-heroImage: '../../assets/sub-page.jpg'
+heroImage: '/assets/sub-page.jpg'
 ---
 ![](https://blog.tibcert.org/wp-content/uploads/2022/07/Chinese-5G-threat.webp)
 

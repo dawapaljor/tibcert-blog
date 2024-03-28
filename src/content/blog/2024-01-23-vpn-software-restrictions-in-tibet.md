@@ -6,7 +6,7 @@ description: དུས་རབས་གོང་མའི་སྤྱི་ལ�
 comments: true
 tags: [censorship, Great firewall of China, internet freedom, Reports, Splinternet, surveillance, vpn]
 category: 'Reports'
-heroImage: '../../assets/sub-page.jpg'
+heroImage: '/assets/sub-page.jpg'
 ---
 ![](https://blog.tibcert.org/wp-content/uploads/2024/01/image-2.png)
 

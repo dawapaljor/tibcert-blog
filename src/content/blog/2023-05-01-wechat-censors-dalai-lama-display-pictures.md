@@ -3,7 +3,7 @@ title: WeChat censors profile pictures displaying the Dalai Lama
 description: 'China’s oppressive laws and policies under its communist leadership of Xi Jinping have imposed strategic means equipped with latest trends in the digital and information technology sector to impose unjustified cruelty and injustice against the Tibetans'
 pubDate: 2023-05-01
 category: Reports
-heroImage: '../../assets/sub-page.jpg'
+heroImage: '/assets/sub-page.jpg'
 tags: [censorship, China, Dalai Lama, Propaganda, Reports, surveillance, Wechat, Weibo, Weixin]
 ---
 ![](https://blog.tibcert.org/wp-content/uploads/2023/05/China-propaganda-on-dalai-lama-2.png)

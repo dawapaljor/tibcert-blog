@@ -6,7 +6,7 @@ description: China’s digital economy is growing at an exponential rate that ca
 comments: true
 tags: [China, Cybersecurity law, Data Security law, Digital Economy, IoTs, Reports, Security threat]
 category: 'Reports'
-heroImage: '../../assets/sub-page.jpg'
+heroImage: '/assets/sub-page.jpg'
 ---
 ![](https://blog.tibcert.org/wp-content/uploads/2022/12/china-digital-economy-blog-post-1-min-1024x560.png)
 

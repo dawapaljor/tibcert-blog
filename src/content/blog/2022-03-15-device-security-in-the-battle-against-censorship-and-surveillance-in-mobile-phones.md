@@ -2,7 +2,7 @@
 title:	'Device Security in the Battle Against Censorship & Surveillance in Mobile Phones'
 description: 'We live in an era of digital revolution, where information access and exchange are just one click away from us, thanks to the internet and the rise of smartphones and other devices. But on the flip side of this marvelous revolution'
 pubDate: 2022-03-15
-heroImage: '../../assets/bg.jpg'
+heroImage: '/assets/bg.jpg'
 category: 'Reports'
 tags: [censorship, mobile security, privacy, Reports, security, surveillance, vpn]
 draft: False

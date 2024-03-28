@@ -2,7 +2,7 @@
 title:	Misinformation and Disinformation in the age of Social Media
 description: 'In the era of the 21st century, the dominance of the internet in our personal and professional lives cannot be denied. This is the age of information where people around the world can exchange facts, views, opinions and ideologies through a click of a button.'
 pubDate: 2022-05-02
-heroImage: '../../assets/bg.jpg'
+heroImage: '/assets/bg.jpg'
 category: 'Reports'
 tags: [50 cent army, disinformation, fakenews, identity theft, misinformation, Reports, social media, think before you share]
 draft: False

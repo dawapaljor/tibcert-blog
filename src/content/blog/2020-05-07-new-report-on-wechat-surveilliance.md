@@ -6,7 +6,7 @@ comments: true
 category: Reports
 tags:  [wechat]
 description: Citizen Lab has released a new report on how WeChat international users are unwittingly building up WeChat's Chinese Censorship Apparatus. You can read the full report here at
-heroImage: '../../assets/sub-page.jpg'
+heroImage: '/assets/sub-page.jpg'
 ---
 Citizen Lab has released a new report on how WeChat international users are unwittingly building up WeChat's Chinese Censorship Apparatus. You can read the full report here at: https://citizenlab.ca/2020/05/we-chat-they-watch/ TibCERT has translated the key takeaways which is available below in both Tibetan and English.
 

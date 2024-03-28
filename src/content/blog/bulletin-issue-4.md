@@ -3,7 +3,7 @@ title:	TibCERT Bulletin Issue 4
 description: 'The Tibetan Computer Emergency Readiness Team (TibCERT) is a formal, coalition-based structure for reducing and mitigating online threats in the Tibetan community, expanding Tibetans’ technical research capacity on threats in the diaspora, surveillance, and censorship inside Tibet, and ultimately ensuring greater online freedom and security for Tibetan society as a whole.'
 
 pubDate: 2020.05.21
-heroImage: '../../assets/sub-page.jpg'
+heroImage: '/assets/sub-page.jpg'
 category: 'Bulletin'
 tags: ['Bulletin']
 

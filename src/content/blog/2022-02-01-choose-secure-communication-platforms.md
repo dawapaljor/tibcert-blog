@@ -2,7 +2,7 @@
 title:	Wakeup call to choose secure communication platforms
 description: 'Syniverse is a telecom company which has roughly 1,250 corporate customers across 200 countries, including a vast majority of the world’s mobile carriers, such as AT&T, Verizon, T-Mobile, Vodafone, China Mobile, Airtel, Telefónica, and América Móvil.'
 pubDate: 1.2.2022
-heroImage: '../../assets/bg.jpg'
+heroImage: '/assets/bg.jpg'
 category: 'Reports'
 tags: ['cellular','communication','Data breach','end to end encrypted','hacking','Syniverse']
 draft: False

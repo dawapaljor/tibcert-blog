@@ -6,7 +6,7 @@ description: In this modern world which heavily relies on technology for geo-pol
 comments: true
 tags: [App Security, censorship, European Commission, Great firewall of China, Reports, Splinternet, surveillance, TikTok, TikTok Ban]
 category: 'Reports'
-heroImage: '../../assets/sub-page.jpg'
+heroImage: '/assets/sub-page.jpg'
 ---
 ![](https://blog.tibcert.org/wp-content/uploads/2023/04/TikTok-banned-countries.jpg)
 
