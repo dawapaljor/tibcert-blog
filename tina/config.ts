@@ -12,7 +12,7 @@ export default defineConfig({
 
   // Get this from tina.io
  // clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
- clientId: "ee5040e8-2364-4d34-952e-f17c44fe3435"
+ clientId: "ee5040e8-2364-4d34-952e-f17c44fe3435",
   // Get this from tina.io
   //token: process.env.TINA_TOKEN,
 
