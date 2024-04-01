@@ -90,4 +90,14 @@ token: "fa48ce3c17f99c499918bd1d7b1d592b847dcc6c",
       },
     ],
   },
+
+  search: {
+    tina: {
+      indexerToken: '2b381da012e7291b41bc9f9267b81cb5fab3c092',
+      stopwordLanguages: ['eng']
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100
+  },
+
 });
