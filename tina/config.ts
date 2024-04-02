@@ -8,7 +8,7 @@ const branch =
   "main";
 
 export default defineConfig({
-  branch: "main",
+  branch: process.env.VERCEL_GIT_COMMIT_REF || "",
 
   // Get this from tina.io
   //clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
