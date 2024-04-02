@@ -8,23 +8,21 @@ const branch =
   "main";
 
 export default defineConfig({
-  branch: main,
+  branch: "main",
 
   // Get this from tina.io
   //clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
-
-  clientId: "ee5040e8-2364-4d34-952e-f17c44fe3435",
+  clientId: process.env.TINA_CLIENT_ID || "",
   // Get this from tina.io
   //token: process.env.TINA_TOKEN,
-  token: "fa48ce3c17f99c499918bd1d7b1d592b847dcc6c",
-
+token: process.env.TINA_TOKEN || "",
   build: {
     outputFolder: "admin",
     publicFolder: "public",
   },
   media: {
     tina: {
-      mediaRoot: "",
+      mediaRoot: "public",
       publicFolder: "public",
     },
   },
@@ -64,7 +62,7 @@ export default defineConfig({
             label: "Category",
             required: true,
             options: ['Reports','Bulletin'],
-          }, 
+          },
           {
             label: 'Tags',
             name: 'tags',
@@ -90,15 +88,6 @@ export default defineConfig({
         ],
       },
     ],
+    
   },
-
-  search: {
-    tina: {
-      indexerToken: '2b381da012e7291b41bc9f9267b81cb5fab3c092',
-      stopwordLanguages: ['eng']
-    },
-    indexBatchSize: 100,
-    maxSearchIndexFieldLength: 100
-  },
-
 });
