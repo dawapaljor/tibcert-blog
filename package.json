@@ -30,14 +30,14 @@
 	},
 	"dependencies": {
 		"@astrojs/check": "^0.5.10",
-		"@astrojs/rss": "3.0.0",
-		"astro": "3.0.1",
+		"@astrojs/rss": "^4.0.5",
+		"astro": "^4.5.14",
 		"tinacms": "^1.6.1"
 	},
 	"devDependencies": {
-		"@astrojs/mdx": "^1.0.0",
-		"@astrojs/sitemap": "3.0.0",
-		"@astrojs/tailwind": "5.0.0",
+		"@astrojs/mdx": "^2.2.3",
+		"@astrojs/sitemap": "^3.1.2",
+		"@astrojs/tailwind": "^5.1.0",
 		"@pagefind/default-ui": "^0.12.0",
 		"@tailwindcss/typography": "0.5.9",
 		"@tinacms/cli": "^1.5.43",
