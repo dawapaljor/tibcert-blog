@@ -88,6 +88,13 @@ token: process.env.TINA_TOKEN || "",
         ],
       },
     ],
-    
+  },
+  search: {
+    tina: {
+      indexerToken: '0bc74cfd4c0f483b1997f717ca65f5c313339773',
+      stopwordLanguages: ['eng'],
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100,
   },
 });
