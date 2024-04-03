@@ -17,7 +17,7 @@
 	},
 	"scripts": {
 		"dev": "tinacms dev -c \"astro dev\"",
-		"build": "astro check && astro build",
+		"build": "tinacms build && astro build",
 		"start": "astro dev",
 		"sync": "astro sync",
 		"preview": "astro preview",
