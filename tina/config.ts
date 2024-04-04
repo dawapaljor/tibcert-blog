@@ -70,6 +70,74 @@ export default defineConfig({
             label: "Description",
           },
           {
+            type: "string",
+            name: "translation",
+            label: "Tibetan Translation link",
+          },
+          {
+            type: 'image',
+            label: 'Hero image',
+            name: 'heroImage',
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+      {
+        name: "boBlog",
+        label: "Tibetan",
+        path: "src/content/boBlog",
+        ui: {
+          filename: {
+            slugify: values => {
+              const postDate = values.pubDate ? new Date(values.pubDate) : new Date();
+              return `${postDate.toISOString().split("T")[0]}-${(values.title || "")
+                .toLowerCase()
+                .replace(/ /g, "-")}`.replace(/[^\w\.\/-\s]/gi, "");
+            }
+          }
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "datetime",
+            name: "pubDate",
+            label: "Date",
+          },
+          {
+            type: "string",
+            name: "category",
+            label: "Category",
+            required: true,
+            options: ['སྙན་ཐོ།','Bulletin'],
+          },
+          {
+            label: 'Tags',
+            name: 'tags',
+            type: 'string',
+            list: true,
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+          },
+          {
+            type: "string",
+            name: "translation",
+            label: "English Translation link",
+          },
+          {
             type: 'image',
             label: 'Hero image',
             name: 'heroImage',
@@ -83,6 +151,7 @@ export default defineConfig({
         ],
       },
     ],
+    
   },
   search: {
     tina: {

@@ -1,7 +1,7 @@
 ---
 title: Apple Censoring Tibetan Information in China
 pubDate: 2019-05-31T00:00:00.000Z
-category: Reports
+category: Bulletin
 tags:
   - apple
   - cencorship
@@ -9,7 +9,7 @@ description: >-
   Apple has a long history of censorship when it comes to information about
   Tibet. In 2009, it was
 heroImage: ''
-boTranslation: 'tibetan-slug'
+translation: tibetan-slug
 ---
 
 ![](/publichttps://blog.tibcert.org/wp-content/uploads/2019/05/unnamed-300x128.png)

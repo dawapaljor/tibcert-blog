@@ -5,12 +5,11 @@ import Code from '@/components/mdx/Code'
 import ListRelatedPosts from '@/components/ListRelatedPosts'
 import Share from '@/components/Share'
 import TableOfContents from '@/components/TableOfContents'
-import { getPosts } from '@/utils'
 import { getBoPosts } from '@/utils'
-const posts = await getCollection('blog')
+const posts = await getCollection('boBlog')
 
 	export async function getStaticPaths() {
-	const posts = await getPosts()
+	const posts = await getBoPosts()
 	return posts.map((post) => ({
 		params: { slug: post.slug },
 		props: post

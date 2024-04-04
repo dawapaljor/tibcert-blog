@@ -1,20 +1,32 @@
 ---
-title: Digital Economy of China and the growing security threat of its IoTs
-pubDate: 2022-12-23
 author: ltsetan
-description: China’s digital economy is growing at an exponential rate that can be challenged by few. The digital economy is any economic form that directly or indirectly uses data and information technology to guide resource distribution and improve productivity.
 comments: true
-tags: [China, Cybersecurity law, Data Security law, Digital Economy, IoTs, Reports, Security threat]
-category: 'Reports'
-heroImage: '/assets/sub-page.jpg'
+title: Digital Economy of China and the growing security threat of its IoTs
+pubDate: 2022-12-23T00:00:00.000Z
+category: Bulletin
+tags:
+  - China
+  - Cybersecurity law
+  - Data Security law
+  - Digital Economy
+  - IoTs
+  - Reports
+  - Security threat
+description: >-
+  China’s digital economy is growing at an exponential rate that can be
+  challenged by few. The digital economy is any economic form that directly or
+  indirectly uses data and information technology to guide resource distribution
+  and improve productivity.
+heroImage: /assets/sub-page.jpg
 ---
+
 ![](https://blog.tibcert.org/wp-content/uploads/2022/12/china-digital-economy-blog-post-1-min-1024x560.png)
 
 **བསྡོམས་ཚིག།**
 
-*   རྒྱ་ནག་གི་འཕྲུལ་རིགས་དཔལ་འབྱོར་ཚད་མཐོ་བོའི་ངང་ཡར་རྒྱས་འཐེབས་བཞིན་པ་དང་ཆབས་ཅིག་འཛམ་གླིང་ཡོངས་ཟོག་སྦྲེལ་དྲ་བ་ལ་སོགས་པའི་འཕྲུལ་རིགས་ཀྱི་བདེ་འཇགས་ལ་ཤུགས་རྐྱེན་ཚབས་ཆེན་ཐེབས་ཡོད། 
-*   རྒྱ་ནག་གི་ཐོན་སྐྱེད་བྱས་པའི་འཕྲུལ་ཆས་དང་། དངོས་པོའི་དྲ་སྦྲེལ། དྲ་རྒྱའི་རྨང་གཞིའི་སྒྲིག་བཀོད་བཅས་བེད་སྤྱད་དེ་ང་ཚོའི་དགྲ་བོ་རྣམས་ལ་སྔར་བྱུང་མ་མྱོང་བའི་ལྟ་སྐུལ་ཚོད་འཛིན་དང་ཞིབ་བཤེར་བྱེད་པའི་འཐབ་ཇུས་ཀྱི་ལེགས་ཆ་འདོན་སྤེལ་བྱས་ཡོད། 
-*   འཕྲུལ་རིགས་འཕྲོད་བསྟེན་གྱི་ལག་ལེན་ནི་ཆ་འཕྲིན་ལག་རྩལ་གྱི་དུས་རབས་སུ་ང་ཚོའི་ཆེད་ལས་དང་མི་སྒེར་གྱི་འཚོ་བའི་ནང་ཧ་ཅང་གལ་འགངས་ཆེ་བ་ཞིག་ཏུ་རྒྱུར་ཡོད།
+* རྒྱ་ནག་གི་འཕྲུལ་རིགས་དཔལ་འབྱོར་ཚད་མཐོ་བོའི་ངང་ཡར་རྒྱས་འཐེབས་བཞིན་པ་དང་ཆབས་ཅིག་འཛམ་གླིང་ཡོངས་ཟོག་སྦྲེལ་དྲ་བ་ལ་སོགས་པའི་འཕྲུལ་རིགས་ཀྱི་བདེ་འཇགས་ལ་ཤུགས་རྐྱེན་ཚབས་ཆེན་ཐེབས་ཡོད། 
+* རྒྱ་ནག་གི་ཐོན་སྐྱེད་བྱས་པའི་འཕྲུལ་ཆས་དང་། དངོས་པོའི་དྲ་སྦྲེལ། དྲ་རྒྱའི་རྨང་གཞིའི་སྒྲིག་བཀོད་བཅས་བེད་སྤྱད་དེ་ང་ཚོའི་དགྲ་བོ་རྣམས་ལ་སྔར་བྱུང་མ་མྱོང་བའི་ལྟ་སྐུལ་ཚོད་འཛིན་དང་ཞིབ་བཤེར་བྱེད་པའི་འཐབ་ཇུས་ཀྱི་ལེགས་ཆ་འདོན་སྤེལ་བྱས་ཡོད། 
+* འཕྲུལ་རིགས་འཕྲོད་བསྟེན་གྱི་ལག་ལེན་ནི་ཆ་འཕྲིན་ལག་རྩལ་གྱི་དུས་རབས་སུ་ང་ཚོའི་ཆེད་ལས་དང་མི་སྒེར་གྱི་འཚོ་བའི་ནང་ཧ་ཅང་གལ་འགངས་ཆེ་བ་ཞིག་ཏུ་རྒྱུར་ཡོད།
 
 རྒྱ་ནག་གི་འཕྲུལ་རིགས་དཔལ་འབྱོར་ཡར་རྒྱས་མྱུར་ཚད་འདི་འགྲན་ཐུབ་མཁན་ཉུང་ཤས་ལས་མེད། འཕྲུལ་རིགས་དཔལ་འབྱོར་ནི་ཐད་ཀར་རམ་གཞན་བརྒྱུད་ཀྱི་སྒོ་ནས་གནས་ཚུལ་དང་ཆ་འཕྲིན་ལག་རྩལ་བེད་སྤྱད་དེ་ཐོན་ཁུངས་བགོ་བཤའ་རྒྱག་པར་སློབ་སྟོན་དང་ཐོན་སྐྱེད་ནུས་ཤུགས་ཇེ་ཆེར་གཏོང་བའི་དཔལ་འབྱོར་གྱི་རྣམ་པ་ཞིག་ཏུ་རྒྱུར་ཡོད། ཁ་ཤས་ཀྱི་དཔལ་འབྱོར་གསར་པའམ་ཡང་ན་དྲ་རྒྱའི་དཔལ་འབྱོར་ཡང་ཟེར། མགྱོགས་མྱུར་དཔལ་འབྱོར་གསར་པ་འདི་རྒྱུད་རྒྱ་ནག་དཔལ་འབྱོར་གྱི་སྒུལ་ཤུགས་གལ་ཆེ་ཤོས་ཤིག་ཏུ་འགྱུར་བཞིན་ཡོད། རྒྱ་ནག་གི་འཕྲུལ་རིག་དཔལ་འབྱོར་དེ་རྒྱལ་ཁབ་ཀྱི་འཕེལ་རྒྱས་འཐབ་ཇུས་ཀྱི་འགག་རྩའི་མ་ལག་ཅིག་ཏུ་གྱུར་ནས་བྱ་དགའ་སྤྲོད་པ་དང་། སྲིད་ཇུས་གསར་པ། བཅའ་ཁྲིམས་གསར་པ་བཅས་ཀྱི་ལམ་ཕྱོགས་ཞིབ་ཕྲ་གཏན་འབེབས་བྱས་ཡོད། གནས་ཚུལ་མང་དག་ཞིག་དང་། སྤྲིན་རྩིས། ཟོག་སྦྲེལ་དྲ་བ། ལྕགས་སྒྲོག་དུམ་བུ། མིས་བཟོས་རིག་སྟོབས། 5G  དྲ་རྒྱའི་རྨང་གཞིའི་སྒྲིག་བཀོད་བཅས་ནི་འཕྲུལ་རིགས་དཔལ་འབྱོར་ཁྲོད་དུ་རྩ་བའི་ནུས་པ་ཐོན་པའི་ལག་རྩལ་ཡིན།
 
@@ -22,17 +34,15 @@ heroImage: '/assets/sub-page.jpg'
 
 འཕྲུལ་རིག་དངུལ་ལོར་འདི་དངོས་ཡོད་རྒྱ་སྒོར་དང་བཅའ་ཁྲིམས་ལྡན་པའི་ཐོག་དངུལ་སྤྲོད་ལེན་སོགས་ལོངས་སུ་སྤྱོད་རྒྱུ་ཡོད་པ་མ་ཟད། མང་ཚོགས་ལ་ཚོང་ལས་ཀྱི་གནས་ཚུལ་ཡོད་ཚད་ལ་སྤྱོད་ཆོག་པའི་ཡོངས་ཁྱབ་ཡོ་ཆས་ཞིག་ཏུ་རྒྱུར་ཡོད། རྒྱ་ནག་གི་ད་དུང་འཛམ་གླིང་ཐོག་གི་གཞི་ཁྱོན་ཆེ་ཤོས་དང་སྔོན་ཐོན་ཆེ་ཤོས་ཀྱི་དྲ་རྒྱའི་སྒྲིག་བཀོད་མང་པོའི་མཚན་སྙན་བསྐྲུན་ནས་ 5G གནས་གཞིའི་ས་ཚིགས་ཁྲི་ ༡༤༣  ཡས་མས་སུ་ 5G སྤྱོད་མཁན་ཁྲི་ ༥༠༠༠ ལྷག་ཙམ་ལེགས་གྲུབ་བྱུང་ཡོད། སྐབས་བཅུ་བཞི་པའི་ FYP ལེགས་འགྲུབ་ཡོང་བར་མཁོ་བའི་སྲིད་ཇུས་བསྒྱུར་བཅོས་བྱེད་པར་འབད་བརྩོན་ཆེན་པོ་ཁག་གཤམ་གསལ།
 
-*   "[**Fintech** འཕེལ་རྒྱས་འཆར་འགོད།](https://focus.cbbc.org/whats-in-chinas-fintech-development-plan-2022-2025/#:~:text=The%20new%20fintech%20development%20plan,digital%20banking%20and%20online%20insurance.)" ༢༠༢༢ - ༢༠༢༥ ལོའི་ནང་གཙོ་གནད་དུ་བཟུང་བ་ནི་རྒྱལ་ཡོངས་ཀྱི་དངུལ་རྩའི་ཞབས་ཞུ་འཕྲུལ་རིག་ཅན་དུ་འགྱུར་བར་སྐུལ་འདེད་གཏོང་རྒྱུ་དེ་ཡིན། ༢༠༢༢ ལོའི་ཟླ་༡ པོར་རྒྱ་ནག་མི་དམངས་དངུལ་ཁང་གིས་ཁྱབ་བསྒྲགས་བྱེད་ཡོད།
-*   "[ཤར་ཕྱོགས་ཀྱི་གནས་ཚུལ་དང་ནུབ་ཕྱོགས་རྩིས་རྒྱག་](https://en.pingwest.com/a/9940)"གིས་ས་ཁོངས་རང་བཞིན་གྱི་ལྟེ་གནས་བཞི་གསར་སྐྲུན་བྱས་ནས་རྩིས་རྒྱག་ནུས་པའི་མཁོ་སྤྲོད་ཐད་ཀྱི་འགྲན་སློང་ལ་ཁ་གཏད་འཇལ་བ་དང་། རྒྱལ་ཁབ་ཀྱི་སྤྱིའི་འཕྲུལ་རིག་ནུས་པ་ཆེ་རུ་གཏོང་དགོས་པ་དང་། ༢༠༢༢ ལོའི་ཟླ་༢ པར་འགྲེམས་སྤེལ་བྱས་འདུག།
-
-*   "[གནས་ཚུལ་ཕྱིར་གཏོང་བདེ་འཇགས་དཔྱད་དཔོག་བྱེད་ཐབས།](https://www.dataguidance.com/news/china-cac-issues-data-export-security-assessment)" དེ་རྒྱུད་རྒྱལ་མཚམས་ལས་བརྒལ་བའི་གནས་ཚུལ་སྤོ་སྒྱུར་གྱི་བདེ་འཇགས་ཞིབ་བཤེར་དང་། རྒྱ་ནག་གི་དྲ་རྒྱའི་ཁོར་ཡུག་དོ་དམ་པའི་ ༢༠༢༢ ལོའི་ཟླ་ ༧ པའི་ནང་ཁྱབ་བསྒྲགས་བྱས་པ་རེད།
+* "[**Fintech** འཕེལ་རྒྱས་འཆར་འགོད།](https://focus.cbbc.org/whats-in-chinas-fintech-development-plan-2022-2025/#:~:text=The%20new%20fintech%20development%20plan,digital%20banking%20and%20online%20insurance.)" ༢༠༢༢ - ༢༠༢༥ ལོའི་ནང་གཙོ་གནད་དུ་བཟུང་བ་ནི་རྒྱལ་ཡོངས་ཀྱི་དངུལ་རྩའི་ཞབས་ཞུ་འཕྲུལ་རིག་ཅན་དུ་འགྱུར་བར་སྐུལ་འདེད་གཏོང་རྒྱུ་དེ་ཡིན། ༢༠༢༢ ལོའི་ཟླ་༡ པོར་རྒྱ་ནག་མི་དམངས་དངུལ་ཁང་གིས་ཁྱབ་བསྒྲགས་བྱེད་ཡོད།
+* "[ཤར་ཕྱོགས་ཀྱི་གནས་ཚུལ་དང་ནུབ་ཕྱོགས་རྩིས་རྒྱག་](https://en.pingwest.com/a/9940)"གིས་ས་ཁོངས་རང་བཞིན་གྱི་ལྟེ་གནས་བཞི་གསར་སྐྲུན་བྱས་ནས་རྩིས་རྒྱག་ནུས་པའི་མཁོ་སྤྲོད་ཐད་ཀྱི་འགྲན་སློང་ལ་ཁ་གཏད་འཇལ་བ་དང་། རྒྱལ་ཁབ་ཀྱི་སྤྱིའི་འཕྲུལ་རིག་ནུས་པ་ཆེ་རུ་གཏོང་དགོས་པ་དང་། ༢༠༢༢ ལོའི་ཟླ་༢ པར་འགྲེམས་སྤེལ་བྱས་འདུག།
+* "[གནས་ཚུལ་ཕྱིར་གཏོང་བདེ་འཇགས་དཔྱད་དཔོག་བྱེད་ཐབས།](https://www.dataguidance.com/news/china-cac-issues-data-export-security-assessment)" དེ་རྒྱུད་རྒྱལ་མཚམས་ལས་བརྒལ་བའི་གནས་ཚུལ་སྤོ་སྒྱུར་གྱི་བདེ་འཇགས་ཞིབ་བཤེར་དང་། རྒྱ་ནག་གི་དྲ་རྒྱའི་ཁོར་ཡུག་དོ་དམ་པའི་ ༢༠༢༢ ལོའི་ཟླ་ ༧ པའི་ནང་ཁྱབ་བསྒྲགས་བྱས་པ་རེད།
 
 འཕྲུལ་རིག་དཔལ་འབྱོར་ལ་མི་མངོན་པའི་སྟོབས་ཤུགས་ཧ་ཅང་ཆེན་པོ་ཡོད་མོད། འོན་ཀྱང་དེ་ནི་ནམ་ཡང་འཇའ་ཚོན་དང་ཕྱེ་མ་ལེབ་ལྟར་མིན། འཛམ་གླིང་ཡོངས་ཀྱི་ཁྱབ་ཁོངས་སུ་གནས་ཚུལ་མང་དག་ཞིག་དང་། 5G དང་། མིའི་ཐབས་ཀྱི་རིགས་ནུས། ཟོག་སྦྲེལ་དྲ་བ་སོགས་ཚད་ལྡན་མིན་པའི་སྒོ་ནས་སྤྱོད་པའི་རྒྱུད།  མི་རྣམས་ཀྱིས་སྐུད་ཡོད་གསང་དོན་དང་། འཕྲུལ་རིགས་བདེ་འཇགས། ཞིབ་བཤེར། ལྟ་སྐུལ་ཚོད་འཛིན་བཅས་ཀྱི་འཕྲུལ་རིག་བདེ་འཇགས་ལ་ཤུགས་རྐྱེན་ཐེབས་ཡོད་ལ།  རྒྱལ་ཁབ་ཅིག་གི་དྲ་སྦྲེལ་དཔལ་འབྱོར་འཕར་ཚད་དེ་འཛམ་གླིང་ཡོངས་ཀྱི་དྲ་སྦྲེལ་དཔལ་འབྱོར་ལ་ཚད་མཐོའི་བརྟེན་པ་དང་། རྒྱལ་སྤྱིའི་ལྟ་སྐུལ་དོ་དམ་ལས་ཁུངས་རྒྱུད་ཚད་ལྡན་ཅན་དུ་འགྱུར་རོ། གལ་ཏེ་རྒྱལ་ཁབ་ཅིག་གིས་འཛམ་གླིང་ཡོངས་ཀྱི་འཕྲུལ་རིག་དཔལ་འབྱོར་ཁྲིམས་མཐུན་ངང་རྒྱ་སྐྱེད་གཏོང་འདོད་ཡོད་ན། འཕྲུལ་རིག་ཀུན་སྤྱོད་ནི་མེད་དུ་མི་རུང་བའི་གནས་འདོན་ཞིག་ཡིན། འོན་ཀྱང་རྒྱ་ནག་གིས་ལྟ་སྐུལ་དོ་དམ་བྱེད་པའི་འབད་བརྩོན་མང་ཆེ་བ་ནི་རྒྱུ་རྐྱེན་མང་པོ་ཞིག་གི་དབང་གིས་རྩོད་གླེང་ཞིག་ཏུ་བསྒྱུར་ཡོད། རྒྱ་ནག་ཕྱོགས་ཀྱིས་འཕྲུལ་རིག་དཔལ་འབྱོར་སྐོར་གྱི་ལྟ་སྐུལ་དོ་དམ་གྱི་བཅའ་ཁྲིམས་དང་སྲིད་ཇུས་ལག་བསྟར་ནུས་ལྡན་བྱས་ཏེ་ཉེན་ཁའི་ལས་སྒོ་འམ་ཚོང་ལས་དེ་དག་སྲིད་གཞུང་གི་ཚོད་འཛིན་འོག་ཏུ་འཇོག་དགོས།
 
-*   ༢༠༡༧ ལོའི་ཟླ་ ༦ པར་ཁྱབ་བསྒྲགས་བྱས་པའི་"**དྲ་རྒྱའི་བདེ་འཇགས་བཅའ་ཁྲིམས།**"ཀྱི་འདོད་ཚུལ་ལྟར་ན། གཞི་གྲངས་སྲུང་སྐྱོང་དང་གཞི་གྲངས་ས་གནས་ཅན་དུ་འགྱུར་བར་དམིགས་ནས་རྒྱལ་ཁབ་ཀྱི་དྲ་རྒྱའི་བདེ་འཇགས་ཁྲིམས་འཛུགས་ལ་ཤུགས་སྣོན་ཧུར་ཐག་རྒྱག་དགོས། འོན་ཀྱང་བཅའ་ཁྲིམས་འདིའི་བླང་བྱ་ལྟར་དྲ་རྒྱ་གཉེར་སྐྱོང་བྱེད་མཁན་གྱིས་རྒྱ་ནག་གསང་འཕྲིན་ལས་ཁུངས་དང་མཉམ་ལས་བྱས་ནས་བླང་བྱ་ལྟར་དབང་འཛིན་ལས་ཁུངས་ལ་གཞི་གྲངས་ཡོངས་རྫོགས་ཐོབ་ཏུ་འཇུག་དགོས།
-
-*   ༢༠༢༡ ལོའི་ཟླ་ ༢ པར་ཁྱབ་བསྒྲགས་བྱས་པའི་"**སྒེར་སྡེམ་ལ་ངོ་རྒོལ་བྱེད་པའི་ཕྱོགས་སྟོན་གསར་པ།**"དེས་ཚན་རྩལ་མི་སྣས་སྒེར་སྡེམ་གྱི་བྱ་སྤྱོད་བཀག་འགོག་བྱས་ནས་དྲང་གཞག་འགྲན་རྩོད་ལ་བསྔགས་སྐུལ་དང་འཛད་སྤྱོད་པར་སྲུང་སྐྱོབ་བྱེད་ཀྱིན་ཡོད། དོན་དངོས་ཐོག། Alibaba, Tencent, JD.com དང་། Xiaomi སོགས་ཚན་རྩལ་མི་སྣ་ཆེན་པོ་དེ་དག་གི་སྟོབས་ཤུགས་རང་ཉིད་ཀྱི་ལག་ཏུ་བཟུང་ནས་རྒྱ་ནག་གི་སློབ་སྟོན་བྱེད་ཕྱོགས་གསར་པའི་བསམ་བློ་ལྟར་འཐུན་དགོས།  
-*   ༢༠༢༡ ལོའི་ཟླ་ ༦ པ་ནས་ལག་བསྟར་བྱས་པའི་"**གཞི་གྲངས་བདེ་འཇགས་བཅའ་ཁྲིམས་**"ནི་རྒྱ་ནག་གི་ཆ་འཕྲིན་བདེ་འཇགས་དང་གཞི་གྲངས་གསང་དོན་སྲུང་སྐྱོང་བཅའ་ཁྲིམས་ཀྱི་སྒྲོམ་གཞི་གསར་པ་ཞིག་ཡིན། བཅའ་ཁྲིམས་འདིས་གཞི་གྲངས་ས་གནས་ཅན་དང་། ཕྱིར་གཏོང་། སྲུང་སྐྱོབ་བཅས་ཀྱི་བླང་བྱར་དམིགས་ཡོད་པ་གསལ་ཡོད་མོད། འོན་ཀྱང་དེ་ལས་ལྡོག་སྟེ་ཕྱི་རྒྱལ་གྱི་སྤྱོད་མཁན་གྱིས་དྲ་རྒྱའི་སྟེགས་བུའི་ཐོག་གཞི་གྲངས་ས་གནས་ཅན་དུ་འགྱུར་བར་བཀག་འགོག་བྱས་ཡོད་ལ། སླད་གཞི་གྲངས་ཆེན་པོ་དང་ལྟ་སྐུལ་ཚོད་འཛིན་གྱི་ལག་རྩལ་ལ་བརྟེན་ནས་ས་ཁམས་ཆབ་སྲིད་ཀྱི་ལེགས་ཆ་འདོན་སྤེལ་བྱ་རྒྱུ་ནི་ཁོ་ཚོའི་འཐབ་ཇུས་ཡིན།
+* ༢༠༡༧ ལོའི་ཟླ་ ༦ པར་ཁྱབ་བསྒྲགས་བྱས་པའི་"**དྲ་རྒྱའི་བདེ་འཇགས་བཅའ་ཁྲིམས།**"ཀྱི་འདོད་ཚུལ་ལྟར་ན། གཞི་གྲངས་སྲུང་སྐྱོང་དང་གཞི་གྲངས་ས་གནས་ཅན་དུ་འགྱུར་བར་དམིགས་ནས་རྒྱལ་ཁབ་ཀྱི་དྲ་རྒྱའི་བདེ་འཇགས་ཁྲིམས་འཛུགས་ལ་ཤུགས་སྣོན་ཧུར་ཐག་རྒྱག་དགོས། འོན་ཀྱང་བཅའ་ཁྲིམས་འདིའི་བླང་བྱ་ལྟར་དྲ་རྒྱ་གཉེར་སྐྱོང་བྱེད་མཁན་གྱིས་རྒྱ་ནག་གསང་འཕྲིན་ལས་ཁུངས་དང་མཉམ་ལས་བྱས་ནས་བླང་བྱ་ལྟར་དབང་འཛིན་ལས་ཁུངས་ལ་གཞི་གྲངས་ཡོངས་རྫོགས་ཐོབ་ཏུ་འཇུག་དགོས།
+* ༢༠༢༡ ལོའི་ཟླ་ ༢ པར་ཁྱབ་བསྒྲགས་བྱས་པའི་"**སྒེར་སྡེམ་ལ་ངོ་རྒོལ་བྱེད་པའི་ཕྱོགས་སྟོན་གསར་པ།**"དེས་ཚན་རྩལ་མི་སྣས་སྒེར་སྡེམ་གྱི་བྱ་སྤྱོད་བཀག་འགོག་བྱས་ནས་དྲང་གཞག་འགྲན་རྩོད་ལ་བསྔགས་སྐུལ་དང་འཛད་སྤྱོད་པར་སྲུང་སྐྱོབ་བྱེད་ཀྱིན་ཡོད། དོན་དངོས་ཐོག། Alibaba, Tencent, JD.com དང་། Xiaomi སོགས་ཚན་རྩལ་མི་སྣ་ཆེན་པོ་དེ་དག་གི་སྟོབས་ཤུགས་རང་ཉིད་ཀྱི་ལག་ཏུ་བཟུང་ནས་རྒྱ་ནག་གི་སློབ་སྟོན་བྱེད་ཕྱོགས་གསར་པའི་བསམ་བློ་ལྟར་འཐུན་དགོས།  
+* ༢༠༢༡ ལོའི་ཟླ་ ༦ པ་ནས་ལག་བསྟར་བྱས་པའི་"**གཞི་གྲངས་བདེ་འཇགས་བཅའ་ཁྲིམས་**"ནི་རྒྱ་ནག་གི་ཆ་འཕྲིན་བདེ་འཇགས་དང་གཞི་གྲངས་གསང་དོན་སྲུང་སྐྱོང་བཅའ་ཁྲིམས་ཀྱི་སྒྲོམ་གཞི་གསར་པ་ཞིག་ཡིན། བཅའ་ཁྲིམས་འདིས་གཞི་གྲངས་ས་གནས་ཅན་དང་། ཕྱིར་གཏོང་། སྲུང་སྐྱོབ་བཅས་ཀྱི་བླང་བྱར་དམིགས་ཡོད་པ་གསལ་ཡོད་མོད། འོན་ཀྱང་དེ་ལས་ལྡོག་སྟེ་ཕྱི་རྒྱལ་གྱི་སྤྱོད་མཁན་གྱིས་དྲ་རྒྱའི་སྟེགས་བུའི་ཐོག་གཞི་གྲངས་ས་གནས་ཅན་དུ་འགྱུར་བར་བཀག་འགོག་བྱས་ཡོད་ལ། སླད་གཞི་གྲངས་ཆེན་པོ་དང་ལྟ་སྐུལ་ཚོད་འཛིན་གྱི་ལག་རྩལ་ལ་བརྟེན་ནས་ས་ཁམས་ཆབ་སྲིད་ཀྱི་ལེགས་ཆ་འདོན་སྤེལ་བྱ་རྒྱུ་ནི་ཁོ་ཚོའི་འཐབ་ཇུས་ཡིན།
 
 རྒྱ་ནག་གི་ཁེ་ལས་པ་ཀྱང་ཟོག་སྦྲེལ་དྲ་བའི་འཕེལ་རྒྱས་ནང་འཛམ་གླིང་ཡོངས་ཀྱི་སྔོན་ཐོན་པ་ཞིག་ཏུ་འགྱུར་བཞིན་ཡོད། (འབྲེལ་མཐུད་རླངས་འཁོར་དང་། རིག་ནུས་ཁྱིམ་སྤྱོད་སྒྲིག་ཆས། འབྲེལ་མཐུད་བཟོ་ལས་སྒྲིག་ཆས་བཅས་)འཕེལ་རྒྱས་གཏོང་བཞིན་ཡོད། ད་ལྟའི་དྲ་རྒྱ་ནི་འབྲེལ་གཏུག་བྱེད་ས་ཙམ་མ་ཡིན་པར་དྲ་རྒྱའི་བར་སྟོང་བརྒྱུད་ནས་ཚོད་འཛིན་བྱེད་པའི་དངོས་ཡོད་འཇིག་རྟེན་གྱི་ནུས་པ་ལྡན་པའི་ "དངོས་པོ་" འཛུགས་སྐྲུན་བྱེད་པའི་བླང་བྱ་མཐོ་བའི་རྒྱུ་རྐྱེན་ཞིག་ཏུ་བསྒྱུར་ཡོད། འདི་ལྟ་བུའི་དྲ་སྦྲེལ་འབྲེལ་མཐུད་བྱ་དངོས་ཀྱི་གཞི་ཁྱོན་ཆེ་བའི་དངོས་ཡོད་འཇིག་རྟེན་གྱི་ཤུགས་རྐྱེན་ཐེབས་པའི་རྐྱེན་གྱིས་མི་སྒེར་དང་། དངོས་ཚན། སྤྱི་ཚོགས་བཅས་ཉིན་རེ་བཞིན་ཟོག་སྦྲེལ་དྲ་བའི་ནང་འཇུག་རྒྱུ་ཡིན་པ་མངོན་གསལ་རེད། རྩིས་ཀྱི་ཐོག་ནས་བཤད་ན། གསར་དར་དྲ་སྦྲེལ་དང་འབྲེལ་མཐུད་བྱེད་པའི་ལག་རྩལ་སྐྱེ་ཁམས་མ་ལག་འདི་རིགས་ཇུས་འགོད་དང་། བགོ་བཤའ། ལྟ་སྐུལ་དོ་དམ་བཅས་བྱེད་པར་ཤུགས་རྐྱེན་ཐེབས་མཁན་ལ་རྟག་ཏུ་གྲུབ་ཚུལ་གྱི་ལེགས་ཆ་ལྡན་པ་རེད། ༢༠༢༠ ལོར་སླེབས་སྐབས་འཛམ་གླིང་ཡོངས་སུ་ཟོག་སྦྲེལ་དྲ་བའི་འབྲེལ་མཐུད་བྱེད་ཚད་དུང་ཕྱུར་ ༡༢༠ ཟིན་པ་དང་། སྔོན་དཔག་བྱས་ན་ ༢༠༣༠ ལོར་སླེབས་སྐབས་མི་གྲངས་དུང་ཕྱུར་ ༡༢༥༠ ལ་སླེབས་རྒྱུ་རེད།
 
@@ -44,29 +54,23 @@ heroImage: '/assets/sub-page.jpg'
 
 **Key takeaways :** 
 
-*   The exponential growth of China’s digital economy with its ever growing IoTs pose serious security implications to the world. 
-
-*   Using Chinese devices, IoTs and network infrastructures gives our adversary a strategic advantage of unleashing their unprecedented surveillance and censorship against us.
-
-*   In the era of information technology, the practice of digital hygiene in our professional and personal lives is very essential. 
+* The exponential growth of China’s digital economy with its ever growing IoTs pose serious security implications to the world. 
+* Using Chinese devices, IoTs and network infrastructures gives our adversary a strategic advantage of unleashing their unprecedented surveillance and censorship against us.
+* In the era of information technology, the practice of digital hygiene in our professional and personal lives is very essential. 
 
 China’s digital economy is growing at an exponential rate that can be challenged by few. The digital economy is any economic form that directly or indirectly uses data and information technology to guide resource distribution and improve productivity. It is also referred to as the new economy or internet economy. This new economy of China is swiftly becoming one of the most crucial driving forces for its national economy. China has made the digital economy a critical part of its national development strategy and has developed a detailed roadmap with incentives, new policies and laws to speed up the sector which also presents a range of dynamic growth and investment opportunities. Big data, cloud computing, the Internet of Things, blockchain, artificial intelligence, 5G network infrastructures are the technologies playing a fundamental role in the digital economy. 
 
 The 14th FYP (Five-Year Plan) released on 11th March, 2021 will be focused more on enhancing some strategic areas namely, sensors, digital supply chain of logistics, quantum information, communications, integrated circuits, and blockchain, as well as pushing for technologies like 6G. China’s digital currency, the [digital yuan or e-CNY](https://www.china-briefing.com/news/chinas-digital-yuan-status-roll-out-impact-businesses/), is the first state-led effort to implement a digitized payment mechanism. The digital yuan enjoys the same legal status as physical yuan and provides the public with a universal payment tool that can be used in all commercial scenarios. China has also built a reputation for many of the world’s largest and most advanced network facilities with around 1.43 million 5G base stations being completed with more than 50 million 5G users. Huge efforts are being made to bring policy changes required for the success of the 14th FYP which include : 
 
-*   “[**Fintech Development Plan**](https://focus.cbbc.org/whats-in-chinas-fintech-development-plan-2022-2025/#:~:text=The%20new%20fintech%20development%20plan,digital%20banking%20and%20online%20insurance.)” for the year (2022-2025) which is focused on bringing a digital transformation of financial services in the country. It was released by the People's Bank of China in January 2022.
-
-*   “[**Eastern Data, Western Computing**](https://en.pingwest.com/a/9940)” to create four regional hubs to address challenges in supply and demand of computing capacity to uplift the overall digital capacity of the country. It was released in February 2022. 
-
-*   “[**Measures for Data Export Security Assessment**](https://www.dataguidance.com/news/china-cac-issues-data-export-security-assessment)” to do security reviews for cross-border data transfer. It was released in July, 2022 by the Cyberspace Administration of China (CAC) 
+* “**[Fintech Development Plan](https://focus.cbbc.org/whats-in-chinas-fintech-development-plan-2022-2025/#:~:text=The%20new%20fintech%20development%20plan,digital%20banking%20and%20online%20insurance.)**” for the year (2022-2025) which is focused on bringing a digital transformation of financial services in the country. It was released by the People's Bank of China in January 2022.
+* “**[Eastern Data, Western Computing](https://en.pingwest.com/a/9940)**” to create four regional hubs to address challenges in supply and demand of computing capacity to uplift the overall digital capacity of the country. It was released in February 2022. 
+* “**[Measures for Data Export Security Assessment](https://www.dataguidance.com/news/china-cac-issues-data-export-security-assessment)**” to do security reviews for cross-border data transfer. It was released in July, 2022 by the Cyberspace Administration of China (CAC) 
 
 Even Though there is this great potential in the digital economy, it isn’t always rainbows and butterflies. Globally there is also a growing shift in the awareness regarding cybersecurity implications relating to online privacy, data security, censorship and surveillance through the unregulated use of big data, 5G, AI and IoTs. Internet economy growth of one country is highly dependent on the global internet economy with its standardization through international regulatory boards. Digital ethics also play an essential role if a country is willing to legitimately expand their digital economy across the globe. However much of the regulatory efforts made by the CCP are controversial for many reasons. China has forcefully implemented regulatory laws and policies regarding digital economy to keep these ventures under their government’s control which are as follows : 
 
-*   **“Cybersecurity Law”** released in June, 2017 claims to aim for data protection, data localization, for an effort to strengthen national cyber security legislation.However this law requires network operators to cooperate with Chinese intelligence agencies and allow full access to data to the authorities upon request. 
-
-*   “**New anti-monopoly guidelines**” released in Feb, 2021 which claims to curb monopolistic behaviors by tech giants to encourage fair competition and safeguard consumers. In reality these new guidelines are to retain the power of these tech giants such as Alibaba, Tencent, JD.com and Xiaomi into their own hands and impose decisions that are in line with CCP’s ideologies and global image.  
-
-*   “**Data Security Law**” implemented from June 2021 claims to be a new pillar of China’s legal framework on information security and data privacy protection. This law apparently focuses on data localization, export and protection requirements but on the contrary, it also implies data localisation of foreign users on their internet platforms and to prohibit the export of data without completing a cyber security review by the authorities. It is their strategy to protect its national security and also to have geopolitical advantage through big data and surveillance technologies in the future.     
+* **“Cybersecurity Law”** released in June, 2017 claims to aim for data protection, data localization, for an effort to strengthen national cyber security legislation.However this law requires network operators to cooperate with Chinese intelligence agencies and allow full access to data to the authorities upon request. 
+* “**New anti-monopoly guidelines**” released in Feb, 2021 which claims to curb monopolistic behaviors by tech giants to encourage fair competition and safeguard consumers. In reality these new guidelines are to retain the power of these tech giants such as Alibaba, Tencent, JD.com and Xiaomi into their own hands and impose decisions that are in line with CCP’s ideologies and global image.  
+* “**Data Security Law**” implemented from June 2021 claims to be a new pillar of China’s legal framework on information security and data privacy protection. This law apparently focuses on data localization, export and protection requirements but on the contrary, it also implies data localisation of foreign users on their internet platforms and to prohibit the export of data without completing a cyber security review by the authorities. It is their strategy to protect its national security and also to have geopolitical advantage through big data and surveillance technologies in the future.     
 
 Chinese firms are also becoming the global leaders in the development of IoT applications (connected cars, smart home devices, connected industrial equipment) and push new advances in the underlying infrastructure on which the internet itself is operated. The internet nowadays isn't just a medium of communication but rather a demanding factor to build “things” with real world functions controlled through cyberspace. Due to large scale real world implications of such internet connected things, it is evident that individuals, entities and societies will increasingly be embedded in the IoT. Statistically those who influence the design, distribution and regulation of such emerging internet-connected technological ecosystems often have structural advantage to define and control other nations, often without exerting power or intrusion activities. There are 12 billion IoT connections worldwide by 2020 and the number is expected to go further up to 125 billion by 2030.
 

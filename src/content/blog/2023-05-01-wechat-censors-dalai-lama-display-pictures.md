@@ -1,11 +1,25 @@
 ---
 title: WeChat censors profile pictures displaying the Dalai Lama
-description: 'China’s oppressive laws and policies under its communist leadership of Xi Jinping have imposed strategic means equipped with latest trends in the digital and information technology sector to impose unjustified cruelty and injustice against the Tibetans'
-pubDate: 2023-05-01
-category: Reports
-heroImage: '/assets/sub-page.jpg'
-tags: [censorship, China, Dalai Lama, Propaganda, Reports, surveillance, Wechat, Weibo, Weixin]
+pubDate: 2023-05-01T00:00:00.000Z
+category: Bulletin
+tags:
+  - censorship
+  - China
+  - Dalai Lama
+  - Propaganda
+  - Reports
+  - surveillance
+  - Wechat
+  - Weibo
+  - Weixin
+description: >-
+  China’s oppressive laws and policies under its communist leadership of Xi
+  Jinping have imposed strategic means equipped with latest trends in the
+  digital and information technology sector to impose unjustified cruelty and
+  injustice against the Tibetans
+heroImage: /assets/sub-page.jpg
 ---
+
 ![](https://blog.tibcert.org/wp-content/uploads/2023/05/China-propaganda-on-dalai-lama-2.png)
 
 ཞིས་ཅིན་ཕིང་གིས་གུང་ཁྲན་རིང་ལུགས་ཀྱིས་འགོ་ཁྲིད་བྱེད་པའི་རྒྱ་ནག་གི་གཉའ་གནོན་བཅའ་ཁྲིམས་དང་སྲིད་ཇུས་ཀྱིས་འཕྲུལ་རིག་ལག་རྩལ་དང་ཆ་འཕྲིན་ལག་རྩལ་ཁྱབ་ཁོངས་ཀྱི་འཕེལ་ཕྱོགས་གསར་ཤོས་བཀོད་སྒྲིག་བྱེད་པའི་འཐབ་ཇུས་འོག་ནས་བོད་རིགས་ལ་རྒྱུ་མཚན་མེད་པའི་གདུག་རྩུབ་དང་བཙན་འགེལ་བྱས་པ་དང་། ངོ་བོའི་ཐོག་ནས་བཤད་ན་རིག་གནས་གསར་བརྗེ་དང་ཞི་བས་བཅིངས་འགྲོལ་གཏོང་བར་ཁ་གཡར་ནས་བོད་ཀྱི་ཆོས་ལུགས་དང་། སྐད་རིགས། རིག་གནས་བཅས་མེད་པ་བཟོས་པའི་དམིགས་ཡུལ་བཅང་ཡོད། འཕྲུལ་རིག་དཔལ་འབྱོར་ཁྱབ་ཁོངས་ཀྱི་ཡར་ཐོན་ཉིན་རེ་བཞིན་ཇེ་ཆེར་འགྲོ་བ་དང་ཆབས་ཅིག་ཁོང་ཚོས་ད་དུང་འཕྲུལ་རིག་ཀུང་སི་ཆེན་པོ་དག་ལ་དྲ་རྒྱའི་སྟེགས་བུར་དུས་བཀག་ལྟར་ཞིབ་བཤེར་བྱས་ནས་སྲིད་གཞུང་གི་གཏན་འབེབས་ལ་བརྩི་སྲུང་ཞུ་དགོས་པའི་་ཁྲིམས་འཛུགས་བྱེད་ཡོད། ཁོ་ཚོས་ཆབ་སྲིད་ཀྱི་ཚོར་བ་སྐྱེན་པའི་ཆ་འཕྲིན་ལ་ཞིབ་བཤེར་བྱས་ནས་སྲིད་དབང་གི་ས་ཁམས་ཆབ་སྲིད་ཀྱི་བལྟས་ཕྱོགས་དང་གོ་ཆོད་པའི་རང་བཞིན་ལ་གནོད་འཚེ་གཏོང་སྲིད་པ་ཕུད། ཁོ་ཚོས་ད་དུང་ WeChat དང་ TikTok སོགས་སྤྱི་ཚོགས་དྲ་རྒྱའི་སྟེགས་བུ་འདི་དག་བརྒྱུད་རང་གི་མི་དམངས་དང་ཆབ་སྲིད་ཀྱི་གྲངས་ཉུང་མི་རིགས་ལ་[ལྟ་སྐུལ་ཚོད་འཛི](https://www.terminologue.org/TibCERT/?q=%E0%BD%A3%E0%BE%9F%E0%BC%8B%E0%BD%A6%E0%BE%90%E0%BD%B4%E0%BD%A3%E0%BC%8B%E0%BD%9A%E0%BD%BC%E0%BD%91%E0%BC%8B%E0%BD%A0%E0%BD%9B%E0%BD%B2%E0%BD%93%E0%BC%8D)ན་བྱེད་མུས་ཡིན།
@@ -14,20 +28,20 @@ tags: [censorship, China, Dalai Lama, Propaganda, Reports, surveillance, Wechat,
 
 ![](https://blog.tibcert.org/wp-content/uploads/2023/05/image.png)
 
-_Fig_: རྒྱ་ནག་ཕྱི་རོལ་དུ་སྐད་འཕྲིན་སྤྱོད་མཁན་དག་ལའང་པར་རིས་་ཞིབ་བཤེར་བྱེད་པ།
+*Fig*: རྒྱ་ནག་ཕྱི་རོལ་དུ་སྐད་འཕྲིན་སྤྱོད་མཁན་དག་ལའང་པར་རིས་་ཞིབ་བཤེར་བྱེད་པ།
 
 ཉེ་ལམ་བདུན་ཕྲག་འགས་སྔོན་ལ་༧གོང་ས་མཆོག་དང་རྒྱ་གར་གྱི་བྱིས་པ་ཆུང་ཆུང་ཞིག་གཅིག་ལན་གཅིག་འཇལ་གནང་བཞིན་པའི་བརྙན་དུམ་གཡོ་བཀོལ་བྱས་པ་ཞིག་ཁྱབ་གདལ་མྱུར་པོ་ཕྱིན་པའི་རྗེས་སུ། བོད་རིགས་དང་བོད་དོན་ལ་རྒྱབ་སྐྱོར་བྱེད་མཁན་མང་པོ་ཞིག་གིས་འཛམ་གླིང་ས་ཕྱོགས་གང་སར་ནས་ད་ལན་སྐུ་མདུན་ལ་བརྙན་དུམ་འདི་ཐོག་དམའ་འབེབས། སྐྱོན་བརྗོད། མཚན་མེད་ཞུ་བ་ལ་མཐའ་གཅིག་ཏུ་དགག་པ་དང་གདུང་སེམས་མཉམ་སྐྱེད་ཀྱི་ངོ་རྒོལ་བྱེད་ཡོད། དོན་དངོས་སུ་རྙན་ཐུང་གི་རིང་ཐུང་ནི་སྐར་མ་བཅུ་བདུན་ཅན་ཞིག་ཡོད་ལ་སྐབས་དེར་སྤྱི་ནོར་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ལ་རྒྱ་གར་གྱི་གྲོང་ཁྱེར་ཧ་རི་ཡ་ནར་རྟེན་གཞི་བྱས་པའི་ M3M ཐེབས་རྩས་ཇི་ལྟར་གསོལ་འདེབས་ཞུས་པ་བཞིན། ཕྱི་ཟླ་༢ ཚེས་ ༢༨ ཉིན་བཞུགས་སྒར་ཐེག་ཆེན་ཆོས་གླིང་གཙུག་ལག་ཁང་དུ་ཐེབས་རྩ་དེ་གའི་འབྲེལ་ཡོད་ལས་བྱེད་ཁག་ཅིག་དང་རྒྱ་གར་གྱི་མཐོ་རིམ་སློབ་མ་བརྒྱ་བརྒལ་བར་མཇལ་ཁ་དང་བཀའ་སློབ་སྩལ་ཡོད། བྱེད་སྒོ་འདི་སྤེལ་ནས་ཟླ་བ་གཅིག་ལྷག་ཙམ་སོང་རྗེས་ ༢༠༢༣ ལོའི་ཟླ་ ༤ པའི་གཟའ་འཁོར་དང་པོའི་གཟའ་མཇུག་ཡས་མས་སུ་བསམ་ངན་ཁོག་བཅུག་གིས་ཕབ་ལེན་བྱས་པའི་ཐོག་མའི་བརྙན་ཕབ་དེ་དྲ་རྒྱའི་ཐོག་དར་ཁྱབ་ཆེན་པོ་བྱུང་བ་རེད། ཐོག་མར་སྐར་མ་བཅུ་བདུན་རིང་གི་ལེ་ཚན་དེ་སྐར་མ་ཁ་ཤས་ཡོད་པ་ཞིག་ལ་དུམ་བུ་བཏང་ཡོད་ལ། དེ་རྗེས་སྐར་མ་ཁ་ཤས་འདི་སྐར་ཆ་ཁ་ཤས་ཅན་དུ་དུམ་བུ་བཏང་ནས་དེ་ནང་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གི་ཆོབ་དང་འདྲ་བྱིས་པ་དེ་ལ་ “ ལྕེ་བཟའ་“ གསུང་ཡོད་པའི་ནང་དོན་ཡོད་ཅིང་། དེ་མིན་བརྙན་ཕབ་ཀྱི་དུམ་བུ་དེའི་ནང་དུ་བྱིས་པ་དེའི་ངོ་གདོང་རབ་རིབ་ཏུ་གྱུར་ནས་རྙན་ཐུང་ལྟ་མཁན་ལ་ལོག་པར་འཁྲིད་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ལ་བསམ་ངན་ཁོག་བཅུག་གི་བརྙན་དུམ་གཡོ་བཀོལ་བྱས་ཡོད། ལོ་ན་མ་སོན་པའི་སྐྱེ་བོར་ཆགས་སྤྱོད་རང་བཞིན་གྱི་གནོད་འཚེ་གཏོང་བའི་བརྗོད་གཞི་ནི་ཧ་ཅང་ཚོར་བ་རྣོན་པོ་ཞིག་ཡིན་པའི་ཆ་ནས། བརྙན་དུམ་གཡོ་བཀོལ་བྱས་པ་དེ་ནི་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ལ་མཚན་ཤས་བཟོ་མཁན། བོད་དོན་ལས་འགུལ་གྱི་དགྲ་བོ་དང་སྐྱོན་བརྗོད་བྱེད་མཁན་རྣམས་ལ་ལག་ཆ་ལྟ་བུའི་གོ་སྐབས་བྱུང་ཡོད། འདི་ལྟ་བུའི་བསམ་ངན་ཁོག་བཅུག་གིས་བརྙན་དུམ་གཡོ་བཀོལ་བྱས་པ་དེ་འཛམ་གླིང་ཡོངས་ལ་སེམས་མི་བདེ་བ་ཆེན་པོ་བཟོས་ཡོད་ལ། འདིས་དྲ་རྒྱའི་སྟེང་ནས་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ལ་གསར་འགྱུར་དང་། སྤྱི་ཚོགས་དྲ་རྒྱ་ཁག་ནང་ཞེ་འཁོན་ཅན་དང་སྡང་སེམས་ཅན་གྱི་གྲོས་བསྡུར། དཔྱད་གཏམ་དང་ཆན་བཀོད་ཡོད་པ་རེད།
 
-སྐབས་འདིར་བོད་རིགས་དང་རྒྱལ་སྤྱིའི་ནང་པའི་རྗེས་འབྲངས་པ་དང་ལྷག་པར་དུ་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ལ་རྩིས་སྲུངས་བྱེད་མཁན་ཡོངས་ལ་སེམས་སྡུག་ཆེན་པོའི་རྨ་ཁ་བཟོས་ཡོད་ལ་། འཛམ་གླིང་ས་ཕྱོགས་ཡོངས་ལ་ངོ་རྒོལ་བྱེད་མུད་ཡིན། དེ་མིན་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ལ་རྒྱབ་སྐྱོར་བྱེད་པའི་དྲ་རྒྱའི་ཐོག་གི་དྲིལ་བསྒྲགས་བྱེད་སྒོ་རབ་དང་རིམ་པ་སྤེལ་བ་དང་དེ་བཞིན་མི་མང་པོ་ཞིག་གིས་རང་ཉིད་ཀྱི་སྤྱི་ཚོགས་དྲ་རྒྱའི་ནང་སྐུ་མདུན་གྱི་པར་རིས་བཀོད་སྒྲིག་བྱས་ཡོད། ཉེ་ཆར་སྐད་འཕྲིན་ནང་ཐོ་ཁོངས་ཐོག་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གི་པར་རིས་བཞག་ཚེ་དུས་ཡུན་སྐར་ཆ་ཁ་ཤས་ནང་མེད་པ་གྱུར་འགྲོ་བ་ནི་ཁྱད་མཚར་གྱི་གནས་ཚུལ་ཞིག་ཡིན་པ་དང་། སྤྱིར་རྒྱ་ནག་ཕྱི་རོལ་གྱི་སྐད་འཕྲིན་སྤྱོད་མཁན་རྣམས་རྒྱ་ནག་གི་ཞིབ་བཤེར་བཅའ་ཁྲིམས་དང་སྲིད་ཇུས་ཀྱི་བདག་སྐྱོང་མངའ་ཁོངས་ལས་བརྒལ་ཡོད་མོད། འོན་ཀྱང་རྒྱ་ནག་གི་སྤྱི་ཚོགས་དྲ་རྒྱའི་སྟེགས་བུ་འདིས་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གི་པར་རིས་ཀྱང་ཞིབ་བཤེར་བྱེད་ཀྱི་ཡོད་པ་རེད་ལ་ཐ་ན་གོ་ལ་ཧྲིལ་པོའི་སྐད་འཕྲིན་སྤྱོད་མཁན་ཡོངས་ལ་ཞིབ་བཤེར་བྱེད་ཀྱི་ཡོད་པ་གསལ་པོ་རེད།  
+སྐབས་འདིར་བོད་རིགས་དང་རྒྱལ་སྤྱིའི་ནང་པའི་རྗེས་འབྲངས་པ་དང་ལྷག་པར་དུ་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ལ་རྩིས་སྲུངས་བྱེད་མཁན་ཡོངས་ལ་སེམས་སྡུག་ཆེན་པོའི་རྨ་ཁ་བཟོས་ཡོད་ལ་། འཛམ་གླིང་ས་ཕྱོགས་ཡོངས་ལ་ངོ་རྒོལ་བྱེད་མུད་ཡིན། དེ་མིན་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ལ་རྒྱབ་སྐྱོར་བྱེད་པའི་དྲ་རྒྱའི་ཐོག་གི་དྲིལ་བསྒྲགས་བྱེད་སྒོ་རབ་དང་རིམ་པ་སྤེལ་བ་དང་དེ་བཞིན་མི་མང་པོ་ཞིག་གིས་རང་ཉིད་ཀྱི་སྤྱི་ཚོགས་དྲ་རྒྱའི་ནང་སྐུ་མདུན་གྱི་པར་རིས་བཀོད་སྒྲིག་བྱས་ཡོད། ཉེ་ཆར་སྐད་འཕྲིན་ནང་ཐོ་ཁོངས་ཐོག་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གི་པར་རིས་བཞག་ཚེ་དུས་ཡུན་སྐར་ཆ་ཁ་ཤས་ནང་མེད་པ་གྱུར་འགྲོ་བ་ནི་ཁྱད་མཚར་གྱི་གནས་ཚུལ་ཞིག་ཡིན་པ་དང་། སྤྱིར་རྒྱ་ནག་ཕྱི་རོལ་གྱི་སྐད་འཕྲིན་སྤྱོད་མཁན་རྣམས་རྒྱ་ནག་གི་ཞིབ་བཤེར་བཅའ་ཁྲིམས་དང་སྲིད་ཇུས་ཀྱི་བདག་སྐྱོང་མངའ་ཁོངས་ལས་བརྒལ་ཡོད་མོད། འོན་ཀྱང་རྒྱ་ནག་གི་སྤྱི་ཚོགས་དྲ་རྒྱའི་སྟེགས་བུ་འདིས་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གི་པར་རིས་ཀྱང་ཞིབ་བཤེར་བྱེད་ཀྱི་ཡོད་པ་རེད་ལ་ཐ་ན་གོ་ལ་ཧྲིལ་པོའི་སྐད་འཕྲིན་སྤྱོད་མཁན་ཡོངས་ལ་ཞིབ་བཤེར་བྱེད་ཀྱི་ཡོད་པ་གསལ་པོ་རེད།\
  དུས་ཡུན་ཧ་ཅང་རིང་པོ་ཞིག་གི་ནང་དུ་བོད་དང་རྒྱ་ནག་མངའ་ཁོངས་སུ་སྤྱི་ཚོགས་དྲ་རྒྱའི་སྟེགས་བུའི་ཐོག་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་འདྲ་པར་དང་བརྙན་ཕབ་གཅིག་ཀྱང་མཐོང་རྒྱུ་མེད། འོན་ཀྱང་བརྙན་དུམ་གཡོ་བཀོལ་བྱས་པ་དེ་ནི་་སྤྱི་ཚོགས་དྲ་རྒྱ་ཆ་ཚང་ནང་གསལ་ཡོད་པ་དང་ལྷག་པར་དུ་རྒྱ་ནག་གི་ Twitter ཚབ་ Sina Weibo ཅེས་པའི་རྒྱ་ནག་ནང་གཏན་གཞིར་སྤྱི་ཚོགས་དྲ་རྒྱའི་ནང་དར་འཕེལ་ཆེན་པོ་བྱུང་ཡོད། བོད་དང་རྒྱ་ནག་ནང་ཁུལ་དུ་བཅའ་སྡོད་བྱེད་པའི་སྤྱི་ཚོགས་དྲ་རྒྱ་སྤྱོད་མཁན་གྱིས་བརྙན་དུམ་གཡོ་བཀོལ་བྱས་པ་དེ་དང་དེ་བཞིན་སྐུ་མདུན་དང་འབྲེལ་བ་ཡོད་པའི་མི་བཟོས་རིག་སྟོབས་ལས་བཟོས་པའི་འདྲ་པར་ཁ་ཤས་མཐོང་རྒྱུ་ཡོད། མ་ཟད་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ནི་ Weibo ནང་འཁྱོག་བཤད་བྱས་པའི་ལེ་ཚན་ནང་འཕེལ་རྒྱས་ཆེ་ཤོས་ཀྱི་གླེང་གཞི་ཞིག་ཏུ་གྱུར་པ་དང་། ལོ་དྲུག་ཅུའི་ནང་བྱུང་མ་མྱོང་བའི་གནས་ཚུལ་ཞིག་ཏུ་འགྱུར་ཡོད།
 
 ![](https://blog.tibcert.org/wp-content/uploads/2023/05/image-1-671x1024.png)
 
-_Fig 1 :_ Weibo ནང་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་འཕེལ་ཕྱོགས་ཆེ་ཤོས་ཕྱིན་པ།
+*Fig 1 :* Weibo ནང་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་འཕེལ་ཕྱོགས་ཆེ་ཤོས་ཕྱིན་པ།
 
 ![](https://blog.tibcert.org/wp-content/uploads/2023/05/image-4-654x1024.png)
 
-_Fig 2_ : Weibo ནང་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་འཕེལ་ཕྱོགས་ཆེ་ཤོས་ཕྱིན་པ།
+*Fig 2* : Weibo ནང་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་མཆོག་འཕེལ་ཕྱོགས་ཆེ་ཤོས་ཕྱིན་པ།
 
 རྒྱ་ནག་གི་༧གོང་ས་༧སྐྱབས་མགོན་ཆེན་པོ་ལ་མཚན་མེད་དང་གཞི་མེད་སྐྱོན་བརྗོད་བྱེད་པའི་ལས་འགུལ་འདི་དག་གི་རྒྱབ་ཏུ་ངེས་པར་དུ་ཆབ་སྲིད་ཀྱི་ངོ་བོ་ཞིག་ཡོད་དགོས་པ་གསལ་པོར་མཚོན་ཐུབ། རྒྱ་ནག་གི་འཕྲུལ་རིགས་་རྨང་གཞིའི་སྒྲིག་བཀོད་ཁྱབ་ཁོངས་སུ་ལྷོད་གཡེང་སྤུ་ཙམ་ཡང་མེད་པའི་སྒོ་ནས་ཡར་རྒྱས་བྱུང་བ་དང་། ཚན་རྩལ་མི་སྣའི་སྲིད་ཇུས་ནན་པོ་ཡོད་པའི་ཐོག་རྒྱུན་ཆད་མེད་པར་ལྟ་ཞིབ་ཚད་ལེན་དང་ཞིབ་བཤེར་བྱེད་ཀྱི་ཡོད་པ་རེད། གསལ་ཤེས་ཐུབ་ངེས་ཞིག་ལ། སྐད་འཕྲིན་གྱི་ཁྱིམ་བདག་ཀུང་སི་ Tencent གྱིས་རང་གི་སྲིད་གཞུང་དང་མཉམ་ལས་བྱས་ནས་དེའི་སྲིད་དབང་གི་འདུ་ཤེས་འཛིན་སྟངས་དང་། ཕྱོགས་ལྷུང་། ས་ཁམས་ཆབ་སྲིད་ཀྱི་ཐོབ་ཐང་བཅས་དང་འགལ་བའི་ནང་དོན་རྣམས་ཞིབ་བཤེར་ནན་པོ་བྱེད་ཀྱི་ཡོད།
 
@@ -41,7 +55,7 @@ WeChat comes as the most widely used social media platform in China and it ranks
 
 ![](https://blog.tibcert.org/wp-content/uploads/2023/05/image.png)
 
-_Fig : WeChat’s image censorship of it’s non-China-user to a China-based user_
+*Fig : WeChat’s image censorship of it’s non-China-user to a China-based user*
 
 In recent times,  in the wake of a manipulated viral video of His Holiness the Dalai Lama’s interaction with a young indian boy, many Tibetans and Tibet supporters came in peaceful protest around the globe to show solidarity with His Holiness and bring forward the truth behind the video propaganda that attempts to discredit, defame and harm the public perception of the Dalai Lama. The original full session of the event was a 17 minute long clip in which the Dalai Lama addressed 120 recently graduated Indian college students and members of the M3M Foundation at Dharamsala, India on 28th Feb, 2023. After more than a month since the event took place, around the end of first week of April 2023, a short maliciously trimmed version of the original video became viral on the internet. The 17 minute clip was initially cropped to a few minute length where the interaction between the Dalai Lama and the Indian boy could be seen, which was further trimmed to a few seconds of the video where the Dalai Lama asks the boy to “Suck his tongue”. Furthermore the trimmed section of the video was edited with caption mirroring the conversation between the two in which the boy’s face was blurred to give a false and misleading impression of the Dalai Lama to its viewers. As topics including sexual harassment to minors are very sensitive in nature, the manipulated video clip became a perfect opportunity for adversaries and critics of the Dalai Lama and the Tibet movement to weaponize it. Such a maliciously tailored video of a globally recognized spiritual icon of the present day world, which was taken out of its true context caused great unease around the globe. This inevitably resulted in a wildfire of relentless hateful and xenophobic news, posts, tweets, discussions and comments against the Dalai Lama on the internet. 
 
@@ -51,11 +65,11 @@ For a very long time, it was nearly impossible to ever see a single photo and vi
 
 ![](https://blog.tibcert.org/wp-content/uploads/2023/05/image-1-671x1024.png)
 
-_Fig 1 : The Dalai Lama becomes the most trending topic on Weibo_
+*Fig 1 : The Dalai Lama becomes the most trending topic on Weibo*
 
 ![](https://blog.tibcert.org/wp-content/uploads/2023/05/image-4-654x1024.png)
 
-_Fig 2: The Dalai Lama becomes the most trending topic on Weibo_
+*Fig 2: The Dalai Lama becomes the most trending topic on Weibo*
 
 There is a clear indication that a political attribution must be there behind these incidents in an attempt to defame the character of the Dalai Lama, who symbolizes the patron of all the Tibetans, one who is also a spiritual, cultural and political epicenter of the Tibetan movement in exile. China’s relentless advancements in the field of digital infrastructure and strict policies for its tech giants are the essential elements of its ever-increasing surveillance and censorship tactics. It is evident that WeChat's parent company Tencent is required to cooperate with its government to remove any content that goes against the ideologies, inclinations and geo-political identity of its regime.
 

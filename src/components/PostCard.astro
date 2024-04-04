@@ -4,16 +4,17 @@ import FormattedDate from '@/components/FormattedDate'
 import ArrowUp from '@/components/icons/ArrowUp'
 
 const {
-	data: { title, description, pubDate, heroImage,boTranslation,category },
+	data: { title, description, pubDate, heroImage,translation,category },
 	readTime,
 	slug
 } = Astro.props
+
+const {language} = Astro.props;
 ---
 <article class='grid grid-rows-auto group rounded-xl border p-3   dark:bg-gradient-to-bl from-slate-700 via-gray-700 to-zinc-800 dark:border-[#ef482c]'>
-	
 {
 	heroImage && (
-	<a class='relative' href={`/post/${slug}/`}
+	<a class='relative' href={`/${language}/${slug}/`}
 		><Image
 			src={heroImage}
 			width={600}
@@ -31,16 +32,17 @@ const {
 			<div class='flex flex-col gap-1 items-center justify-center '>
 				<FormattedDate date={pubDate} />	
 			</div>
-			<a class="bg-slate-200 font-semibold text-indigo-900 dark:bg-[#EF482C] dark:text-white shadow text-xs w-fit px-2 py-1 md:px-3 md:py-1 rounded-md" href="#">Read In Tibetan</a>
 			{
-				boTranslation && (<h1>TEST Tibetan</h1>)
+				translation && (
+				<a class="bg-slate-200 font-semibold text-indigo-900 dark:bg-[#EF482C] dark:text-white shadow text-xs w-fit px-2 py-1 md:px-3 md:py-1 rounded-md" href="#">Read In Tibetan</a>
+				)
 				
 			}		
 		</div>
 
 		<div class='flex flex-col gap-3'>
 			<div class='flex flex-col gap-2'>
-				<a class='text-xl font-semibold ' href={`/post/${slug}/`}>
+				<a class='text-xl font-semibold ' href={`/${language}/${slug}/`}>
 					{title}
 				</a>
 			</div>
@@ -51,7 +53,7 @@ const {
 
 		<footer class='flex justify-between items-center'>
 			<a
-				href={`/post/${slug}/`}
+				href={`/${language}/${slug}/`}
 				class='flex justify-center items-center dark:text-white rounded-full hover:translate-x-1 transition-transform duration-150 ease-in-out font-semibold gap-1 group'
 				aria-label={`go to ${title}`}>
 				Read Post <span

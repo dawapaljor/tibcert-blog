@@ -1,12 +1,23 @@
 ---
-title:	Wakeup call to choose secure communication platforms
-description: 'Syniverse is a telecom company which has roughly 1,250 corporate customers across 200 countries, including a vast majority of the world’s mobile carriers, such as AT&T, Verizon, T-Mobile, Vodafone, China Mobile, Airtel, Telefónica, and América Móvil.'
-pubDate: 1.2.2022
-heroImage: '/assets/bg.jpg'
-category: 'Reports'
-tags: ['cellular','communication','Data breach','end to end encrypted','hacking','Syniverse']
-draft: False
+draft: false
+title: Wakeup call to choose secure communication platforms
+pubDate: 2022-01-01T18:30:00.000Z
+category: Bulletin
+tags:
+  - cellular
+  - communication
+  - Data breach
+  - end to end encrypted
+  - hacking
+  - Syniverse
+description: >-
+  Syniverse is a telecom company which has roughly 1,250 corporate customers
+  across 200 countries, including a vast majority of the world’s mobile
+  carriers, such as AT&T, Verizon, T-Mobile, Vodafone, China Mobile, Airtel,
+  Telefónica, and América Móvil.
+heroImage: /assets/bg.jpg
 ---
+
 ![](https://blog.tibcert.org/wp-content/uploads/2022/02/SyniverseDataBreach.jpg)
 
 Sysniverse ནི་རྒྱལ་ཁབ་200ལས་བརྒལ་བའི་ཁེ་ལས་ཀྱི་ཉོ་མཁན་ཕལ་ཆེར་1250ཡོད་པའི་གློག་འཕྲིན་ཀུང་སི་ཞིག་ཡིན་ཞིང་། དེའི་ནང་རང་འགུལ་འཕྲུལ་འཁོར་དང་། Verizon, T-Mobile, Vodafon, China Mobile, Airtel, Telefónica, América Móvil སོགས་འཛམ་གླིང་ཐོག་གི་སྒུལ་བདེའི་གཞི་རྟེན་ཆེས་མང་ཆེ་བ་ཚུད་ཡོད། ཀུང་སིས་སྒུལ་བདེའི་སྐྱེལ་འདྲེན་བྱེད་འགན་འཁུར་མཁན་མི་འདྲ་བའི་དྲ་རྒྱ་སྦྲེལ་མཐུད་བྱེད་པར་སྤྱོད་པའི་ཞབས་ཞུ་མཁོ་འདོན་བྱས་ནས་དེའི་བར་གྱི་གཞི་གྲངས་བརྒྱུད་སྤྲོད་བྱེདཔ་དང། དེའི་རྐྱེན་གྱིས་ཉིན་ལྟར་ཉོ་ཚོང་དང་། གླེང་མོལ། འབྲེལ་གཏུག་བཅས་དུང་ཕྱུར་བཅུ་ཕྲག་ཁ་ཤས་ syniverse རྒྱུད་བྱེད་པ་རེད།
@@ -19,9 +30,9 @@ Sysniverse ཅེས་པ་འདི་་ཉོ་ཚོང་བྱེད་
 
 སྒེར་གྱི་གསང་དོན་དང་བདེ་འཇགས་ནི་ང་ཚོས་ལག་རྩལ་དུས་རབས་ཀྱི་ཆེས་དམིགས་སུ་བཀར་ནས་སྔོན་ལ་བསམ་གཞིགས་བྱས་པའི་རྐྱེན་གྱིས་ང་ཚོས་end-to-end encryption technology འཕྲིན་གཏོང་སྟེགས་བུ་དེ་བས་བདེ་འཇགས་ཀྱི་བསལ་འདེམས་སུ་བསྒྱུར་དགོས་སྙམ། གལ་ཏེ་ང་ཚོས་ད་དུང་གཞི་རྩའི་ཕྲ་ཕུང་Basic Cellular Communication Methods གི་འཕྲིན་གཏོང་བྱེད་ཐབས་ལ་རྒྱུན་ཆད་མེད་པར་བརྟེན་ན། དེ་ནི་ང་ཚོ་རང་ཉིད་ཀྱི་གསང་དོན་ལ་གནོད་འཚེ་གཏོང་བའི་བྱ་སྤྱོད་ཅིག་རེད།  དེ་བས་ Signal,  Wire, WhatsApp སོགས་བདེ་འཇགས་ཀྱི་ཉེར་སྤྱོད་གོ་རིམ་ཁྲོད་ནས་འབྲེལ་འདྲིས་བྱེད་པར་བདམས་ཏེ་ང་ཚོའི་མ་གནས་གྲོན་ཆུང་བྱས་པ་མ་ཟད། དེ་བས་ཀྱང་ང་ཚོར་སྔོན་ཆད་ end-to-end encryption technology དང་འདྲ་བར་སྲོལ་རྒྱུན་གྱི་ཕྲ་ཕུང་འཕྲིན་གཏོང་སྟེགས་བུའི་གསང་དོན་དང་བདེ་འཇགས་བསྐྲུན་མི་ཐུབ།
 
-**Syniverse** is a telecom company which has roughly 1,250 corporate customers across 200 countries, including a vast majority of the world’s mobile carriers, such as AT&T, Verizon, T-Mobile, Vodafone, China Mobile, Airtel, Telefónica, and América Móvil. The company provides services which are used to connect the networks of different mobile carriers and enable the transmission of data between them. Consequently, Syniverse enables billions of transactions, conversations and connections every day.
+**Syniverse** is a telecom company which has roughly 1,250 corporate customers across 200 countries, including a vast majority of the world’s mobile carriers, such as AT\&T, Verizon, T-Mobile, Vodafone, China Mobile, Airtel, Telefónica, and América Móvil. The company provides services which are used to connect the networks of different mobile carriers and enable the transmission of data between them. Consequently, Syniverse enables billions of transactions, conversations and connections every day.
 
-Before Syniverse became a publicly traded company, a “[**SEC filing**](https://www.sec.gov/edgar/searchedgar/companysearch.html)” was done as per the regulations. In the filing, the company admitted discovering a data breach in May 2021. Further investigation revealed that an unknown threat actor had unauthorized access to its ecosystems since May 2016.  Further investigation revealed that the threat actor was able to access 5 years of databases within their network which included conversations by customers worldwide through their cellular connection and service facility.
+Before Syniverse became a publicly traded company, a “**[SEC filing](https://www.sec.gov/edgar/searchedgar/companysearch.html)**” was done as per the regulations. In the filing, the company admitted discovering a data breach in May 2021. Further investigation revealed that an unknown threat actor had unauthorized access to its ecosystems since May 2016.  Further investigation revealed that the threat actor was able to access 5 years of databases within their network which included conversations by customers worldwide through their cellular connection and service facility.
 
 After the news about this unknown threat actor came up in the public, Syniverse company gave a follow up statement to Security Week, a cyber security news and analysis site. In the statement, they mentioned that  “All EDT (Electronic Data Transfer) customers have had their credentials reset or inactivated, even if their credentials were not impacted by the incident. We have communicated directly with our customers regarding this matter and have concluded that no additional action is required."
 

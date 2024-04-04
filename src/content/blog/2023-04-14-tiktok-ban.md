@@ -7,6 +7,7 @@ comments: true
 tags: [App Security, censorship, European Commission, Great firewall of China, Reports, Splinternet, surveillance, TikTok, TikTok Ban]
 category: 'Reports'
 heroImage: '/assets/sub-page.jpg'
+translation: 'tibetan-slug'
 ---
 ![](https://blog.tibcert.org/wp-content/uploads/2023/04/TikTok-banned-countries.jpg)
 

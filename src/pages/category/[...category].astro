@@ -3,8 +3,10 @@ import BaseLayout from '@/layouts/BaseLayout'
 import ListPosts from '@/components/ListPosts'
 import ListCategories from '@/components/ListCategories'
 import Shape from '@/components/icons/Shape'
-import { sluglify, unsluglify, getCategories, getPosts } from '@/utils'
+import { sluglify, unsluglify, getCategories, getPosts, getBoPosts} from '@/utils'
 import Logo from '@/components/icons/Logo'
+
+const language = "post"
 
 const { category } = Astro.params
 
@@ -24,11 +26,9 @@ const filterPosts = posts.filter(
 	(post) => post.data.category.toLowerCase() === unsluglifyNameCategory
 )
 ---
-
-
 <BaseLayout title={category}>
 
 
 	<ListCategories activeCategory={category} />
-	<ListPosts posts={filterPosts} />
+	<ListPosts posts={filterPosts} language={language}/>
 </BaseLayout>
