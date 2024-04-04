@@ -6,7 +6,7 @@ pubDate: 2024.01.23
 heroImage: '/assets/sub-page.jpg'
 category: 'Bulletin'
 tags: ['Bulettin']
-
+boTranslation: 'tibetan-slug'
 draft: False
 ---
 

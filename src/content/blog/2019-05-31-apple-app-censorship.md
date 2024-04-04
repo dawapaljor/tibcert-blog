@@ -9,6 +9,7 @@ description: >-
   Apple has a long history of censorship when it comes to information about
   Tibet. In 2009, it was
 heroImage: ''
+boTranslation: 'tibetan-slug'
 ---
 
 ![](/publichttps://blog.tibcert.org/wp-content/uploads/2019/05/unnamed-300x128.png)
