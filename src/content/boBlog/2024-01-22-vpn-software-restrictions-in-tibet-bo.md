@@ -1,7 +1,7 @@
 ---
 title: test
 pubDate: 2024-01-22T18:30:00.000Z
-category: test
+category: Bulletin
 description: >-
   gdjkgjlkgjdfklgjdfklgjdfl
 ---
