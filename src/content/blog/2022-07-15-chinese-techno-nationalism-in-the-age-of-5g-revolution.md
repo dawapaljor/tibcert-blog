@@ -20,7 +20,7 @@ description: >-
   In the wake of exponential advancements in digital technology around the
   globe, our modern societies have also become inseparable from technology and
   the internet.
-heroImage: /images/assets/sub-page.jpg
+heroImage: /assets/sub-page.jpg
 ---
 
 In the wake of exponential advancements in digital technology around the globe, our modern societies have also become inseparable from technology and the internet. This growth in technology implies a growth in our civilization, pushing individuals and nations to heavily rely on it unlike ever before. Moreover the revolution in mobile technology is nowadays not only limited to instant communication at a distance, but very much linked to the privacy and security of our personal and professional hours. Although the hardware capabilities of mobile devices keep pushing their boundaries, the key element in all mobile technology is the cellular network technology it incorporates to facilitate internet services to these devices. Developments in this cellular network technology can be both very beneficial as well as detrimental to the convenience, privacy and security of individuals and nations worldwide. 
