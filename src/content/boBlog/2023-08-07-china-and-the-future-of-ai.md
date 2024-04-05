@@ -1,5 +1,4 @@
 ---
-comments: true
 title: China and the future of AI
 pubDate: 2023-08-07T00:00:00.000Z
 category: སྙན་ཐོ།
