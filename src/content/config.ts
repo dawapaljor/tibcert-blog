@@ -21,6 +21,7 @@ const boBlog = defineCollection({
 				.transform((str) => (str ? new Date(str) : undefined)),
 			heroImage: z.string(),
 			category: z.enum(CATEGORIES),
+			translation: z.string().optional(),
 			tags: z.array(z.string()),
 			draft: z.boolean().default(false)
 		})
@@ -46,7 +47,7 @@ const blog = defineCollection({
 				.transform((str) => (str ? new Date(str) : undefined)),
 			heroImage: z.string().optional(),
 			translation: z.string().optional(),
-			category: z.string(),
+			category: z.enum(CATEGORIES),
 			tags: z.array(z.string()),
 			draft: z.boolean().default(false)
 		})
