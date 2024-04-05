@@ -1,0 +1,41 @@
+---
+author: tibcert-bhod
+comments: true
+title: New Report on WeChat Surveilliance
+pubDate: 2020-05-07T07:32:00.000Z
+category: Bulletin
+tags:
+  - wechat
+description: >-
+  Citizen Lab has released a new report on how WeChat international users are
+  unwittingly building up WeChat's Chinese Censorship Apparatus. You can read
+  the full report here at
+heroImage: /assets/sub-page.jpg
+---
+
+Citizen Lab has released a new report on how WeChat international users are unwittingly building up WeChat's Chinese Censorship Apparatus. You can read the full report here at: [https://citizenlab.ca/2020/05/we-chat-they-watch/](https://citizenlab.ca/2020/05/we-chat-they-watch/) TibCERT has translated the key takeaways which is available below in both Tibetan and English.
+
+## **Key Takeaways**
+
+**WeChat surveills non-China-registered accounts and uses messages from those accounts to train censorship algorithms to be used against China-registered Accounts.**
+In previous research, we found that censorship on WeChat is only enabled for users with accounts registered to mainland China phone numbers. WeChat users outside of China may think that WeChat’s political censorship and surveillance system does not affect them. However, in new research we show that files and images shared by WeChat users with accounts outside of China are subject to political surveillance, and this content is used to train and build up the censorship system that WeChat uses to censor China-registered users. Our technical methods can only tell us if files and images shared on WeChat are under surveillance. We don’t know yet if chat message text is under similar surveillance. In the meantime, users should be aware that this is a possibility.
+
+## སྐད་འཕྲིན་དང་འབྲེལ་བའི་སྙན་ཐོའི་ཁོངས་ཀྱི་གཙོ་གནད་ཁག
+
+སྐད་འཕྲིན་སྤྱི་གཉེར་ཁང་གིས། རྒྱ་ནག་གི་ཕྱི་ཕྱོགས་སུ་ཐོ་འགོད་བྱས་པའི་རྒྱལ་སྤྱིའི་ནང་གི་སྐད་འཕྲིན་ཨང་གྲངས་ཁག་ལ་མྱུལ་ཞིབ་བྱེད་ཀྱི་ཡོད་པ་དང་། སྐད་འཕྲིན་ཨང་གྲངས་དེ་དག་གི་ནང་དུ་བཏང་བའི་ཆ་འཕྲིན་ཁག་བེད་སྤྱད་དེ། གནས་ཚུལ་བཀག་སྡོམ་བྱེད་སྤྱད་ཀྱི་མ་ལག་གསར་སྐྲུན་བྱེད་ཀྱི་ཡོད་ལ། མ་ལག་དེ་རྒྱ་ནག་ནང་དུ་ཐོ་འགོད་བྱས་པའི་སྐད་འཕྲིན་ཨང་གྲངས་ཁག་གི་ཐོག་ཏུ་བཀོལ་སྤྱོད་བྱེད་ཀྱི་ཡོད། ང་ཚོའི་ཐེངས་སྔོན་མའི་ཉམས་ཞིབ་ཀྱི་ནང་དུ། སྐད་འཕྲིན་སྤྱི་གཉེར་ཁང་གིས། རྒྱ་ནག་ནང་གི་ཁ་པར་ཨང་གྲངས་དང་སྦྲེལ་ཡོད་པའི་སྐད་འཕྲིན་བཀོལ་སྤྱོད་བྱེད་མཁན་ཚོས་སྐད་འཕྲིན་གྱི་ནང་དུ་བཏང་བའི་གནད་ཡོད་ཀྱི་ཐ་སྙད་དང་པར་རིས་སོགས་བཀག་སྡོམ་བྱེད་ཐུབ་པ་བཟོས་ཡོད་པའི་གནས་ཚུལ་ཤེས་རྟོགས་བྱུང་ཡོད། རྒྱལ་སྤྱིའི་ནང་གི་སྐད་འཕྲིན་བཀོལ་སྤྱོད་བྱེད་མཁན་ཚོས།  སྐད་འཕྲིན་ནང་གི་ཆབ་སྲིད་ཀྱི་མྱུལ་ཞིབ་དང་བཀག་སྡོམ་གྱི་མ་ལག་དེས་ཁོང་ཚོར་ཤུགས་རྐྱེན་གང་ཡང་སྤྲོད་མི་སྲིད་སྙམ་ངེས། ཡིན་ནའང་། ང་ཚོའི་ཉམས་ཞིབ་ཀྱི་ལས་གཞི་གསར་པའི་ཁོངས་སུ།རྒྱལ་སྤྱིའི་ནང་གི་སྐད་འཕྲིན་བཀོལ་སྤྱོད་བྱེད་མཁན་ཚོས་སྐད་འཕྲིན་ནང་དུ་བཏང་བའི་པར་རིས་དང་ཡིག་ཚགས་སོགས་ཆབ་སྲིད་མྱུལ་ཞིབ་ཀྱི་འོག་ཏུ་ཡོད་པ་མ་ཟད། སྐད་འཕྲིན་སྤྱི་གཉེར་ཁང་གིས་དེ་དག་གི་ནང་དོན་ཁག་རྒྱ་ནག་ནང་དུ་ཐོ་འགོད་བྱས་པའི་སྐད་འཕྲིན་ནང་གི་གནས་ཚུལ་བཀག་སྡོམ་གྱི་མ་ལག་གསར་སྐྲུན་དང་སྦྱོང་བརྡར་གྱི་ཆེད་དུ་བཀོལ་སྤྱོད་བྱེད་ཀྱི་ཡོད་པ་གསལ་སྟོན་བྱས་ཡོད། ང་ཚོའི་ཞིབ་འཇུག་གི་ཐབས་ལམ་འདིས། སྐད་འཕྲིན་ནང་དུ་བརྒྱུད་སྐུར་བྱས་པའི་པར་རིས་དང་ཡིག་ཚགས་སོགས་མྱུལ་ཞིབ་འོག་ཡོད་མེད་ཙམ་མ་གཏོགས་བཤད་ཐུབ་ཀྱི་མེད། ང་ཚོས་སྐད་འཕྲིན་ནང་གི་འཕྲིན་ཐུང་རིགས་དེ་དང་ཆ་འདྲ་བའི་མྱུལ་ཞིབ་འོག་ཡོད་མེད་ད་དུང་ཤེས་ཀྱི་མེད།   དུས་མཚུངས་སུ། སྐད་འཕྲིན་བཀོལ་སྤྱོད་བྱེད་མཁན་ཚོས། སྐད་འཕྲིན་ནང་དུ་བཏང་བའི་འཕྲིན་ཐུང་སོགས་ཀྱང་གཅིག་མཚུངས་ཀྱི་མྱུལ་ཞིབ་འོག་ཏུ་ཡོད་ངེས་པའི་ཚོད་དཔག་དང་ཆ་འཇོག་བྱེད་ཆོག
+
+## Both the monitoring and censorship happen in secret, without transparency to Users.
+
+Our experiments reveal that content surveillance is applied to both China-registered accounts as well as to non-China-registered accounts. Content surveillance between users of accounts registered outside of China is functionally undetectable.
+
+## གནས་ཚུལ་བཀག་སྡོམ་དང་སྟངས་འཛིན་གྱི་ལས་ཀའི་རིགས། སྐད་འཕྲིན་བཀོལ་སྤྱོད་བྱེད་མཁན་ཚོར་ཧ་གོ་རུ་མ་བཅུག་པར།  གསང་བའི་ཐོག་ནས་བྱེད་ཀྱི་ཡོད།
+
+ང་ཚོའི་ཚོད་ལྟ་ཁག་བརྒྱུད་ནས། སྐད་འཕྲིན་ནང་དུ་བཏང་བའི་ཆ་འཕྲིན་གྱི་ནང་དོན་ལ་མྱུལ་ཞིབ་བྱེད་པའི་བྱེད་ལས་ཁག  རྒྱ་ནག་ནང་དུ་ཐོ་འགོད་བྱས་པའི་སྐད་འཕྲིན་ཨང་གྲངས་དང་། ཕྱི་རྒྱལ་དུ་ཐོ་འགོད་བྱས་པའི་སྐད་འཕྲིན་ཨང་གྲངས་གཉིས་ཀའི་ཐོག་ཏུ་རྩོམ་གྱི་ཡོད་པ་གསལ་སྟོན་བྱས་ཡོད། ། འོན་ཀྱང་། ཕྱི་རྒྱལ་དུ་ཐོ་འགོད་བྱས་པའི་སྐད་འཕྲིན་བཀོལ་སྤྱོད་བྱེད་མཁན་གཉིས་ཕན་ཚུན་བར་གཏོང་རེས་བྱས་པའི་ཆ་འཕྲིན་གྱི་ནང་དོན་ལ་མྱུལ་ཞིབ་བྱེད་ཀྱི་ཡོད་མེད་མཉེན་ཆས་རང་གི་ནང་དུ་རྩད་ཞིབ་བྱེད་ཐབས་བྲལ་ཡོད།
+
+## None of WeChat’s public-facing policy documents, personal data access requests processes, or privacy officers communicated that the company is conducting this surveillance.
+
+We analyzed WeChat’s public-facing policy documents, made personal data access requests, and sent detailed questions to Tencent data protection representatives. We used these methods to assess if they could reveal or explain the surveillance practices we detected, and whether WeChat representatives would explain the company’s practices when directly asked about them. None of these methods provided a clear rationale or description of the surveillance that we detected in the course of our experiments.
+
+## སྐད་འཕྲིན་གྱི་མང་ཚོགས་ལ་ཁ་ཕྱོགས་པའི་སྲིད་ཇུས་ཡིག་ཆར་དབྱེ་ཞིབ་དང་། སྒེར་གྱི་གཞི་གྲངས་བསྡུ་ལེན་བྱེད་ཆོག་པའི་རེ་སྐུལ་གྱི་བརྒྱུད་རིམ། གསང་རྒྱའི་སྐོར་གྱི་འབྲེལ་ཡོད་ལས་སྣེ་སོགས་ལ་འབྲེལ་བ་བྱེད་པའི་ཐབས་ལམ་སོགས་གང་གིས་ཀྱང་། སྐད་འཕྲིན་སྤྱི་གཉེར་ཁང་ཁང་གིས་གསང་བའི་མྱུལ་ཞིབ་བྱེད་ཀྱི་ཡོད་པའི་གནས་ཚུལ་མཁོ་སྤྲོད་བྱས་མེད།
+
+ང་ཚོས་སྐད་འཕྲིན་གྱི་མང་ཚོགས་ལ་ཁ་ཕྱོགས་པའི་སྲིད་ཇུས་ཡིག་ཆར་དབྱེ་ཞིབ་བྱས་པ་མ་ཟད། སྒེར་གྱི་གཞི་གྲངས་བསྡུ་ལེན་བྱེད་ཆོག་པའི་རེ་སྐུལ་ཞུས་ཡོད་ལ། ཐིན་ཞུན་བཟོ་ཚོང་ཁང་གི་གཞི་གྲངས་སྲུང་སྐྱོབ་ཀྱི་འཐུས་ཚབ་མི་སྣར་ཡང་དྲི་བ་ཞིབ་ཚགས་བཏང་ཡིན། ཐབས་ལམ་འདི་དག་བེད་སྤྱད་དེ། ང་ཚོས་སྐད་འཕྲིན་ནང་དུ་རྩད་ཞིབ་བྱུང་བའི་མྱུལ་ཞིབ་ཀྱི་བྱེད་ལས་སྐོར་གསལ་སྟོན་བྱེད་ཐུབ་མིན་དང་། སྐད་འཕྲིན་གྱི་འཐུས་ཚབ་མི་སྣར་ཐད་ཀར་སྐད་ཆ་དྲིས་ཏེ། ཁོང་ཚོའི་ངོས་ནས་སྐད་འཕྲིན་སྤྱི་གཉེར་ཁང་གི་བྱེད་ལས་ཁག་ལ་འགྲེལ་བཤད་བྱེད་མིན་སྐོར་དཔྱད་ཞིབ་བྱས་པ་ཡིན་། ཐབས་ལམ་འདི་དག་གང་གིས་ཀྱང་། ང་ཚོས་ཚོད་ལྟ་བྱས་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་ངོས་འཛིན་དང་རྩད་ཞིབ་བྱུང་བའི་སྐད་འཕྲིན་ནང་གི་མྱུལ་ཞིབ་སྐོར་ལ་འགྲེལ་བཤད་གསལ་པོ་གང་ཡང་མཁོ་སྤྲོད་བྱས་མེད།

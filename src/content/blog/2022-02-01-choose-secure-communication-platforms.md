@@ -1,0 +1,41 @@
+---
+draft: false
+title: Wakeup call to choose secure communication platforms
+pubDate: 2022-01-01T18:30:00.000Z
+category: Bulletin
+tags:
+  - cellular
+  - communication
+  - Data breach
+  - end to end encrypted
+  - hacking
+  - Syniverse
+description: >-
+  Syniverse is a telecom company which has roughly 1,250 corporate customers
+  across 200 countries, including a vast majority of the world’s mobile
+  carriers, such as AT&T, Verizon, T-Mobile, Vodafone, China Mobile, Airtel,
+  Telefónica, and América Móvil.
+heroImage: /assets/bg.jpg
+---
+
+![](https://blog.tibcert.org/wp-content/uploads/2022/02/SyniverseDataBreach.jpg)
+
+Sysniverse ནི་རྒྱལ་ཁབ་200ལས་བརྒལ་བའི་ཁེ་ལས་ཀྱི་ཉོ་མཁན་ཕལ་ཆེར་1250ཡོད་པའི་གློག་འཕྲིན་ཀུང་སི་ཞིག་ཡིན་ཞིང་། དེའི་ནང་རང་འགུལ་འཕྲུལ་འཁོར་དང་། Verizon, T-Mobile, Vodafon, China Mobile, Airtel, Telefónica, América Móvil སོགས་འཛམ་གླིང་ཐོག་གི་སྒུལ་བདེའི་གཞི་རྟེན་ཆེས་མང་ཆེ་བ་ཚུད་ཡོད། ཀུང་སིས་སྒུལ་བདེའི་སྐྱེལ་འདྲེན་བྱེད་འགན་འཁུར་མཁན་མི་འདྲ་བའི་དྲ་རྒྱ་སྦྲེལ་མཐུད་བྱེད་པར་སྤྱོད་པའི་ཞབས་ཞུ་མཁོ་འདོན་བྱས་ནས་དེའི་བར་གྱི་གཞི་གྲངས་བརྒྱུད་སྤྲོད་བྱེདཔ་དང། དེའི་རྐྱེན་གྱིས་ཉིན་ལྟར་ཉོ་ཚོང་དང་། གླེང་མོལ། འབྲེལ་གཏུག་བཅས་དུང་ཕྱུར་བཅུ་ཕྲག་ཁ་ཤས་ syniverse རྒྱུད་བྱེད་པ་རེད།
+
+Sysniverse ཅེས་པ་འདི་་ཉོ་ཚོང་བྱེད་པའི་ཀུང་སི་ཞིག་ཏུ་མ་གྱུར་གོང་ལ་གཏན་འབེབས་ལྟར་"SEC Filing"  ཐ་འགོད་སྙན་སེང་ཞུས་པ་དང། ཐོ་འགོད་སྙན་སེང་ཞུ་བའི་ཁྲོད་ཀུང་སིས་2021ལོའི་ཟླ་5པར་ Data Breach གཞི་གྲངས་དང་འགལ་བའི་བྱ་སྤྱོད་ཤེས་རྟོགས་བྱུང་བ་རེད། གོམ་གང་མདུན་སྤོས་ཀྱིས་བརྟག་དཔྱད་བྱས་པ་བརྒྱུད་ཤེས་མེད་པའི་འཇིགས་སྐུལ་གྱི་བྱ་སྤྱོད་སྤེལ་མཁན་ཞིག་གིས་2016ལོའི་ཟླ་5པ་ནས་བཟུང་རང་མཚམས་ཀྱིས་དེའི་སྐྱེ་ཁམས་མ་ལག་ནང་ཞུགས་པ་གོམ་གང་མདུན་སྤོས་ཀྱིས་བརྟག་དཔྱད་བྱས་པ་བརྒྱུད། འཇིགས་སྐུལ་གྱི་བྱ་སྤྱོད་སྤེལ་མཁན་གྱིས་དྲ་རྒྱའི་ནང་དུ་ལོ་5ཡི་ Database གཞི་གྲངས་མཛོད་ནང་སླེབས་ཏེ། འཛམ་གླིང་ཡོངས་ཀྱི་ཚོང་འགྲུལ་པས་ཕྲ་ཕུང་སྦྲེལ་མཐུད་དང་ཞབས་ཞུའི་སྒྲིག་བཀོད་བརྒྱུད་ནས་གླེང་མོལ་སོགས་ལ་འདྲི་རྩད་བྱེད་ཡོད་པ་རེད།
+
+འཇིགས་སྐུལ་གྱི་བྱ་སྤྱོད་སྤེལ་མཁན་མི་ཤེས་པའི་གནས་ཚུལ་དེ་སྤྱི་དམངས་ཀྱི་ཁྲོད་དུ་ཐོན་རྗེས། sysniverse ཀུང་སིས་དྲ་རྒྱའི་བདེ་འཇགས་གསར་འགྱུར་དང་དབྱེ་ཞིབ་བྱ་ཡུལ་གྱི་བདེ་འཇགས་གཟའ་འཁོར་ལ་རྗེས་མཐུད་ཀྱི་གསལ་བསྒྲགས་སྤེལ་བ་རེད། གསལ་བསྒྲགས་དེའི་ནང་དུ་ཁོང་ཚོས་"EDT ( Electronic Data Transfer ) (གློག་རྡུལ་གཞི་གྲངས་སྤོ་སྒྱུར་) ཚོང་འགྲུལ་པ་ཚང་མར་དོན་རྐྱེན་དེའི་ཤུགས་རྐྱེན་མི་ཐེབས་པའི་དབང་དུ་བཏང་ནའང་། EDT(གློག་རྡུལ་གཞི་གྲངས་སྤོ་སྒྱུར་) ཚང་མར་རང་ཉིད་ཀྱི་དཔང་ཡིག་སླར་གསོ་བྱས་པའམ་ཡང་ན་འགུལ་སྐྱོད་མི་བྱེད་པའི་དབང་དུ་བཏང་ན། ང་ཚོས་་ཐད་ཀར་ཚོང་འགྲུལ་པ་རྣམས་ལ་དོན་དག་འདི་བསྒྲགས་བྱས་ཏེ་ཁ་གསབ་ཀྱི་བྱ་སྤྱོད་སྤེལ་མི་དགོས་པའི་འཇུག་བསྡུ།
+
+དེར་བརྟེན་རང་མཚམས་ཀྱིས་གློག་འཕྲིན་ཀུང་སི་ཆེ་ཤོས་ཀྱི་ཚོང་འགྲུལ་གྱི་གཞི་གྲངས་གསོག་འཇོག་བྱས་པ་དེས་འཛམ་གླིང་ཡོངས་ཀྱི་ཚོང་འགྲུལ་པའི་གསང་དོན་དང་བདེ་འཇགས་ལ་ཤུགས་རྐྱེན་ཐེབས་སྲིད་པ་ཧ་ཅང་གསལ་པོ་རེད། ལག་རྩལ་ཐད་ཀྱི་རྟོག་གེ་རྒྱུན་ཆད་མེད་པར་ཇེ་མང་དུ་འགྲོ་བའི་དུས་སྐབས་སུ། དཔལ་འབྱོར་དང་ཆབ་སྲིད་སོགས་རྒྱུ་རྐྱེན་མང་པའི་དབང་གིསའཇིགས་སྐུལ་གྱི་བྱ་སྤྱོད་སྤེལ་མཁན་མང་པོ་ཡོང་གི་ཡོད་པ་དང་ ཁོ་ཚོའི་ཞབས་ཞུ་སྒྲིག་འཛུགས་ཇི་ལྟར་བྱས་པའམ་ཡང་ན་ཁོ་ཚོའི་བདེ་འཇགས་མ་ལག་ཇི་ལྟར་བཀོད་སྒྲིག་བྱས་ཡོད་ནའང་འདྲ། ང་ཚོའི་ལག་རྩལ་ཐད་ཀྱི་སྐྱོན་ཆ་དེ་ཀླད་ཀོར་དུ་ཆག་པ་དང་། མིའི་ནོར་འཁྲུལ་འབྱུང་ངེས་ཡིན་པས། ལག་རྩལ་གང་ཞིག་ཡིན་རུང་འབྱུང་འགྱུར་གྱི་འོས་མེད་འགྲིག་ཐབས་ལས་རྦད་དེ་བདེ་འཇགས་ཡོང་མི་སྲིད་པ།
+
+སྒེར་གྱི་གསང་དོན་དང་བདེ་འཇགས་ནི་ང་ཚོས་ལག་རྩལ་དུས་རབས་ཀྱི་ཆེས་དམིགས་སུ་བཀར་ནས་སྔོན་ལ་བསམ་གཞིགས་བྱས་པའི་རྐྱེན་གྱིས་ང་ཚོས་end-to-end encryption technology འཕྲིན་གཏོང་སྟེགས་བུ་དེ་བས་བདེ་འཇགས་ཀྱི་བསལ་འདེམས་སུ་བསྒྱུར་དགོས་སྙམ། གལ་ཏེ་ང་ཚོས་ད་དུང་གཞི་རྩའི་ཕྲ་ཕུང་Basic Cellular Communication Methods གི་འཕྲིན་གཏོང་བྱེད་ཐབས་ལ་རྒྱུན་ཆད་མེད་པར་བརྟེན་ན། དེ་ནི་ང་ཚོ་རང་ཉིད་ཀྱི་གསང་དོན་ལ་གནོད་འཚེ་གཏོང་བའི་བྱ་སྤྱོད་ཅིག་རེད།  དེ་བས་ Signal,  Wire, WhatsApp སོགས་བདེ་འཇགས་ཀྱི་ཉེར་སྤྱོད་གོ་རིམ་ཁྲོད་ནས་འབྲེལ་འདྲིས་བྱེད་པར་བདམས་ཏེ་ང་ཚོའི་མ་གནས་གྲོན་ཆུང་བྱས་པ་མ་ཟད། དེ་བས་ཀྱང་ང་ཚོར་སྔོན་ཆད་ end-to-end encryption technology དང་འདྲ་བར་སྲོལ་རྒྱུན་གྱི་ཕྲ་ཕུང་འཕྲིན་གཏོང་སྟེགས་བུའི་གསང་དོན་དང་བདེ་འཇགས་བསྐྲུན་མི་ཐུབ།
+
+**Syniverse** is a telecom company which has roughly 1,250 corporate customers across 200 countries, including a vast majority of the world’s mobile carriers, such as AT\&T, Verizon, T-Mobile, Vodafone, China Mobile, Airtel, Telefónica, and América Móvil. The company provides services which are used to connect the networks of different mobile carriers and enable the transmission of data between them. Consequently, Syniverse enables billions of transactions, conversations and connections every day.
+
+Before Syniverse became a publicly traded company, a “**[SEC filing](https://www.sec.gov/edgar/searchedgar/companysearch.html)**” was done as per the regulations. In the filing, the company admitted discovering a data breach in May 2021. Further investigation revealed that an unknown threat actor had unauthorized access to its ecosystems since May 2016.  Further investigation revealed that the threat actor was able to access 5 years of databases within their network which included conversations by customers worldwide through their cellular connection and service facility.
+
+After the news about this unknown threat actor came up in the public, Syniverse company gave a follow up statement to Security Week, a cyber security news and analysis site. In the statement, they mentioned that  “All EDT (Electronic Data Transfer) customers have had their credentials reset or inactivated, even if their credentials were not impacted by the incident. We have communicated directly with our customers regarding this matter and have concluded that no additional action is required."
+
+Thus it is evident that such unauthorized access to a chunk of customer data from the largest telecom company will impact the privacy and security of its widespread global customers. In times of ever increasing sophistication in technology, many threat actors come into the picture for various financial, political and other reasons. No matter how organized their services are or how rigid their security systems are configured, until and unless vulnerabilities in our technology comes down to an absolute zero and as long as human errors are bound to happen, no technology is completely safe from a future compromise.
+
+As privacy and security is our utmost priority in the age of technology, we believe it is time we shift our communication platforms to more secure options. In the era of end-to-end encryption technology in many secure communication applications, it would be an act of jeopardizing our own privacy if we still constantly rely on basic cellular communication methods. Choosing to communicate from secure applications such as Signal, Wire, WhatsApp and etc, not only saves our cost, but moreover it provides us the privacy of end-to-end encryption technology which are not possible in the traditional setup of cellular communication like we have always done from the past.
