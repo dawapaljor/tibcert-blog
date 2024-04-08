@@ -1,7 +1,7 @@
 ---
 title: ཕེལ་བཞིན་པའི་རྒྱ་ནག་གི་བོད་ནང་རྟོག་བཟོས་སྒེར་དྲ་ཐོག་བཀག་སྡོམ།
 pubDate: 2024-01-22T18:30:00.000Z
-category: Bulletin
+category: སྙན་ཐོ།
 tags:
   - Reports
   - Tibetan
