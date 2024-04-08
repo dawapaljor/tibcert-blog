@@ -19,10 +19,10 @@ const boBlog = defineCollection({
 				.string()
 				.optional()
 				.transform((str) => (str ? new Date(str) : undefined)),
-			heroImage: z.string(),
+			heroImage: z.string().optional(),
 			category: z.enum(CATEGORIES),
 			translation: z.string().optional(),
-			tags: z.array(z.string()),
+			tags: z.array(z.string()).optional(),
 			draft: z.boolean().default(false)
 		})
 })
