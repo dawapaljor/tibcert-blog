@@ -3,7 +3,7 @@ author: ltsetan
 comments: true
 title: China’s Growing VPN Software Restrictions in Tibet
 pubDate: 2024-01-22T18:30:00.000Z
-category: Bulletin
+category: Reports
 tags:
   - censorship
   - Great firewall of China
