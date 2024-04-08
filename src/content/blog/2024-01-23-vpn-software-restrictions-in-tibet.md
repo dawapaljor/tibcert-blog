@@ -18,7 +18,7 @@ description: >-
   banking, research and information sharing
 translation: >-
   https://tibcert-blog.vercel.app/post-bo/2024-01-22-vpn-software-restrictions-in-tibet-bo/
-heroImage: /assets/sub-page.jpg
+heroImage: ''
 ---
 
 The dawn of the internet era among nations during the early 90s was prevalent for socio-economic development plans including business, education, health, banking, research and information sharing. The Internet came to China in 1994, under the presidency of Jiang Zemin and like the rest of the world, the nation was witnessing the shift from the industrial age to the information age. However the unregulated use of the internet was marked as a potential threat to the Chinese communist leadership and eventually many new technologies were integrated to monitor and control the behavior of its citizens and oppressed minorities. As Deng Xiaoping once said “If you open the window for fresh air, you have to expect some flies to blow in”. Ever since the reform era of the late 70s, the ruling government of China made sure that opening China to the world in terms of trade, economy and technology should not be superseded by the import of western liberal ideas of democracy and freedom of expression among its citizens. In simple terms, they demanded loyalty and conformity among its citizens and oppressed minorities to their communist policies and stood firmly on the ideology of so-called ‘[Protecting the Party](https://www.brookings.edu/articles/protect-the-party-chinas-growing-influence-in-the-developing-world/)’.  
