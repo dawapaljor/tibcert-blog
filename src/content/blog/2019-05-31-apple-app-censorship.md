@@ -8,7 +8,6 @@ tags:
 description: >-
   Apple has a long history of censorship when it comes to information about
   Tibet. In 2009, it was
-translation: 'https://tibcert-blog.vercel.app/post-bo/2019-07-15-apple-app-censorship-bo/'
 heroImage: ''
 ---
 
