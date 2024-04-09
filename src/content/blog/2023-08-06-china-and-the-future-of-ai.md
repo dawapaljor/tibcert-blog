@@ -2,6 +2,8 @@
 title: China and the future of AI
 pubDate: 2023-08-06T18:30:00.000Z
 category: Reports
+tags:
+  - AI
 description: >-
   In the break of the digital revolution and the rise of sophisticated
   technology infrastructures, we have come to an age where machines are capable
