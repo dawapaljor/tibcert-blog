@@ -11,14 +11,14 @@ const {
 
 const {language} = Astro.props;
 ---
-<article class='mx-5 grid grid-rows-auto group rounded-xl border  shadow-md p-3 backdrop-blur-sm bg-white/30  dark:bg-gradient-to-bl from-slate-700 via-gray-700 to-zinc-800 dark:border-[#ef482c]'>
+<article class='grid grid-rows-auto group rounded-xl border shadow-md p-3 backdrop-blur-sm bg-white/30  dark:bg-gradient-to-bl from-slate-700 via-gray-700 to-zinc-800 dark:border-[#ef482c]'>
 {
 	heroImage && (
 	<a class='relative' href={`/${language}/${slug}/`}
 		><Image
 			src={heroImage}
-			width={600}
-			height={200}
+			width={400}
+			height={50}
 			format='webp'
 			class='h-full min-w-full object-cover rounded-xl opacity-0 hover:scale-[101%] transition-all duration-200 '
 			alt={`img of ${title}`}
