@@ -9,16 +9,12 @@ const boBlog = defineCollection({
 	schema: ({ image }) =>
 		z.object({
 			title: z.string().max(180),
-			description: z.string(),
+			description: z.string().optional(),
 			// Transform string to Date object
 			pubDate: z
 				.string()
 				.or(z.date())
 				.transform((val) => new Date(val)),
-			updatedDate: z
-				.string()
-				.optional()
-				.transform((str) => (str ? new Date(str) : undefined)),
 			heroImage: z.string().optional(),
 			category: z.enum(CATEGORIES),
 			translation: z.string().optional(),
@@ -41,10 +37,6 @@ const blog = defineCollection({
 				.string()
 				.or(z.date())
 				.transform((val) => new Date(val)),
-			updatedDate: z
-				.string()
-				.optional()
-				.transform((str) => (str ? new Date(str) : undefined)),
 			heroImage: z.string().optional(),
 			translation: z.string().optional(),
 			category: z.enum(CATEGORIES),

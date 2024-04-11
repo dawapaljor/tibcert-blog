@@ -2,7 +2,7 @@
 import { type CollectionEntry, getCollection } from 'astro:content'
 import BlogPost from '@/layouts/BlogPost'
 import Code from '@/components/mdx/Code'
-import ListRelatedPosts from '@/components/ListRelatedPosts'
+import ListRelatedPostsBo from '@/components/ListRelatedPostsBo'
 import Share from '@/components/Share'
 import TableOfContents from '@/components/TableOfContents'
 import { getBoPosts } from '@/utils'
@@ -50,7 +50,7 @@ const { Content, headings, remarkPluginFrontmatter } = await post.render()
 
 			<div>
 				<h2 class='font-bold text-lg dark:text-white mb-6'>Related Posts</h2>
-				<ListRelatedPosts posts={relatedPosts} />
+				<ListRelatedPostsBo posts={relatedPosts} />
 			</div>
 		</div>
 	</div>
