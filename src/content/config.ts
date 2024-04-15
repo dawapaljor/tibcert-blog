@@ -18,7 +18,7 @@ const boBlog = defineCollection({
 			heroImage: z.string().optional(),
 			category: z.enum(CATEGORIES),
 			translation: z.string().optional(),
-			tags: z.array(z.string()).optional(),
+			tags: z.array(z.string()),
 			draft: z.boolean().default(false)
 		})
 })

@@ -23,7 +23,9 @@ const post = Astro.props
 
 const getRelatedPosts = (post: Props) => {
 	const relatedPosts = posts.filter(
-	(p) => p.slug !== post.slug && p.data.tags && p.data.tags.some((t) => post.data.tags.includes(t))
+
+		(p) => p.slug !== post.slug && p.data.tags && p.data.tags.some((t) => post.data.tags.includes(t))
+
 		
 	)
 	return relatedPosts.slice(0, 3)
