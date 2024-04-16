@@ -1,6 +1,7 @@
 ---
 import { siteConfig } from '@/site-config'
 import '../styles/global.css'
+import  SpeedInsights  from "@vercel/speed-insights/astro"
 
 export interface Props {
 	title: string
@@ -57,3 +58,4 @@ const siteTitle = `${title} ${titleSeparator} ${siteConfig.title}`
 
 <!-- RSS auto-discovery -->
 <link rel='alternate' type='application/rss+xml' title={siteConfig.title} href='/rss.xml' />
+<SpeedInsights />
