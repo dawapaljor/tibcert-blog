@@ -4,12 +4,13 @@ import FormattedDate from '@/components/FormattedDate'
 import ArrowUp from '@/components/icons/ArrowUp'
 
 const {
-	data: { title, description, pubDate, heroImage,translation,category },
+	data: { title, description, pubDate, heroImage,translation,category, },
 	readTime,
 	slug
 } = Astro.props
 
 const {language} = Astro.props;
+const {readIn} = Astro.props;
 ---
 <article class='grid grid-rows-auto group rounded-xl border shadow-md p-3 backdrop-blur-sm bg-white/30  dark:bg-gradient-to-bl from-slate-700 via-gray-700 to-zinc-800 dark:border-[#ef482c]'>
 {
@@ -34,7 +35,7 @@ const {language} = Astro.props;
 			</div>
 			{
 				translation && (
-				<a class="bg-slate-200 font-semibold text-indigo-900 dark:bg-[#EF482C] dark:text-white shadow text-xs w-fit px-2 py-1 md:px-3 md:py-1 rounded-md" href={translation}>Read In Tibetan</a>
+				<a class="bg-slate-200 font-semibold text-indigo-900 dark:bg-[#EF482C] dark:text-white shadow text-xs w-fit px-2 py-1 md:px-3 md:py-1 rounded-md" href={translation}> {readIn}</a>
 				)
 				
 			}		

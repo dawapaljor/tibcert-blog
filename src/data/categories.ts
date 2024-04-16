@@ -3,6 +3,7 @@ export const CATEGORIES = [
 	'Bulletin',
 	'Reports',
 	'Bo Report',
-	'སྙན་ཐོ།'
+	'སྙན་ཐོ།',
+	'དུས་དེབ་'
 ] as const
 

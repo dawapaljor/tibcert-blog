@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout'
 import ListPosts from '@/components/ListPosts'
-import ListCategories from '@/components/ListCategories'
+import ListCategoriesBo from '@/components/ListCategoriesBo'
 import Shape from '@/components/icons/Shape'
 import { sluglify, unsluglify, getCategories, getPosts, getBoPosts,  getBoCategories} from '@/utils'
 import Logo from '@/components/icons/Logo'
@@ -25,6 +25,6 @@ const filterPosts = posts.filter(
 )
 ---
 <BaseLayout title={category}>
-	<ListCategories activeCategory={category} />
+	<ListCategoriesBo activeCategory={category} />
 	<ListPosts  posts={filterPosts} />
 </BaseLayout>

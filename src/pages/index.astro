@@ -9,6 +9,7 @@ import Logo from '@/components/icons/Logo'
 const MAX_POSTS = 10 // max number of posts to show on the home page
 const posts = await getPosts(MAX_POSTS)
 const language = "post"
+
 ---
 
 <BaseLayout title='Home'>
@@ -16,7 +17,7 @@ const language = "post"
 	<ListCategories />
 	
 	<div>
-		<ListPosts FirstBig={false} posts={posts} language={ language } />
+		<ListPosts FirstBig={true} posts={posts} language={language}  langReadIn="བོད་ཡིག་ནང་ཀླག་" />
 	</div>
 </BaseLayout>
 

@@ -1,28 +1,29 @@
 ---
-import ListCategories from '@/components/ListCategories'
+import ListCategoriesBo from '@/components/ListCategoriesBo'
 import ListPosts from '@/components/ListPosts'
 import Shape from '@/components/icons/Shape'
-import BaseLayoutBo from '@/layouts/BaseLayoutBo'
+import BaseLayout from '@/layouts/BaseLayout'
 import { getBoPosts } from '@/utils'
 import Logo from '@/components/icons/Logo'
 
 const MAX_POSTS = 10 // max number of posts to show on the home page
 const posts = await getBoPosts(MAX_POSTS)
 const language = "post-bo"
+
 ---
 
-<BaseLayoutBo title='Home'>
-	<ListCategories />
-	<h2 class='text-lg font-medium tracking-wide text-end'>Latest Post</h2>
+<BaseLayout title='Home'>
+	
+	<ListCategoriesBo />
+	
 	<div>
-		<ListPosts FirstBig={false} posts={posts}  language={ language }/>
+		<ListPosts FirstBig={true} posts={posts} language={language}  langReadIn="Read In English" />
 	</div>
 </BaseLayout>
 
 <script>
 	import { animate } from 'motion'
 	const showAnimations = localStorage.getItem('animations') === 'true'
-
 	if (showAnimations) {
 		animate(
 			'.title',
