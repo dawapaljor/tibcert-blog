@@ -5,6 +5,7 @@ import Shape from '@/components/icons/Shape'
 import BaseLayout from '@/layouts/BaseLayout'
 import { getBoPosts } from '@/utils'
 import Logo from '@/components/icons/Logo'
+import BaseLayoutBo from '@/layouts/BaseLayoutBo'
 
 const MAX_POSTS = 10 // max number of posts to show on the home page
 const posts = await getBoPosts(MAX_POSTS)
@@ -12,14 +13,13 @@ const language = "post-bo"
 
 ---
 
-<BaseLayout title='Home'>
+<BaseLayoutBo title='Home'>
 	
 	<ListCategoriesBo />
-	
 	<div>
 		<ListPosts FirstBig={true} posts={posts} language={language}  langReadIn="Read In English" />
 	</div>
-</BaseLayout>
+</BaseLayoutBo>
 
 <script>
 	import { animate } from 'motion'

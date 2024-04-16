@@ -31,6 +31,11 @@
 		src: url(../assets/fonts/Manrope-Regular.woff2) format('woff2');
 	}
 
+	@font-face {
+		font-family: monlam;
+		src: url(../assets/fonts/MonlamUniOuChan2.ttf) format('truetype');
+	}
+
 	/* prose styles here */
 	.prose h1,
 	h2,
@@ -64,4 +69,7 @@
 	background-color: rgba(255, 255, 255, 0.05);
 	border: 1px solid rgba(255, 255, 255, 0.05);
 	z-index: -1;
+}
+[lang="bo"]{
+	font-family: monlam !important;
 }
