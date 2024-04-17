@@ -15,6 +15,8 @@ description: >-
   Telefónica, and América Móvil. The company provides services which are used to
   connect the networks of different mobile carriers and enable the transmission
   of data between them.
+translation: >-
+  https://tibcert-blog.vercel.app/post-bo/2022-01-31-the-wakeup-call-to-choose-secure-communication-platforms-bo/
 heroImage: /assets/SyniverseDataBreach.jpg
 ---
 
