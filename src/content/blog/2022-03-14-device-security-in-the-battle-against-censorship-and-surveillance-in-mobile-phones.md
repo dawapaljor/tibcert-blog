@@ -15,6 +15,8 @@ description: >-
   We live in an era of digital revolution, where information access and exchange
   are just one click away from us, thanks to the internet and the rise of
   smartphones and other devices. 
+translation: >-
+  https://tibcert-blog.vercel.app/post-bo/2022-03-14-device-security-in-the-battle-against-censorship-and-surveillance-in-mobile-phones-bo/
 heroImage: /assets/censorship-and-survelliance-blog-1.png
 ---
 
