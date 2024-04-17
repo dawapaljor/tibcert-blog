@@ -15,6 +15,8 @@ description: >-
   In this modern world which heavily relies on technology for geo-political,
   military and economic reasons, it is quite evident that nations are taking
   their technological advancements to new heights.
+translation: >-
+  https://tibcert-blog.vercel.app/post-bo/2023-04-13-growing-security-concerns-over-tiktok-bo/
 heroImage: /assets/TikTok-banned-countries.jpg
 ---
 
