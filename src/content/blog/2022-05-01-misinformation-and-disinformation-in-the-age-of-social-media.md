@@ -15,6 +15,8 @@ description: >-
   and professional lives cannot be denied. This is the age of information where
   people around the world can exchange facts, views, opinions and ideologies
   through a click of a button. 
+translation: >-
+  https://tibcert-blog.vercel.app/post-bo/2022-05-01-misinformation-and-disinformation-in-the-age-of-social-media-bo/
 heroImage: /assets/blog report/Think-before-you-share.jpeg
 ---
 
@@ -42,4 +44,4 @@ When an individual refuses to further share any unverified/fake news, that indiv
 
 * We should always cross check for [official and verified sources](https://learn.tibcert.org/category/disinfo-misinfo/) of information before taking any news and posts seen on social media and other media platforms as truth. Any information shouldn’t be shared without prior fact checking. This is why the  “[Think before you share](https://tibetaction.net/digitalsecurity/stay-formidable-online/)” concept comes to its highest relevance. We should always take time to think twice before sharing any information we see or hear from online or offline sources as the truth.
 * To minimize the threat of fake accounts luring us with fake news, we should always [review](https://learn.tibcert.org/knowledge-base/how-do-we-know-if-the-facebook-account-is-fake/) who can be friends with us in social media and to not accept random friend requests without verifying whether it is genuine or fake. To stay safe from the threat of “identity thefts”, we should also minimize the amount of personal information we keep on our social media accounts and additionally use [security and privacy features](https://learn.tibcert.org/knowledge-base/best-practices-to-protect-your-privacy-and-stay-secure-on-facebook/) of such platforms to set up whom we should allow to view our content or the personal details we keep on our accounts.  Furthermore when an individual sees proper confirmation that an account they are dealing with is a fake one, they shouldn’t forget to report the account to make the social media intermediaries take the needed action against the account.
-* One can contact our helpdesk  support\@tibcert.org for any fake or doubtful information if seen to be circulated within our community. We will generate a ticket to your mail query and respond to your query within 48hr.
+* One can contact our helpdesk  [support@tibcert.org](mailto:support@tibcert.org) for any fake or doubtful information if seen to be circulated within our community. We will generate a ticket to your mail query and respond to your query within 48hr.
