@@ -18,6 +18,8 @@ description: >-
   globe, our modern societies have also become inseparable from technology and
   the internet. This growth in technology implies a growth in our civilization,
   pushing individuals and nations to heavily rely on it unlike ever before. 
+translation: >-
+  https://tibcert-blog.vercel.app/post-bo/2022-07-14-chinese-techno-nationalism-in-the-age-of-5g-revolution-bo/
 heroImage: /assets/blog report/Chinese-5G-threat.webp
 ---
 
@@ -43,5 +45,3 @@ China’s unfair trade practices, subsidies, market barriers, and intellectual p
 * Formulate forward-looking industrial policy in terms of the next generation of global technologies. 
 * Support domestic and trustworthy companies whose products will be essential to the future of 5G.
 * Play a collaborative leadership role in international standards-setting bodies instead of letting a single nation dominate and bring monopoly with regards to the upcoming generation of wireless technologies.
-
-
