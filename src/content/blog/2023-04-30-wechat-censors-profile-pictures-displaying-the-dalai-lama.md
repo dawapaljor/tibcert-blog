@@ -39,5 +39,4 @@ There is a clear indication that a political attribution must be there behind th
 
 Some of the uncensored negative photos around the manipulated video of the Dalai Lama on Chinese social media platforms are as below :
 
-
 ![](</assets/blog report/Weibo-uncensored-1.jpg>)
