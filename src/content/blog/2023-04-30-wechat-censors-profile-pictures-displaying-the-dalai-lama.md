@@ -18,6 +18,8 @@ description: >-
   injustice against the Tibetans, essentially to dismantle Tibetan religion,
   language and culture on the pretext of Cultural Revolution and peaceful
   liberation.
+translation: >-
+  https://tibcert-blog.vercel.app/post-bo/2023-04-30-wechat-censors-profile-pictures-displaying-the-dalai-lama-bo/
 heroImage: /assets/China-propaganda-on-dalai-lama-2.png
 ---
 
@@ -36,7 +38,6 @@ In such a time, the sentiments of Tibetans and international followers of Buddhi
 For a very long time, it was nearly impossible to ever see a single photo and video of the Dalai Lama in social media platforms whose users are based within the jurisdiction of Tibet and mainland China. However, the manipulated viral video of the Dalai Lama gained momentum in Chinese social media platforms particularly in Sina Weibo which is China’s version of Twitter. Social media users based within Tibet and China were able to see the manipulated clip as well as some negatively intended AI generated photos associated with the Dalai Lama. Eventually the Dalai Lama became the most trending topic on Weibo after the controversial misrepresented clip caught fire on the internet, an incident which never happened in China for the last 60 years ever since Tibet’s occupation. 
 
 ![](</assets/blog report/image-1-600x915.png>)Fig 1 : The Dalai Lama becomes the most trending topic on Weibo
-
 
 ![](</assets/blog report/image-4-600x939.png>)Fig 2: The Dalai Lama becomes the most trending topic on Weibo
 
