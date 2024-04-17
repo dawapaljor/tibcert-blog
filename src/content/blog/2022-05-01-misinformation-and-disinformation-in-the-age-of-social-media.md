@@ -16,7 +16,7 @@ description: >-
   people around the world can exchange facts, views, opinions and ideologies
   through a click of a button. 
 translation: >-
-  https://tibcert-blog.vercel.app/post-bo/2022-05-01-misinformation-and-disinformation-in-the-age-of-social-media-bo/
+  https://tibcert-blog.vercel.app/post-bo/2022-05-01-misinformation-and-disinformation-in-the-age-of-social-media-bo/ 
 heroImage: /assets/blog report/Think-before-you-share.jpeg
 ---
 
