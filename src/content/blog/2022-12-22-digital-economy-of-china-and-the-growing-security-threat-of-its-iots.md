@@ -19,7 +19,7 @@ translation: >-
 heroImage: /assets/blog report/china-digital-economy-blog-post-1-min.png
 ---
 
-Key takeaways : 
+## Key takeaways : 
 
 * The exponential growth of China’s digital economy with its ever growing IoTs pose serious security implications to the world. 
 * Using Chinese devices, IoTs and network infrastructures gives our adversary a strategic advantage of unleashing their unprecedented surveillance and censorship against us.
