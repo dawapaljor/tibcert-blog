@@ -59,12 +59,16 @@ export default defineConfig({
             options: ['Reports','Bulletin'],
           },
           {
-            label: 'Tags',
-            name: 'tags',
-            type: 'string',
-            list: true,
-            required: true,
-          },
+						type: 'string',
+						name: 'tags',
+						required: true,
+						label: 'Tags',
+						description: 'Tags for this post',
+						list: true,
+						ui: {
+							component: 'tags'
+						}
+					},
           {
             type: "string",
             name: "description",
@@ -123,12 +127,16 @@ export default defineConfig({
             options: ['སྙན་ཐོ།','Bulletin'],
           },
           {
-            label: 'Tags',
-            name: 'tags',
-            type: 'string',
-            list: true,
-            required: true,
-          },
+						type: 'string',
+						name: 'tags',
+						required: true,
+						label: 'Tags',
+						description: 'Tags for this post',
+						list: true,
+						ui: {
+							component: 'tags'
+						}
+					},
           {
             type: "string",
             name: "description",
