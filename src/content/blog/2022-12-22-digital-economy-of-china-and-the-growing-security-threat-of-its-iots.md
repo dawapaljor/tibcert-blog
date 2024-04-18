@@ -4,11 +4,11 @@ pubDate: 2022-12-22T18:30:00.000Z
 category: Reports
 tags:
   - Security threat
-  - 'IoTs '
-  - 'Digital Economy '
-  - 'Data Security law '
+  - IoTs
+  - Digital Economy
+  - Data Security law
   - Cybersecurity law
-  - ' China'
+  - China
 description: >-
   China’s digital economy is growing at an exponential rate that can be
   challenged by few. The digital economy is any economic form that directly or

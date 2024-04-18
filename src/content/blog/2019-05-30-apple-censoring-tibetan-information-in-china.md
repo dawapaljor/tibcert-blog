@@ -3,7 +3,7 @@ title: Apple Censoring Tibetan Information in China
 pubDate: 2019-05-30T18:30:00.000Z
 category: Reports
 tags:
-  - ' censorship'
+  - censorship
   - Apple
 description: >-
   Apple has a long history of censorship when it comes to information about

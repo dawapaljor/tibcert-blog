@@ -6,11 +6,11 @@ pubDate: 2022-03-14T18:30:00.000Z
 category: Reports
 tags:
   - vpn
-  - 'surveillance '
-  - 'security '
-  - 'privacy '
-  - 'mobile security '
-  - 'censorship '
+  - surveillance
+  - security
+  - privacy
+  - mobile security
+  - censorship
 description: >-
   We live in an era of digital revolution, where information access and exchange
   are just one click away from us, thanks to the internet and the rise of

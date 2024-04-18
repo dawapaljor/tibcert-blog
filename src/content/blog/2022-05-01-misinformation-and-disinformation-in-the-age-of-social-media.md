@@ -4,12 +4,12 @@ pubDate: 2022-05-01T18:30:00.000Z
 category: Reports
 tags:
   - think before you share
-  - 'social media '
-  - 'misinformation '
-  - 'identity theft '
-  - 'fakenews '
-  - 'disinformation '
-  - '50 cent army '
+  - social media
+  - misinformation
+  - identity theft
+  - fakenews
+  - disinformation
+  - 50CentArmy
 description: >-
   In the era of the 21st century, the dominance of the internet in our personal
   and professional lives cannot be denied. This is the age of information where

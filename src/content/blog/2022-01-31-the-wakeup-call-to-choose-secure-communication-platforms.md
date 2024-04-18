@@ -4,10 +4,10 @@ pubDate: 2022-01-31T18:30:00.000Z
 category: Reports
 tags:
   - Syniverse
-  - 'hacking '
-  - 'end to end encrypted '
-  - 'cellular communication '
-  - 'Data breach '
+  - hacking
+  - end to end encrypted
+  - cellular communication
+  - Data breach
 description: >-
   Syniverse is a telecom company which has roughly 1,250 corporate customers
   across 200 countries, including a vast majority of the world’s mobile

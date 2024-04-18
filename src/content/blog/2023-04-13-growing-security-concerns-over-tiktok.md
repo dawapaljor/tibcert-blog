@@ -4,13 +4,13 @@ pubDate: 2023-04-13T18:30:00.000Z
 category: Reports
 tags:
   - TikTok Ban
-  - 'TikTok  '
-  - 'surveillance '
-  - 'Splinternet '
+  - TikTok
+  - surveillance
+  - Splinternet
   - Great firewall of China
-  - 'European Commission '
-  - 'censorship '
-  - 'App Security '
+  - European Commission
+  - censorship
+
 description: >-
   In this modern world which heavily relies on technology for geo-political,
   military and economic reasons, it is quite evident that nations are taking

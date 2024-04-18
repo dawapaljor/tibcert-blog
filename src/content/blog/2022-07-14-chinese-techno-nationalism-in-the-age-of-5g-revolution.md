@@ -3,16 +3,11 @@ title: Chinese Techno-nationalism in the age of 5G revolution
 pubDate: 2022-07-14T18:30:00.000Z
 category: Reports
 tags:
+  - BRI
+  - DigitalSilkRoad
+  - huawei
+  - wireless
   - zte
-  - wireless technology
-  - 'Tibet '
-  - 'huawei '
-  - 'Digital Silk Road '
-  - 'Chinese security threat '
-  - 'BRI '
-  - 'Belt and Road initiative '
-  - '5G cellular technology '
-  - '5g '
 description: >-
   In the wake of exponential advancements in digital technology around the
   globe, our modern societies have also become inseparable from technology and
