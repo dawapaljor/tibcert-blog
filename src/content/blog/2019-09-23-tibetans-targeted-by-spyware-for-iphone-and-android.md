@@ -37,7 +37,6 @@ The conversation with “Jason Wu” was not an isolated incident but part of an
 
 In addition to targeting iPhones, the spying campaign also targeted Android devices and tried to use malicious Open Authentication (OAuth) applications to gain access to Gmail accounts. Over the course of the campaign, the Citizen Lab collected one iOS exploit and eight distinct Android exploits. In total, from November 11-14, 2018, there were 15 attempts to infect mobile phones of Tibetan targets. Of these 15 infection attempts, 12 were sent with links to the iOS exploit. A final attempt was sent on April 22, 2019. Table 1 shows the targets and exploits sent to both Android and iOS phones.
 
-
 The targeted individuals received malicious links in individually tailored WhatsApp text exchanges from seven fake personas designed to appear as journalists, staff at international advocacy organisations, volunteers to Tibetan human rights groups, and tourists to India. The fake personas actively engaged in conversations and persistently attempted to infect targets, demonstrating significant effort in social engineering. The fake personas exclusively used phone numbers on WhatsApp with a Hong Kong country code (+852). Links were sent using URL shorteners such as bit.ly to disguise the actual link. 
 
 ## “New York Times” Reporter 
@@ -50,8 +49,7 @@ In another intrusion attempt, a staff member from the same Tibetan human rights 
 
 Besides iOS and Android exploit chains, OAuth has also been used in phishing attacks both in targeted operations and generic cyber crime. Recently, we have seen campaigns using malicious OAuth applications target the Tibetan community, potentially in an effort to bypass users who are using two factor authentication on their Google accounts. 
 
-On May 31, 2019, a member of the Tibetan Parliament received a WhatsApp message requesting confirmation of a news story. The message included two bit.ly links (Figure 3). The first link was sent in the message lined to hxxps\://www\.energy-mail\[.]org/B20V54, which redirected to a Google OAuth application called Energy Mail that requests access to Gmail data. The second link served an Android exploit. 
-
+On May 31, 2019, a member of the Tibetan Parliament received a WhatsApp message requesting confirmation of a news story. The message included two bit.ly links (Figure 3). The first link was sent in the message lined to hxxps\://[www.energy-mail\[.\]org/B20V54](http://www.energy-mail\[.]org/B20V54), which redirected to a Google OAuth application called Energy Mail that requests access to Gmail data. The second link served an Android exploit. 
 
 ![](</assets/blog report/5.jpg>)
 
@@ -65,4 +63,4 @@ A common thread between these different espionage campaigns is a focus on clever
 
 For the full report by the Citizen Lab (including technical data), please read [https://citizenlab.ca/](https://citizenlab.ca/2019/09/poison-carp-tibetan-groups-targeted-with-1-click-mobile-exploits/)
 
-As a target community, it becomes critical that we report these infection attempts immediately to protect and grow our collective digital security knowledge. Please contact us at info\@tibcert.org if you have any questions or notice anything suspicious with your digital devices. Lastly, as we meditate to clear our minds and help increase our focus, we can do the same for our devices by keeping them updated with the latest security releases, thereby keeping them free of infection.
+As a target community, it becomes critical that we report these infection attempts immediately to protect and grow our collective digital security knowledge. Please contact us at [info@tibcert.org](mailto:info@tibcert.org) if you have any questions or notice anything suspicious with your digital devices. Lastly, as we meditate to clear our minds and help increase our focus, we can do the same for our devices by keeping them updated with the latest security releases, thereby keeping them free of infection.
