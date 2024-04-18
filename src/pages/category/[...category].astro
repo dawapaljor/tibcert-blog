@@ -18,8 +18,8 @@ export async function getStaticPaths() {
 }
 
 const unsluglifyNameCategory = unsluglify(category!.toLowerCase())
-
-const posts = await getPosts()
+const MAX_POSTS = 15
+const posts = await getPosts(MAX_POSTS)
 const filterPosts = posts.filter(
 	(post) => post.data.category.toLowerCase() === unsluglifyNameCategory
 )

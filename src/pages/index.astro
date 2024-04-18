@@ -6,7 +6,9 @@ import BaseLayout from '@/layouts/BaseLayout'
 import { getPosts } from '@/utils'
 import Logo from '@/components/icons/Logo'
 
-const MAX_POSTS = 10 // max number of posts to show on the home page
+
+
+const MAX_POSTS = 15 // max number of posts to show on the home page
 const posts = await getPosts(MAX_POSTS)
 const language = "post"
 
