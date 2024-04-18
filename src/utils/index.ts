@@ -1,5 +1,5 @@
 export { sluglify, unsluglify } from './sluglify'
 export { cn } from './cn'
-export { getCategories, getPosts, } from './post'
+export { getCategories, getPosts, getTags, getPostByTag, filterPostsByCategory } from './post'
 export { getBoPosts,getBoCategories } from './post-bo'
 export { remarkReadingTime } from './readTime'

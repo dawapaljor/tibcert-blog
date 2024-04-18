@@ -1,0 +1,16 @@
+---
+// this tag component intended to place at the bottom of index page
+
+import Title from './Title.astro'
+import Shape from './icons/Shape.astro'
+type Props = {
+	title: string
+}
+
+const { title } = Astro.props
+---
+
+<div class='justify-start items-center gap-2 title'>
+	
+	<Title>{title}</Title>
+</div>
