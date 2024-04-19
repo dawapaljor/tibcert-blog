@@ -14,6 +14,8 @@ description: >-
   num
 ---
 
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftibcert%2Fvideos%2F206021650450711%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 Malicious malware attacks targeting Tibetans is on the rise. Attackers pretending to be journalists or researchers from respected human rights organizations are sending links to Tibetans containing malware. One click will give the attackers full access to their mobile phone. Namgyal Dolkar was one of those attacked. [https://blog.tibcert.org/category/reports/](https://blog.tibcert.org/category/reports/)
 
 November 12, 2018 was a beautiful, sunny day in Dharamshala. Cars honked in the bazaar while overnight Delhi buses tried to maneuver through the small, twisting roads. In Mcleodganj, the hilltown was bustling as ever with both local and international tourists. Later that night, a senior staff member at a Tibetan human rights group was contacted on WhatsApp from a previously unknown number.
@@ -36,7 +38,10 @@ The conversation with “Jason Wu” was not an isolated incident but part of an
 * Tibetan human rights groups.
 
 In addition to targeting iPhones, the spying campaign also targeted Android devices and tried to use malicious Open Authentication (OAuth) applications to gain access to Gmail accounts. Over the course of the campaign, the Citizen Lab collected one iOS exploit and eight distinct Android exploits. In total, from November 11-14, 2018, there were 15 attempts to infect mobile phones of Tibetan targets. Of these 15 infection attempts, 12 were sent with links to the iOS exploit. A final attempt was sent on April 22, 2019. Table 1 shows the targets and exploits sent to both Android and iOS phones.
-
+\| Site    |  | iOS | Android |
+\| ------- |  | --- | ------- |
+\| exploit |  | 1   | 8       |
+\| target  |  | 12  | 3       |
 The targeted individuals received malicious links in individually tailored WhatsApp text exchanges from seven fake personas designed to appear as journalists, staff at international advocacy organisations, volunteers to Tibetan human rights groups, and tourists to India. The fake personas actively engaged in conversations and persistently attempted to infect targets, demonstrating significant effort in social engineering. The fake personas exclusively used phone numbers on WhatsApp with a Hong Kong country code (+852). Links were sent using URL shorteners such as bit.ly to disguise the actual link. 
 
 ## “New York Times” Reporter 
