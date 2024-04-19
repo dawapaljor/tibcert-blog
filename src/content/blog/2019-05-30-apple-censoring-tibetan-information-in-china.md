@@ -8,6 +8,8 @@ tags:
 description: >-
   Apple has a long history of censorship when it comes to information about
   Tibet.
+translation: >-
+  https://tibcert-blog.vercel.app/post-bo/2019-07-14-apple-censoring-tibetan-information-in-china-bo/
 heroImage: ''
 ---
 
