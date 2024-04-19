@@ -8,10 +8,10 @@ tags:
 description: >-
   Apple has a long history of censorship when it comes to information about
   Tibet.
-heroImage: ''
+heroImage: /assets/blog report/unnamed-600x257.png
 ---
 
-![](</assets/blog report/unnamed-600x257.png>)![](</assets/blog report/unnamed-600x298.jpg>)
+![](</assets/blog report/unnamed-600x298.jpg>)
 
 Apple has a long history of censorship when it comes to information about Tibet. In 2009, it was [revealed](https://www.computerworld.com/article/2522424/apple-censors-dalai-lama-iphone-apps-in-china.html) that several apps related to the Dalai Lama were not available in the China App Store. The developers of these apps were not notified that their apps were removed. When confronted with these instances of censorship, an Apple spokesperson simply said that the company “continues to comply with local laws”.
 In December, 2017, at a conference in China, when asked about working with the Chinese authorities to censor the Apple App Store, Tim Cook [proclaimed](https://appleinsider.com/articles/17/12/06/apple-ceo-tim-cook-talks-chinese-supply-chain-censorship-and-more-in-interview):
@@ -78,5 +78,3 @@ Tibetan Apps that are being censored by Apple :
 27. VOA Tibetan
 28. Voice of Tibet
 29. 藏传佛教·课颂集
-
-
