@@ -97,5 +97,3 @@ Recommendations to the Government of Nepal
 * Make publicly available the contents of cooperation agreements and MOUs signed in relation to digital infrastructure or governance cooperation between Nepal and China, and consider establishing a national transparency database for easy access to all such agreements.
 * Amend or repeal draft provisions such as the Social Media Bill, Information Technology Bill, and others that do not align with internet freedom principles, in part for expanding the censorship powers of the state in ways similar to those advocated by China under the Cyberspace Administration of China. Any social media regulation must comply with international human rights law, the Manila Principles on Intermediary Liability, and others.
 * Amend or repeal the National Cybersecurity Policy in line with international human rights law, and in particular do not proceed with plans for a government intranet and National Internet Gateway.
-
-![](</assets/blog report/pasted image 1.png>)
