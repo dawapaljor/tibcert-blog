@@ -31,8 +31,10 @@
 	"dependencies": {
 		"@astrojs/check": "^0.5.10",
 		"@astrojs/rss": "^4.0.5",
+		"@tinacms/auth": "^1.0.5",
 		"@vercel/speed-insights": "^1.0.10",
 		"astro": "^4.5.14",
+		"next-tinacms-cloudinary": "^5.0.5",
 		"tinacms": "^1.6.1"
 	},
 	"devDependencies": {
