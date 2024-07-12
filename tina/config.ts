@@ -32,7 +32,7 @@ export default defineConfig({
       {
         name: "blog",
         label: "Blog",
-        path: "src/content/blog",
+        path: "src/content/post",
         ui: {
           filename: {
             slugify: values => {
@@ -100,7 +100,7 @@ export default defineConfig({
       {
         name: "boBlog",
         label: "Tibetan",
-        path: "src/content/boBlog",
+        path: "src/content/boPost",
         ui: {
           filename: {
             slugify: values => {
