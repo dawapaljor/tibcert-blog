@@ -4,7 +4,7 @@ import BlogPost from '@/layouts/BlogPost'
 import Code from '@/components/mdx/Code'
 import ListRelatedPostsBo from '@/components/ListRelatedPostsBo'
 import Share from '@/components/Share'
-import TableOfContents from '@/components/TableOfContents'
+//import TableOfContents from '@/components/TableOfContents-disabled'
 import { getBoPosts } from '@/utils'
 const posts = await getCollection('boBlog')
 
@@ -42,7 +42,7 @@ const { Content, headings, remarkPluginFrontmatter } = await post.render()
 		<aside class='md:flex flex-col gap-8 hidden'>
 			<Share />
 			<div class='sticky top-24 self-start hidden md:block transition-all duration-200 font-monlam'>
-				{headings && headings.length > 0 && <TableOfContents {headings} />}
+			<!-- 	{headings && headings.length > 0 && <TableOfContents {headings} />} -->
 			</div>
 		</aside>
 
