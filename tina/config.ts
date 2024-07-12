@@ -16,15 +16,10 @@ export default defineConfig({
     publicFolder: "public",
   },
   media: {
-   /* tina: {
+    tina: {
       mediaRoot: "assets",
       publicFolder: "public",
     },
-    */
-    loadCustomStore: async () => {
-            const pack = await import("next-tinacms-cloudinary");
-            return pack.TinaCloudCloudinaryMediaStore;
-          },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
@@ -32,7 +27,7 @@ export default defineConfig({
       {
         name: "blog",
         label: "Blog",
-        path: "src/content/post",
+        path: "src/content/blog",
         ui: {
           filename: {
             slugify: values => {
@@ -100,7 +95,7 @@ export default defineConfig({
       {
         name: "boBlog",
         label: "Tibetan",
-        path: "src/content/boPost",
+        path: "src/content/boBlog",
         ui: {
           filename: {
             slugify: values => {
