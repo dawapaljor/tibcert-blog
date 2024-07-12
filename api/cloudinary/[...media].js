@@ -1,11 +1,12 @@
 import {
   mediaHandlerConfig,
   createMediaHandler,
-} from 'next-tinacms-cloudinary/dist/handlers'
+} from "next-tinacms-cloudinary/dist/handlers.js";
 
-import { isAuthorized } from '@tinacms/auth'
+import pkg from "@tinacms/auth";
+const { isAuthorized } = pkg;
 
-export const config = mediaHandlerConfig
+export const config = mediaHandlerConfig;
 
 export default createMediaHandler({
   cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
@@ -13,16 +14,16 @@ export default createMediaHandler({
   api_secret: process.env.CLOUDINARY_API_SECRET,
   authorized: async (req, _res) => {
     try {
-      if (process.env.NODE_ENV == 'development') {
-        return true
+      if (process.env.NODE_ENV == "development") {
+        return true;
       }
 
-      const user = await isAuthorized(req)
+      const user = await isAuthorized(req);
 
-      return user && user.verified
+      return user?.verified || false;
     } catch (e) {
-      console.error(e)
-      return false
+      console.error(e);
+      return false;
     }
   },
-})
+});
