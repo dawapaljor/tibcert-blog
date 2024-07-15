@@ -10,7 +10,7 @@ description: >-
   Tibet.
 translation: >-
   https://tibcert-blog.vercel.app/post-bo/2019-07-14-apple-censoring-tibetan-information-in-china-bo/
-heroImage: ''
+heroImage: /assets/blog report/WhatsApp-Image-2020-05-07-at-19.23.15-1200x675.jpeg
 ---
 
 ![](</assets/blog report/unnamed-600x257.png>)![](</assets/blog report/unnamed-600x298.jpg>)
