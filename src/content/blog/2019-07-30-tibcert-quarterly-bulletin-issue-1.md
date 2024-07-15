@@ -8,4 +8,6 @@ description: TibCERT Quarterly Bulletin Issue 1
 translation: /post-bo/2024-07-15-tibcert-quarterly-bulletin-issue-1-bo
 ---
 
-![tibcert-bulletin-1.3](https://res.cloudinary.com/daarpik83/image/upload/v1721020115/tibcert-bulletin-1.3_fxnqaa.pdf "tibcert-bulletin-1.3")
+
+<object data="https://res.cloudinary.com/daarpik83/image/upload/v1721020115/tibcert-bulletin-1.3_fxnqaa.pdf" type="application/pdf" width="100%"> 
+</object>
