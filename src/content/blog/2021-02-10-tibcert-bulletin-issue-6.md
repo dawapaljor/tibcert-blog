@@ -110,9 +110,57 @@ A detailed explanation of the above steps are on our website at:   [https://le
 
 In the third quarter of this year, we saw a huge surge in ransomware attacks. Globally, a total of 199.7 million such attacks were reported in the third quarter of 2020 alone. In short, a ransomware attack is a form of malware that encrypts a victim’s files/drive so the user cannot access their own information. The attacker then demands a ransom from the victim to restore access to the data upon payment. Everyone is at risk of ransomware. If you have any type of public-facing platform such as a social media account, website, or even just your personal computer or office desktop, you can be a potential target of ransomware. 
 
-While most people have no idea how a ransomware attack occurs, it is important to know that the most common deliveries are malicious links or attachments that come via email, masquerading as a file that looks like something trustworthy. Once you’ve downloaded the attachments and opened them, they can take over your device, allowing attackers the administrative access to make changes in your device, in this case, encrypting folders or drives. The best way to mitigate ransomware attacks is by keeping backups of your data, since there’s no guarantee whether you’ll actually be able to recover your files even after paying a ransom. In fact, we strongly recommend you keep a backup of your backup as well, in case your backup also crashes or is lost. 
+While most people have no idea how a ransomware attack occurs, it is important to know that the most common deliveries are malicious links or attachments that come via email, masquerading as a file that looks like something trustworthy. Once you’ve downloaded the attachments and opened them, they can take over your device, allowing attackers the administrative access to make changes in your device, in this case, encrypting folders or drives. The best way to mitigate ransomware attacks is by keeping backups of your data, since there’s no guarantee whether you’ll actually be able to recover your file![](https://res.cloudinary.com/daarpik83/image/upload/v1721038255/WhatsApp_Image_2020-12-16_at_9.24.58_AM_dwk1do.jpg)s even after paying a ransom. In fact, we strongly recommend you keep a backup of your backup as well, in case your backup also crashes or is lost. 
 
 Not long ago, a few ransomware cases occurred in the Tibetan community. In one instance, a whole server was encrypted by attackers who then asked for a ransom to decrypt the server. In another case, the attacker encrypted only some parts of files in the computer which was still very disruptive. The type of encryption used in this latter instance was “.ogdo” which falls into the category of Ogdo ransomware. Ogdo is a malicious program which is part of the Djvu ransomware group and is specifically designed to encrypt data for ransom. As shown in the figure below, during the encryption process, all of the compromised files were appended with the “.ogdo” extension. For example, the original file titled “2010-TCV teaching Buddhism 4\01\VIDEO\_TS.BUP” changed to “2010-TCV teaching Buddhism 4\01\VIDEO\_TS.BUP.ogdo” following encryption. After this process is completed, ransom-demanding messages “readme.txt” are created and dropped into affected folders. The ransom note (“\_readme.txt”) states that all of the victim’s data has been encrypted with the strongest encryption and a unique key. The message reassures users that they can recover their files by purchasing the decryption keys and software from the cybercriminals behind Ogdo ransomware. 
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038228/WhatsApp_Image_2020-12-16_at_10.14.35_AM_tkycfd.jpg)Figure 3: Screenshot of files encrypted with the extra extension “.ogdo” after the actual file name. 
+
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038255/WhatsApp_Image_2020-12-16_at_9.24.58_AM_dwk1do.jpg)Figure 4: The readme text asking for ransom payments to recover the encrypted files. 
+
+
+In order to avoid ransomware attacks, there are some preventive measures we can take: 
+
+* Think Before You Click: Always think twice before clicking on suspicious or random links in unsolicited emails. 
+* Detach From Attachments: Do not open or send email attachments to help avoid malware attacks.
+* Keep Backups of Data: Create a separate data backup in an external hard drive that is not connected to your computer. This way you won’t have to pay a ransom for an attack. 
+* Never Disclose Your Personal Information to Any Unfamiliar Sites: Do not provide personal information when answering an email, unsolicited phone call, text message, or instant message. Phishers will try to trick employees into installing malware or gain intelligence for attacks by claiming to be from a trusted service provider.
+* Don’t Wait, Update: Make sure that all systems and software on your devices are up-to-date with the latest patches. Exploit kits hosted on compromised websites are commonly used to spread malware. Regular patching of vulnerable software is necessary to help prevent infiltration. 
+* Do Not Pay the Ransom: Payment only encourages and funds these attackers. Even if the ransom is paid, there is no guarantee that you will be able to regain access to your files.
+
+To learn more about the importance of data backup and best practices with regard to backups, please refer to [https://learn.tibcert.org/knowledge-base/importance-of-data-backup-and-recovery/. ](https://learn.tibcert.org/knowledge-base/importance-of-data-backup-and-recovery/) 
+
+3.3 Rise in Malicious Emails Received by our Community/Targeted Threats through Email
+
+Our community has been receiving socially engineered emails from the Chinese government for more than a decade. However, we have noticed that the number of email attacks has decreased over the last few years. But ever since the Indian government began banning Chinese apps, the number of email attacks has spiked again. For example, we have seen different malicious emails received by TibCERT members which are all connected to each other in some way. Given the drastic reduction in the number of users for Chinese apps, we can hypothesize that the increase in email attacks could be correlated with the reduction in vulnerability for attacks via Chinese apps.
+
+In the month of October 2019, we discovered some malicious email attacks targeting our community. In one instance, the sender sent an email pretending to be from the Office of His Holiness the Dalai Lama (OHHDL). This was an example of email spoofing in which the attacker fabricated the header of the email in hopes of tricking the recipient into thinking the message is from the intended source. In this case, the body of the email consisted of a Google Drive link that would download an executable file when clicked, installing malware on the recipient’s device.  ![](https://res.cloudinary.com/daarpik83/image/upload/v1721038292/1_1_z478fu.png)Figure 5: Email header where the sender is md-in-68.webhostbox.net 
+
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038315/T_q51zrr.png)Figure 6: Fake email received from attacker consisting of  a Google Drive link 
+
+
+A similar email with the same email id was sent to another individual including the same Google Drive link. It looks like the attackers are well aware that our community doesn’t easily open random attachments and unknown links given a growing knowledge of the risks. Instead, they sent the malware through Google Drive since many people are aware that Google can detect malware and remove it as soon as it detects it, making it a less risky bet. However, since this corrupted Google Drive file was zipped and password-protected, it cannot be scanned for malware. Taking advantage of this vulnerability, the attacker sent a zip file in Google Drive containing MESSAGEMANIFOLD malware. This was part of a “spear-phishing” campaign targeting the Tibetan community that was previously used to attack the Taiwanese legislature. The executable file dalailama-Invitation.exe is in the Google Drive link and, when clicked, a window error pops-up and automatically downloads an executable file to “C:\users\public” of the infected device. 
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038351/1_2_zfumu5.png)Figure 7: Fake email id of OHHDL using the website jetmore.org
+
+
+On the 19th of October, 2020, there was another email spoofing attack pretending to be from the Office of His Holiness the Dalai Lama. This email contained a link to a .pdf attachment. The sender’s email appeared as ohhdl\@dalailama.online which is not a legitimate email address. When analyzing the email, we found that the attacker had given fake details while registering the spoofing email account. 
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038389/pasted_image_0_4_ivkooq.png)Figure 8: Background details of the email account is baseless and fake 
+
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038419/pasted_image_0_5_tpogzb.png)Figure 9: Email consisting of this .pdf with a Google Drive link inside it
+
+
+Through a search on [www.whois.com](http://www.whois.com/), we have determined that the registrant’s contact information is all fake and the dalailama.online was created just a few days before the email attack, as shown in the figure below. 
+
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038457/pasted_image_0_6_i5umct.png)Figure 10: dalailama.online was created a few days before the actual email was sent
+
+
+
 
 
 
