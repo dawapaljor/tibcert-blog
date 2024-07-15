@@ -10,7 +10,7 @@ description: >-
   Tibet.
 translation: >-
   https://tibcert-blog.vercel.app/post-bo/2019-07-14-apple-censoring-tibetan-information-in-china-bo/
-
+heroImage: /assets/China-propaganda-on-dalai-lama-2.png
 ---
 
 ![](</assets/blog report/unnamed-600x257.png>)![](</assets/blog report/unnamed-600x298.jpg>)
