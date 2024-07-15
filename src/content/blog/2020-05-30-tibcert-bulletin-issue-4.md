@@ -3,6 +3,7 @@ title: TibCERT Bulletin Issue 4
 pubDate: 2020-05-30T18:30:00.000Z
 category: Bulletin
 tags:
+  - tibcert
   - bulletin
 description: >-
   The Tibetan Computer Emergency Readiness Team (TibCERT) is a formal,
