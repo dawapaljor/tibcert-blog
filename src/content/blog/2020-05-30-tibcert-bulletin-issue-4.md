@@ -202,11 +202,11 @@ With the outbreak of COVID-19 pandemic, various nations imposed lockdowns and qu
 
 However, before we go into the security issues related to Zoom (part of a research report by the Citizen Lab), it is important to take a step back and consider certain questions, parameters, and best practices when deciding whether or not to use any proprietary software or service (not just Zoom). For example: 
 
-*
-*
-*
-*
-* What and who are any threats to you or your work and are they involved with this company in any type of way that could be harmful to you or your organization? 
+- TibCERT promotes open source tools, however we acknowledge the reality that many of us will probably be using proprietary software for usability or functionality (whether paid or free). So the ability to use open source tools is not present at all times.
+- When choosing a software or service, look into the track record of the company as it is an important aspect in understanding how the company operates. Has the company had any privacy issues in the past or misled the public in any way?
+- Has the service or software you are considering been independently analyzed and verified? Does the company share responsible disclosure and how has it reacted to past compromises or challenges to its product or operations?
+What and who are any threats to you or your work and are they involved with this company in any type of way that could be harmful to you or your organization? 
+- What are you using this service for? Is it for public consumption (e.g., online events or conversations that would not be harmful if listened to by people outside your intended audience) or for more privacy focused work (e.g., planning calls or sharing of sensitive information).
 
 When asking yourself such questions, it is important to remember that no technology application is the solution for everything as there are always pros and cons. The important thing to remember is that when deciding which tech to use, the answer is more nuanced than just focusing on black and white criteria. Know what tech you are using for what purpose, and if you decide not to use one type of software, do not just jump to another without properly vetting it and thinking about the above framework.
 
