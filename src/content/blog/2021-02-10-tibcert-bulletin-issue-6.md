@@ -159,8 +159,62 @@ Through a search on [www.whois.com](http://www.whois.com/), we have determined 
 
 ![](https://res.cloudinary.com/daarpik83/image/upload/v1721038457/pasted_image_0_6_i5umct.png)Figure 10: dalailama.online was created a few days before the actual email was sent
 
+TibCERT solutions:
+
+With ongoing threats, it remains extremely important to continue utilizing best practices for avoiding attacks. Once again, you should always:
+
+* “[Think Before You Click](https://tibetaction.net/digitalsecurity/onlinesecurity/) – Whenever you receive an email from an unfamiliar sender, it is crucial to verify the email address and make sure it is someone you can trust. Also, always beware of links. Before clicking a link, you can verify it by copying the link into [https://virustotal.com](https://virustotal.com/) and scanning it for potential malware. 
+* [Detach from Attachments](https://tibetaction.net/digitalsecurity/onlinesecurity/) – An attachment such as a Word Document, PDF file, or any type of file can be weaponized with malicious software that can be used to infect your computer when opened. The best alternate approach for sharing information is to use Google Drive instead of attachments. However, to avoid vulnerabilities, only use the preview option to view a document rather than downloading it and avoid files like .exe for Windows, .dmg for Mac, and zipped files in general since Google can not scan them for any malicious content. You can also refer to our knowledgebase website [https://learn.tibcert.org/](https://learn.tibcert.org/knowledge-base-category/best-practices/) to help better understand other best practices. 
+* [Don’t Wait, Update](https://tibetaction.net/digitalsecurity/computersecurity/) – Developers purposely make software updates to patch the security holes. If you don’t update on time there will be a security hole that attackers can utilize to enter and compromise your device. Therefore, make sure you update your software as soon as it is available.
+
+[Be a 30-Second Email Detective](https://tibetaction.net/digitalsecurity/onlinesecurity/) – Since email threats are continuously increasing, understanding how to detect suspicious emails will surely reduce the risks presented by email threats. 
 
 
+1. Check whether you recognize the email sender. 
+2. Check if it’s a recognized sender but with a different domain.
+3. Check for misspelled words in the email name.
+4. Always beware of attachments or suspicious links, even from a trusted sender. 
+
+4\. Predictions for the Coming Year
+
+4.1 Disinformation and Misinformation 
+
+Today, the dominance of the internet in our personal and professional lives cannot be denied. In this age of information, people around the world can exchange facts, views, opinions, and ideologies through the click of a button. However, the difference between exchanging information and opinions in real life and doing so on the internet can be a totally different scenario. When people exchange their opinions and ideologies sitting face to face, they are often more careful with their words. On the other hand, the internet has become a platform where people can post almost anything online, regardless of whether it hurts other people or if the information itself is genuine or not. The dark side of the internet is this false sense of anonymity many people feel while they are online and, as a result, don’t care or think about the potential negative effects of content they post online. Some do it deliberately while others do it out of sheer naivete. 
+
+As detailed in our [4th issue of the bulletin](https://blog.tibcert.org/bulletin-issue-4/), the spread of misinformation (sharing false information without verifying its content) and disinformation (deliberately spreading fake content with the intent to harm) are serious issues facing the Tibetan community. As the 2021 Tibetan Sikyong and Parliamentary elections are nearing, we could face an unprecedented challenge to our democracy and fair electoral processes through the spread of harmful misinformation and disinformation. We must not let our varying ideologies (e.g., from different schools of Tibetan Buddhism or regional backgrounds) or personal opinions regarding candidates lead to unnecessary divisions via character assassinations or misleading representations. It is important always, and particularly at this moment with regard to the election, to remain vigilant against false information. For example, in the month of September 2020, a fake letter went viral in the name of His Holiness The Dalai Lama. The letter urged Tibetans to elect a leader that could continue to work with dedication like the current CTA President Lobsang Sangay and not a candidate who is “controversial and questionable.” While the Office of the Dalai Lama issued a statement that the letter was fake, it is a clear example of a misleading message to defame His Holiness the Dalai Lama, influence voters, as well as cause disruption in the unity of Tibetans in the diaspora. 
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038491/The-Office-of-His-Holiness-the-Dalai-Lama-on-Monday-said-the-letter-is-fake.-_vmq5yb.jpg)Figure 11: A fake letter about the upcoming election pretending to be from OHHDL.
+
+During an August 5, 2020 press conference, the Tibetan Election Commission issued [guidelines](https://www.tibetanelection.net/wp-content/uploads/2020/08/Guidelines.pdf) urging everyone to take individual responsibility and be careful not to spread misinformation and disinformation through social media platforms that could negatively affect a free, fair, and respectful electoral process. 
+
+Beyond the election, the ongoing pandemic continues to provide a breeding ground for the spread of false information. At the beginning of the 2020 lockdown in India, a lot of COVID-19 related mis/disinformation went viral, manipulating people’s faith in science and religion. With the ongoing pandemic, we believe news related to COVID-19 may keep spreading without proper verification. In particular, as many countries distribute COVID-19 vaccines, it’s critical to be careful about possible fake news regarding how effective or ineffective the new COVID-19 vaccines are. Furthermore, in the coming days, there is a huge possibility that we may encounter misinformation and disinformation regarding the new strain of COVID-19 emerging from the southeastern region of the U.K, dubbed as VUI-202012/01. It is very important that until proper research is available on this new strain of the virus, we shouldn’t simply take as the truth any information shared with us through the media or our community circles.  
+
+In addition, CCP state-sponsored disinformation campaigns continue to emerge through a wide range of fake social media accounts, predominantly Facebook, WeChat, and Twitter. The most recent example is the online Geneva Forum with its central theme on the “Global Impact of China’s Policy on Freedom of Religion.” It was hosted live on Facebook where fake accounts in multiple languages posted more than 50,000 comments over three days, propagating false CCP narratives. These fake accounts are most likely run by the 50 Cent Army, a CCP-sponsored entity. According to Phayul, “The government-employed troll army proficient in multiple languages, reportedly numbering from [five hundred thousand to two million, ](https://www.voanews.com/east-asia-pacific/who-are-chinese-trolls-50-cent-army)works to post comments on the Internet, praising the image and integrity of the CCP and attack its critics with the intention of fabricating facts as well as removing content deemed as unfavorable.” The attacks of the 50 Cent Army have grown exponentially due to the COVID-19 pandemic and the rise of individuals and organizations engaging in online activities such as virtual official meetings to conferences.
+
+TibCERT’s Solution:
+
+* Given the escalating level of mis/disinformation, we should always cross-check for official and verified sources of information for any news and posts seen on social media and other media platforms. Information shouldn’t be shared without prior fact-checking. This is why the “Think Before You Share” concept is essential to help mitigate the potential harm done by sharing and believing in false and unverified information.
+* Please contact our help desk at  [support@tibcert.org](mailto:support@tibet.org) to report any fake or doubtful information you see circulating within our community. We will generate a ticket to your email query and do our best to respond within 48 hours. 
+* Reporting Fake Accounts and Disabling Spam Comments from Fake Social Media Accounts
+
+For any fake accounts found on Facebook, one can go to the profile and report the account.
+
+* ![](https://res.cloudinary.com/daarpik83/image/upload/v1721038526/fake_account_report_p3rlkt.jpg)
+
+* To manage spam and hate comments on Facebook live meetings and conferences, we can use the comment moderation feature to limit or disable comments made by newly made fake accounts or comments made without following the live sessions for a specific duration of time.
+  ![](https://res.cloudinary.com/daarpik83/image/upload/v1721038557/comment_moderation_fb_live_mvhpkp.jpg)
+* 4.2 Online Fake Accounts, Spam, and Hate Comments 
+  People have always been looking to connect and network with each other. Today, people are shifting from postal delivery letters to emails, landline phone calls to video calls, and from newspapers to news apps. In this age of digitization, people have found ways to be socially interactive on the internet through popular social networking platforms such as Facebook, Instagram, Snapchat, Twitter, etc. In 2020, there were 3.8 billion people actively using social media in this world, an increase of  9.2% from 2019. Back in 2015, there were only 2.07 billion users. Along with the rising number of social media users, there are also more fake accounts. Facebook estimates that 5% of accounts on the platform are fake accounts, or more than 90 million, a figure that hasn’t budged for more than a year. 
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038583/pasted_image_0_7_pmxqtn.png)Figure 12: social network platforms as of October 2020, ranked by number of active users
 
 
+The issue of fake accounts can seem never-ending, with another billion fake accounts removed every few months. It is clear that fake accounts are not going to stop any time soon, with ongoing spam messages and hate comments continuing to impact their victims. But there are a few mitigation strategies we can implement to lessen the impact of spam and online hate comments. 
 
+Before going live on Facebook, for example, there are some settings we can manage to give less flexibility to fake accounts and hate comments. Go to Settings and under Comment Settings, you can: 
+
+* Enable only your Followers to be able to leave comments.
+* Slow commenters down so they can only comment every 10 seconds. 
+* Activate Discussions so only comments over 100 characters will be shown.
+* Turn on Restricted comments so commenters must have accounts that are at least two weeks old. 
+* Use the Protected setting so that commenters must have followed you for at least 15 minutes. 
