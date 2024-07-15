@@ -139,3 +139,90 @@ Since May 2019, the attack campaign has been active, targeting various Asian rel
 | \*\*\*\*\*ialwork.org    | Charity                            |
 | \*\*\*\*\*nature.net     | Environmental conservation network |
 | \*\*\*\*\*airtrade.com   | Fair trade organization            |
+
+### 4.2 An Update on Incident Response
+
+After Kaspersky’s report came out, TibCERT became aware of the organizations that fell victim to this attack. As a result, TibCERT contacted the organization whose website was compromised and our team is working collaboratively with the group to locate the malware and remove it. We also are engaging the  TibCERT member organization whose office systems and server were compromised through contact with a compromised website. Since India is still under national lockdown, we are providing incident response remotely at this time. Due to confidentiality and privacy of the affected organizations, we can not disclose any more information.
+
+It is important to underscore that the only way to be impacted by this attack is to have attempted to download the fake Adobe Flash player update on an affected website, not just visiting the site. If you believe you may have been infected, please reach out to [support@tibcert.org](mailto:support@tibcert.org). And remember, the practice of “Think Before You Click” ([https://tibetaction.net/digitalsecurity/onlinesecurity/](https://tibetaction.net/digitalsecurity/onlinesecurity/)) is the best way to stay safe from attacks.
+
+## 5. Digital Security Update
+
+### 5.1 WeChat COVID-19 Research by the Citizen Lab
+
+COVID-19 is a pandemic that originated in Wuhan, China in early December, 2019. Since then, the pandemic has triggered the government of China to increase its scope of censorship on social media platforms in order to cut out any coronavirus-related content.
+
+Given the high level of censorship on the popular messaging platform WeChat, the Citizen Lab of the University of Toronto set out to discover censored keyword combinations. When a message is sent from one WeChat user to another, it passes through a server managed by Tencent (WeChat’s parent company) which detects if the message includes any blacklisted keywords. To determine what is being censored, the Citizen Lab used scripted group chat conversations to test certain words, publishing their findings in a report detailing censorship of WeChat messages during this pandemic.
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721028660/8-600x267_xbfmom.png)
+
+Figure 8: An Illustration of Client-side vs. Server-side Censorship
+
+For their research, the Citizen Lab used Chinese WeChat accounts to monitor whether the messages they posted in group chats were being filtered. They used three test accounts: one registered to a mainland Chinese phone number and two registered outside of China. None of these accounts were tied to actual users. If the Chinese account did not receive the message sent from the other users, then the message was flagged as containing one or more keyword combinations that had triggered text censorship. For the safety of other WeChat users, the Citizen Lab limited their test accounts to interacting with each other in the group chat and never interacted with real users on the platform.
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721028702/9-600x507_japtnl.jpg)Figure 9: Example of Keyword Censorship for User in China
+
+Between January 1, 2020 and February 15, 2020, the Citizen Lab found 516 COVID-19-related keyword combinations that were censored in the scripted WeChat group chat. This included 132 keywords found from January 1st–31st, 2020 and 384 new keywords found in just two weeks of February 2020.
+The government of China’s internet censorship has been known to censor any information that authorities decide could harm the country, though a major goal of state censorship is to maintain control over people under the Chinese government’s rule, including in Tibet. Also, we have seen that the government’s censorship changes with situations like this pandemic. In late December, for example, authorities began censoring COVID-19-related content with 45 keywords, with the word count greatly increasing as the coronavirus pandemic took hold. This censorship may include companies over-censoring in order to avoid official reprimands for failing to prevent the distribution of “harmful information” including “inappropriate comments and descriptions of natural disasters and large-scale incidents,” as required by the Chinese government.
+
+### 5.2 WeChat Research on Surveillance
+
+Until now, we have only known about WeChat surveillance and censorship of China-registered accounts. Thanks to another recent report by the Citizen Lab, we now know that WeChat surveils accounts registered outside of China for any politically sensitive content, collecting the account’s MD5 hash (a kind of digital fingerprint). 
+
+This database of MD5 hashes eventually helps in censoring content sent in China-registered accounts. For example, when a document or image is sent in a conversation between two non-China registered accounts, it is scanned for sensitive text and the overall image is visually compared to a blacklist of known sensitive images (this happens in real time). If the file is determined to be politically sensitive, then the MD5 hash of that file is flagged, meaning that the hash is retained by WeChat and used to more efficiently censor these files in the future.
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721028747/10-1_fphw2q.png)                    Figure 10: An Illustration of a Mapping File
+As seen in Figure 10, a hash is a unique hexadecimal number. In theory, it should be difficult to find or create files that will produce the same hash. It is possible to study how WeChat’s surveillance system works by creating two different images with the same hash—one politically sensitive and one benign.
+
+According to the research done by the Citizen Lab, it was found that when sending politically sensitive images between accounts registered outside of China, politically benign images with that same hash ended up also being censored when sent between Chinese accounts. Since the images used would generally be considered benign, they would not normally have been flagged as sensitive, proving that the hashes themselves are being monitored and resulting in real-time censorship in China-registered accounts. Therefore, the Citizen Lab’s research shows that not only are the files and images shared by people outside China under political surveillance, but their content is being used to train and build up the censorship system for China-registered WeChat accounts. Thus, it is evident that communication between WeChat’s international users contributes to a censorship system that is used to censor China-registered users. While it is not yet known whether Tencent is sharing international WeChat users’ communications with the Chinese government, the Citizen Lab’s research is groundbreaking in its revelation that WeChat’s surveillance system monitors content sent by one set of users to enhance the surveillance and censorship of another set.
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721028789/11-1-1024x726_lsth7r.jpg)Figure 11: Illustration of an image of HHDL sent between non-Chinese registered accounts which Tencent identifies as politically sensitive after analysis and stores its MD5 hash. This stored MD5 hash is used to censor the same image sent between Tibet-registered accounts in real time.
+
+### &#xA;5.3 TikTok Security Issues
+
+In 2017, the Chinese internet company ByteDance bought the Musical.ly app (based in Shanghai but with most users living in the United States). After the acquisition, ByteDance (now the largest startup company in the world) relaunched the app as TikTok, migrating all Musical.ly accounts over by August 2018.
+
+According to documents reviewed by The Guardian, ByteDance has been using TikTok to help further Chinese foreign policy efforts. TikTok’s moderation policy, for example, showed TikTok censoring content that was embarrassing or sensitive to the Chinese regime, at times quietly changing videos to be visible only to the poster or labeling them as “not recommended” or “not for feed,” thereby making them difficult to access. Such censored information has included highly controversial issues such as the Tiananmen Square massacre, Tibetan independence, the religious group Falun Gong, widely publicized pro-democracy protests in Hong Kong, Chinese government oppression of the Uyghur Muslim population, and other issues that criticize the social structure of the CCP.
+
+A specific incident of TikTok surveillance and censorship happened to Feroza Aziz when she was locked out of her account after the New Jersey teenager discussed the internment of Uyghur Muslims in Xinjiang in videos masquerading as makeup tutorials. Even though TikTok is only available outside of China, the app is censoring such content that may be banned in Tibet and China but is legal in the jurisdictions where its users are based. This raises some serious implications of Chinese censorship reaching far beyond its borders into free societies.
+
+One of the main areas of concern is that, due to Chinese data privacy laws, Chinese companies  hat collect user data have to share that data with the Chinese government upon request. It’s not that Chinese authorities actively monitor every user’s data in real time. However, the reality is that if and when authorities in Beijing make a demand, companies based in China have very little recourse to say no. This raises a major concern that the Chinese company Bytedance now owns TikTok, given that TikTok collects so much user data, including usernames, preferences, location data, and what’s recorded by microphone and camera.
+
+Due to concerns about the implications of Chinese government censorship of information in the United States, in the fall of 2019, U.S. officials launched a national security investigation of TikTok, led by the Committee on Foreign Investment in the United States (CFIUS) which reviews foreign investment and real estate transactions in the U.S with regard to national security. Given that TikTok did not seek clearance from CFIUS when it acquired Musical.ly, the U.S. security panel now has scope to investigate the deal.
+
+Furthermore, it has recently been revealed that TikTok sent an email to its employees in India to remove any content which is related to His Holiness the Dalai Lama, Tibet, or thought to be against the Chinese government. This act by TikTok not only shows that users now have much less control over their content as it might be removed, but it reveals the influence and power Chinese authorities wield over corporations in order to further the government’s agenda of control.
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721028838/12_vymh7n.jpg)Figure 12: Email from TikTok to Indian Employees
+
+Finally, the cybersecurity firm “Check Point ” found that TikTok has “multiple” security vulnerabilities. For example, attackers could create a fake text message that appeared to be from TikTok but actually contained a malicious link. Once users clicked on the link, hackers could take control of the account, manipulating the content by uploading and deleting videos and revealing personal information such as private email addresses. When describing TikTok, Reddit CEO Steve Huffman said, “Because I look at that app as so fundamentally parasitic, that it’s always listening, the fingerprinting technology they use is truly terrifying, and I could not bring myself to install an app like that on my phone.” “I actively tell people, ‘Don’t install that spyware on your phone,’ he later added.”
+
+### &#xA;5.4 Zoom
+
+With the outbreak of COVID-19 pandemic, various nations imposed lockdowns and quarantine laws to contain the spread of the virus. With the increased social distancing, many people around the globe started using video-conferencing platforms for personal and professional purposes. One of the most used platforms is Zoom video-conferencing. Daily meeting participants for Zoom surged from 10 million in December to 300 million in April. The sudden popularity of  Zoom, however, also uncovered multiple privacy risks when it expanded rapidly to massive numbers of people around the globe.
+
+However, before we go into the security issues related to Zoom (part of a research report by the Citizen Lab), it is important to take a step back and consider certain questions, parameters, and best practices when deciding whether or not to use any proprietary software or service (not just Zoom). For example: 
+
+*
+*
+*
+*
+* What and who are any threats to you or your work and are they involved with this company in any type of way that could be harmful to you or your organization? 
+
+When asking yourself such questions, it is important to remember that no technology application is the solution for everything as there are always pros and cons. The important thing to remember is that when deciding which tech to use, the answer is more nuanced than just focusing on black and white criteria. Know what tech you are using for what purpose, and if you decide not to use one type of software, do not just jump to another without properly vetting it and thinking about the above framework.
+
+So the question that is on everyone’s mind is should you use Zoom? In reality, this is for each individual to decide based on their own threats and how they are using Zoom (which again is true for any service or software). At TibCERT, based on the above criteria, we don’t recommend using Zoom for any Tibet movement internal calls. However, based on its usability and reach, we feel that there is less risk of using Zoom, for example, for public and online briefings, given that the information is meant to be consumed by anyone. In this way, it does not pose a threat if, for example, the Chinese government were to access the information. 
+
+On April 3, 2020, the Citizen Lab at the University of Toronto released a research report on Zoom which highlights the issues mentioned above. The key takeaways from the report are as follow:
+
+* Zoom was found to route its data traffic through China, even when none of the users were in China. The data being transferred through Chinese servers raised a number of questions regarding security, surveillance, and how Zoom might be forced to comply with the Chinese government if authorities demanded the release of data.
+* Zoom had claimed to use “AES-256” encryption for meetings. However, the Citizen Lab’s research showed that for each Zoom meeting, a single AES-128 key was used in ECB mode which has an inherent weakness due to the fact that this mode preserves patterns in the input.
+* Zoom had earlier misled users by saying it was using “end to end encryption” when in reality, Zoom meetings only implement transport encryption. This means data is only encrypted between the user and the server and not from one user to another user, as in the case of true end to end encryption.
+
+It must be noted that after the report came out, Zoom worked on these issues and provided updates with assurances that they have fixed the above and other security issues. However, it is also important to note that the only reason any of us are aware of these issues is the fact that the Citizen Lab decided to conduct this research for public knowledge. Given Zoom’s past questionable disclosures and inaccurate statements about its product security, it is again recommended not to conduct any Tibet sensitive conversations or planning over Zoom.
+
+To the question of what does TibCERT use instead of Zoom: we use Jitsi which is an open source video conference system and we have deployed our own instance. As for live streaming, we use OBS which is an open source live streaming software.
+
+In conclusion, it is important to understand the nuances on how to select a software/service based on your own threat and what you are using it for. And again, know what tech you are using for what purpose, and if you decide not to use one type of software, do not just jump to another without properly vetting it and thinking about the above framework. 
+
+Download PDF: [tibcert\_bulletin\_4\_bdz5jw](https://res.cloudinary.com/daarpik83/image/upload/v1721027119/tibcert_bulletin_4_bdz5jw.pdf "tibcert_bulletin_4_bdz5jw")
+[
+](https://blog.tibcert.org/wp-content/uploads/2020/05/11-1.jpg)
