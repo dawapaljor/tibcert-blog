@@ -87,6 +87,7 @@ export default defineConfig({
             type: 'image',
             label: 'Hero image',
             name: 'heroImage',
+            required: false,
           },
           {
             type: "rich-text",
@@ -155,6 +156,7 @@ export default defineConfig({
             type: 'image',
             label: 'Hero image',
             name: 'heroImage',
+            required: false,
           },
           {
             type: "rich-text",
