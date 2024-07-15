@@ -320,3 +320,15 @@ Apple-Notarized Malware is malware that has been notarized to run on Apple devic
 
 ![](https://res.cloudinary.com/daarpik83/image/upload/v1721038700/notarized-Shlayer-adware_t33hol.jpg)Figure 17 : The malicious Flash installer notarized by Apple
 
+
+How It Affects Apple Device Users?
+
+Since the malicious Adobe Flash installer potentially exposes Apple device users to malware, this essentially means the App Store is not 100% malware-free     or foolproof. “Apple revoked the notarized payloads when Wardle reached out, preventing the malware from running on Macs in the future.” “But Wardle said that the attackers were back soon after with a new, notarized payload, able to circumvent Mac’s security all over again. Apple confirmed to TechCrunch it has also blocked that payload. The cat and mouse game continues.” Given this ongoing potential threat, it is very important for users to help protect themselves against malware by following and implementing best security practices (see above), at the same time keeping well-informed on cybersecurity developments.
+
+5.4 Construction of The Highest Data Center in TAR
+
+China is using Lhasa, the capital city of Tibet, to build the highest altitude Cloud computing data center, standing at around 3,656 meters above sea level. This center will fulfill the data storage requirement of China and many South Asian countries as reported by state-run Xinhua news agency. 
+
+The facility stretches over 645,000 square meters with its temperate climate and low average temperature that are ideal for keeping servers cool, thereby reducing costs for running data centers compared to other Asian countries. This pushes forward Tibet into becoming a big data industrial base. The total planned investment is 11.8 billion yuan (over USD 1.80 billion) for the project. The project will provide services in areas such as video rendering, autonomous driving, distance-learning, data backup, and others, to major Chinese provinces and cities, as well as Nepal, Bangladesh, Pakistan, and part of Southeast Asia. 
+
+Chinese commerce giant Alibaba signed a massive agreement with Lhasa-based operator Ningsuan Technology Group (NTG) to bring Alibaba’s cloud computing business into the Tibetan region across different sectors like electricity supply, finance, national security, government affairs, public security, and cyberspace. The first phase is expected to start in 2021. After the completion of the first phase, the project is expected to generate an annual revenue of 1.5 billion yuan (about USD 223.5 million) according to NTG as reported on The IndianEXPRESS news website.
