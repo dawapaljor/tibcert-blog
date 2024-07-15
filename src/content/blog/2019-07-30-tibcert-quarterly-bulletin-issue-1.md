@@ -2,6 +2,8 @@
 title: TibCERT Quarterly Bulletin Issue 1
 pubDate: 2019-07-30T18:30:00.000Z
 category: Bulletin
+tags:
+  - Bulletin
 description: TibCERT Quarterly Bulletin Issue 1
 ---
 
