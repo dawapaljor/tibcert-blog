@@ -8,6 +8,8 @@ tags:
 ---
 
 
-<object data="https://res.cloudinary.com/daarpik83/image/upload/v1721018652/tibcert-bulletin-tibetan_eahnix.pdf" type="application/pdf" width="100%"> 
+<object data="https://res.cloudinary.com/daarpik83/image/upload/v1721018652/tibcert-bulletin-tibetan_eahnix.pdf" type="application/pdf" width="100%" height="800"> 
 </object>
-[tibcert-bulletin-tibetan]( https://res.cloudinary.com/daarpik83/image/upload/v1721018652/tibcert-bulletin-tibetan_eahnix.pdf)
+
+
+Download : [tibcert-bulletin-tibetan]( https://res.cloudinary.com/daarpik83/image/upload/v1721018652/tibcert-bulletin-tibetan_eahnix.pdf)

@@ -9,5 +9,7 @@ translation: /post-bo/2024-07-15-tibcert-quarterly-bulletin-issue-1-bo
 ---
 
 
-<object data="https://res.cloudinary.com/daarpik83/image/upload/v1721020115/tibcert-bulletin-1.3_fxnqaa.pdf" type="application/pdf" width="100%"> 
+<object data="https://res.cloudinary.com/daarpik83/image/upload/v1721020115/tibcert-bulletin-1.3_fxnqaa.pdf" type="application/pdf" width="100%" height="800"> 
 </object>
+
+Download : [tibcert-bulletin-tibetan]( https://res.cloudinary.com/daarpik83/image/upload/v1721020115/tibcert-bulletin-1.3_fxnqaa.pdf)
