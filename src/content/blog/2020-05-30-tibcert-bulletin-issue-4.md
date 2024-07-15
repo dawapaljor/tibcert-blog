@@ -49,7 +49,7 @@ Online privacy group Kaspersky recently published a report on a watering hole at
 2. TikTok, owned by ByteDance, has several security risks and vulnerabilities that allow attackers to use malicious links that seem to be from TikTok in order to gain access to user accounts. Attackers can then manipulate the account’s content, upload and delete videos, and access personal information such as private email addresses. It has also been discovered that TikTok has been censoring issues such as the Tiananmen Square massacre, Tibetan independence, the religious group Falun Gong, widely publicized pro-democracy protests in Hong Kong, Chinese government oppression of the Uyghur Muslim population, and other issues that criticize the social structure of the Chinese Communist Party (CCP). In addition, TikTok has sent emails to the company’s India content moderation team to remove any content related to His Holiness the Dalai Lama and Tibet. This shows how TikTok has been trying to control content being posted outside of China as well.
 3. In order to maintain social distancing during this pandemic, many people started working from home, leading to the rise of the use of video conferencing tools. Through its usability, Zoom became the tool that most people adopted and, in some ways, “Let’s Zoom” has become similar to “Let’s Skype,” which used to be synonymous with video calls a few years ago. However, researchers recently found some security issues with Zoom. One of them directly relates to Tibetans as the research showed Zoom data travelling through China. The question on everyone’s mind is, “Is Zoom safe to use and if not, what should we use?” We will explore questions such as these below in more detail, along with the underlying concept of how much we can trust proprietary software.
 
-### 2. Disinformation/Misinformation
+## 2. Disinformation/Misinformation
 
 False news is a major problem these days. Individuals and governments are using  social media and other communication platforms to dispatch both misinformation and disinformation. Misinformation refers to the unintentional spread of false information whereas disinformation refers to false information that is deliberately created to harm a person, social group, organization, or country. The spreading of disinformation can blur the lines between reality and fiction and is meant to confuse people. 
 
@@ -67,8 +67,7 @@ Likewise, there was also false news circulating that said a monk from Gaden Jang
 
 ![](https://res.cloudinary.com/daarpik83/image/upload/v1721027793/2-600x887_mlqwft.jpg)
 
-Figure 2: Clarification Letter by Gaden Tehor Khangtsen   
-
+Figure 2: Clarification Letter by Gaden Tehor Khangtsen
 
 Finally, another example of false news circulating in the Tibetan community was about protection from the coronavirus by keeping a picture of a certain spiritual amulet, as done by Sakya Trizin. This was not true and to correct this notion, the Office of Sakya Dolma Phodrang released a statement clarifying that while the amulet can help someone in general, it should not be relied on to help with COVID-19.
 
@@ -76,12 +75,21 @@ Finally, another example of false news circulating in the Tibetan community was 
 
 Figure 3: Clarification Letter by the Office of Sakya Dolma Phodrang
 
-Just as it can be said that, “War isn’t new,” it’s also true that misinformation and disinformation aren’t new. What’s different now is that we are living in a digital age where forwarding information is as quick as lightning. People tend to forward messages and stories if they see a catchy headline, without necessarily reading the content or determining if the information is genuine or not. Since misinformation/disinformation can be so harmful, it’s every individual’s responsibility to check whether the content has been verified or not. In addition, it’s very important to report fake content wherever you can, including to TibCERT at submit\@tibcert.org. In this way, we can all help keep our community updated with correct and useful information.
+Just as it can be said that, “War isn’t new,” it’s also true that misinformation and disinformation aren’t new. What’s different now is that we are living in a digital age where forwarding information is as quick as lightning. People tend to forward messages and stories if they see a catchy headline, without necessarily reading the content or determining if the information is genuine or not. Since misinformation/disinformation can be so harmful, it’s every individual’s responsibility to check whether the content has been verified or not. In addition, it’s very important to report fake content wherever you can, including to TibCERT at [submit@tibcert.org](mailto:submit@tibcert.org). In this way, we can all help keep our community updated with correct and useful information.
 
-## Think Before You Share
+### Think Before You Share
 
 ![](https://res.cloudinary.com/daarpik83/image/upload/v1721027887/4-300x300_z2hhkt.png)
 
 These days, most people get their news from online sources, relying heavily on mobile devices for communication. It is therefore easy for false information to spread naively and quickly, leading to confusion about what is true and what is not true. Therefore, the best practice you can always take is to “Think Before You Share,” making sure not to forward unverified information to your contacts. In this way, we can help save our community from the effects of receiving and acting on false information.  Since we have elections coming up in a few months, it will be critical for us all to avoid disinformation campaigns. If you come across any suspicious information, feel free to share with us for verification at [submit@tibcert.org](mailto:submit@tibcert.org).
+
+### 3. COVID-19 Updates
+
+### 3.1 TibCERT COVID-19 Website
+
+Tibetans in the diaspora are creating and distributing great resources to combat and cope with the ongoing pandemic. In order to collate and share useful information related to COVID-19 for Tibetans all around the world, TibCERT has created a website [https://covid19.tibcert.org](https://covid19.tibcert.org/) available in both English and Tibetan.
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721027994/5-768x380_fydta2.jpg)
+
 
 
