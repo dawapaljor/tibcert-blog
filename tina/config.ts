@@ -65,7 +65,7 @@ export default defineConfig({
           {
 						type: 'string',
 						name: 'tags',
-						required: true,
+						required: false,
 						label: 'Tags',
 						description: 'Tags for this post',
 						list: true,
@@ -134,7 +134,7 @@ export default defineConfig({
           {
 						type: 'string',
 						name: 'tags',
-						required: true,
+						required: false,
 						label: 'Tags',
 						description: 'Tags for this post',
 						list: true,
