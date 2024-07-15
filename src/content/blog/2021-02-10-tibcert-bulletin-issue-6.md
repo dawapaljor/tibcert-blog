@@ -218,3 +218,105 @@ Before going live on Facebook, for example, there are some settings we can manag
 * Activate Discussions so only comments over 100 characters will be shown.
 * Turn on Restricted comments so commenters must have accounts that are at least two weeks old. 
 * Use the Protected setting so that commenters must have followed you for at least 15 minutes. 
+
+5\. Digital Security Updates
+
+5.1 Increase in Surveillance and Censorship Worldwide Due to COVID-19 Excuse
+
+
+2020 was a year in which the pandemic affected everyone, forcing people to work from home and stay indoors, so eventually the use of technology and the internet spiked. This opportunity was taken by  governments around the world to introduce new and effective digital surveillance and data collection tools to combat COVID-19. However, new reports are surfacing stating that those technologies are actually being used as an abuse of power. 
+
+According to Freedom House, a human rights watchdog group, there has been a decline in global Internet freedom over the last 10 years. But with the outbreak of COVID-19, we have witnessed  a major rising abuse of  new digital surveillance technologies. Political leaders and authorities are using the ongoing pandemic as an excuse to limit access to information, at times blocking independent news sources and arresting whistleblowers speaking out against the spread of rumors and misinformation. In some cases, various government agencies have used misinformation to hide the real issues, using COVID-19 as an excuse to extend surveillance and deploy new and intrusive technologies. As such, the public healthcare crisis has opened up an opportunity for authorities to digitize, collect, and analyze people’s most intimate data without adequate protection against abuses. It has also led to an increase in artificial intelligence (AI), biometric surveillance, and big-data tools to make decisions that affect the economic, social, and political rights of individuals.
+
+In particular, with the onset of COVID-19, China has increased surveillance and censorship technology to avoid the spread of the virus. However, the CCP has simultaneously used this tech to help stop the free flow of information and squash criticism of the government via automated censorship, high-tech surveillance, and contact tracing.  
+
+5.2 Firmware Vulnerabilities
+
+Today’s computers, smartphones, or Internet of Things (IoTs) use software, some of which come preloaded on the device while others we download and install. An important concept that everyone should know is that technology keeps advancing and with that, every software is bound to have some vulnerabilities and bugs over time. One such software that comes along with your device is called Firmware. Firmware is a software program or set of instructions programmed on a hardware device. It provides the necessary instructions for how the device communicates with the other computer hardware. Firmware is typically stored in the flash [ROM](https://techterms.com/definition/rom) of a hardware device. While ROM is a “read-only memory,” flash ROM can be erased and rewritten because it is actually a type of [flash memory](https://techterms.com/definition/flashmemory).
+
+Why Does Firmware Security Matter?
+
+Firmware security by default isn’t as secure as it should be, especially in the Basic Input/Output System (BIOS) of most computers. A single device contains tons of firmware such as a webcam or sound card or display, etc. Since malware can be embedded in firmware or it can be hacked,  firmware can pose a huge risk to your computer and phone since firmware producers usually don’t design their firmware with security in mind. Firmware malware will exploit this lack of security by attaching its code to the firmware’s code. Since the firmware isn’t secured by a cryptographic signature, it won’t detect the infiltration and the malware will be hidden within the firmware code.
+
+What Are the Biggest Firmware Security Threats?
+
+A lack of firmware security opens you up to the same risks you’re exposed to if you don’t know how to prevent phishing or business email compromise, or any other cyber threats out there. Through firmware malware, attackers can::
+
+1. Initiate remote control of your system
+2. Secretly spy on you
+3. Exfiltrate your activity
+
+Huawei Firmware
+
+In 2019, Huawei unveiled its own OS. It was primarily designed to work with its IoT devices. Harmony version 2.0 beta was announced on Dec 16, 2020, with support for smartphones, head units, watches, and smart TVs. Harmony can run Android apps and functions just like Android phones but it is not another version of Android. Unlike Android’s monolithic kernels, Harmony is based on Microkernel. A Microkernel is more modular. 
+
+Like any other tech company, Huawei follows the same restrictive internet policy initiated by the Chinese government, yet it was also reported that Huawei received huge state support that helped it grow into the leading 5G network gear supplier it is today. According to the Washington Journal, Chinese government assistance helped Huawei grow the world’s largest telecommunications equipment supplier, allowing it to offer generous financing terms and undercut rivals’ prices by some 30 percent.
+
+Risk of Using Harmony OS
+
+Harmony OS maker Huawei has been in the news for all kinds of rumors related to security and privacy issues. The United States has recently banned Huawei 5G infrastructure in the U.S. along with all ties with U.S. companies due to its close relationship with the Chinese government. Australia and some European governments have also banned companies from any sort of dealing with Huawei for fear that the Chinese government is using the company’s products to spy on users outside of China. 
+
+Oppo Firmware
+
+Oppo is another Chinese electronics and mobile communications company and Oppo Stock ROM is the Official System (OS) of Oppo smartphones. The Stock ROM can be used to reinstall the operating system (OS), if in case you are facing any software related issues, boot loop issue, or IMEI issue. The Oppo Stock ROM can also be used to upgrade or downgrade the operating system (OS) on Oppo devices. Given the company’s ties to the Chinese government, there is an inherent risk of surveillance for users of Oppo firmware 
+
+Risk of Using Stock ROM Downloaded From the Internet
+
+* The risk of using Stock ROM that is downloaded from the internet is that third-party Stock ROM can masquerade as genuine Stock ROM. If you unintentionally install one of those ROMs then your data might be at serious risk from attackers. 
+* Stock ROM provided by tech companies is usually safe. However, since all Chinese tech companies are surveilled by the Chinese government, even if you use Stock ROM provided by the company, your data might still be at serious risk. Research has shown that Chinese companies install a backdoor in smartphone firmware which exposes a lot of user information to various governmental bodies. Information that is collected and transmitted includes:
+* Full-body text messages
+* Contact lists
+* Call history with full telephone numbers
+* Unique device identifiers including the International Mobile Subscriber Identity (IMSI) and the International Mobile Equipment Identity (IMEI) from a user’s phone.
+
+For example, in 2019, a vulnerability was found in Oppo firmware in the form of a preinstalled platform app. This app cannot be disabled by the user and the attack can be performed by a zero-permission app. The malware acts as the admin of the device which can allow a third-party app to video record the user’s screen, factory reset the device, obtain the user’s notifications, read the logs, inject events in the Graphical User Interface (GUI), obtain the user’s text messages, and more. This vulnerability can also be used to secretly record audio of the user.
+
+How Do You Implement Firmware Security?
+
+Firmware security is largely in the hands of hardware makers since it is the industry’s role to design their products to withstand malware infections and to release updates to fix security vulnerabilities when needed. However, there are several actions we can take to help keep our firmware secure.
+
+1. Update firmware as soon as the vendor releases it
+
+You should update your firmware to the latest version as quickly as possible to close any security holes and ensure the proper functioning of your hardware. 
+
+1. Don’t use untrusted USBs
+
+USBs are highly insecure and dangerous to use. A smart hacker can store malware into the firmware of the USB device itself. We suggest only using USBs that have been exclusively handled by you and you only.
+
+1. Buy hardware with built-in protection against malicious firmware
+
+The best step you can take is to buy hardware with built-in firmware security. BIOS vendors, among other hardware companies, are continually updating their security in light of past firmware vulnerabilities.
+
+5.3 Using Google Services (Docs, Sheets, Forms, etc.) to Weaponize and Bypass Security Features.
+
+Due to the COVID-19 pandemic, organizations have adopted a work from home model with many using Google or Microsoft services. Recently, there have been  new ways of weaponizing those infrastructures, with attackers increasingly abusing vulnerabilities found in Cloud services like Google Cloud services. In order to increase legitimacy and fool security filters, attackers have begun using Google services such as Google Forms, Google Docs, and Firebase.
+
+Attack Using Google Form to Acquire American Express Credentials
+
+In October 2020, an attack was orchestrated using Google Form where the attacker used the American Express logo as branding to capture the user’s American Express credentials card information, and other sensitive data. Research shows that a phishing link hosted on Google Form can bypass any security filters blocking known bad links or domains. Since the Google domain is reliable and Google Forms are widely used by many organizations, it will be unlikely to get detected by email security filter thus payload will be successfully deployed
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038635/oltalama-saldirisi-oltalama-kampanyasi_nteyca.png)Figure 15: Phishing page for the AmEx attack was hosted on a Google Form
+
+Microsoft Teams Credential Phishing
+
+In another case, the attacker sent an email impersonating Microsoft’s IT team, asking victims to review the secure message their colleague has shared over Microsoft Teams. By clicking the link, the victim is redirected to a page that looks just like the [Microsoft Team](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software), which will then redirect the user to the credential phishing site resembling the Office 365 login portal.
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038662/Screenshot_256_mivdmf.png)Figure 16: Summary of the Microsoft Teams credential phishing attack
+
+
+Why Those Attacks Got Through Undetected
+
+Both the Google and Microsoft attacks successfully got past the email authentication checks since they were sent via a legitimate domain and both the phishing pages were hosted on legitimate sites that enabled them to slip past firewalls and filters that block bad known domains. It is also a socially engineered email to steal credentials that will trick you into entering your credentials on fake websites. Therefore, it is easy to slip past you if you don’t do any basic email verification. Even then, some emails are hard to catch without carefully examining them since the information can seem real and personal to you. 
+
+5.4 Apple-Notarized Malware: What Is It and How Does It Affect Mac Users?
+
+What is Apple-Notarized?
+
+In 2019, Apple started a notarization process through which software developers must submit their apps for security checks before being allowed to run on Apple devices. The process involves an automatic check for certificate issues and any suspicious code on the apps. If the app completes the verification process and clears this exam then the app gets a notification ticket or security approval ticket from Apple for the app to be able to stay on the App Store and run on Apple devices. 
+
+What is Apple-Notarized Malware?
+
+Apple-Notarized Malware is malware that has been notarized to run on Apple devices. Apple uses a notarization mechanism to increase Apple device’s security by detecting and blocking malicious apps from being downloaded on an Apple device. Well-known Mac security researchers Peter Dantini and Patrick Wardle found a malware campaign disguised as an Adobe Flash installer, which is common and has been around for years. Usually, Macs block this type of malware immediately when opened. However, the researchers found one malicious Flash Installer that has code notarized by Apple and can run on Apple Devices. This means that Apple had scanned the code and Apple was not able to find any malware, so it had notarized it accidentally. 
+
+![](https://res.cloudinary.com/daarpik83/image/upload/v1721038700/notarized-Shlayer-adware_t33hol.jpg)Figure 17 : The malicious Flash installer notarized by Apple
+
