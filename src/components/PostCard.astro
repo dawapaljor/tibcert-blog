@@ -13,20 +13,7 @@ const {language} = Astro.props;
 const {readIn} = Astro.props;
 ---
 <article class='grid grid-rows-auto group rounded-xl border shadow-md p-3 backdrop-blur-sm bg-white/30  dark:bg-gradient-to-bl from-slate-700 via-gray-700 to-zinc-800 dark:border-[#ef482c]'>
-{
-	heroImage && (
-	<a class='relative' href={`/${language}/${slug}/`}
-		><Image
-			src={heroImage}
-			width={400}
-			height={50}
-			format='webp'
-			class='h-full min-w-full object-cover rounded-xl opacity-0 hover:scale-[101%] transition-all duration-200 '
-			alt={`img of ${title}`}
-		/>
-	</a>
-	)
-}
+
 
 	<div class='flex justify-between flex-col  gap-4 pl-1'>
 		<div class='flex items-center justify-between   pt-5 '>
