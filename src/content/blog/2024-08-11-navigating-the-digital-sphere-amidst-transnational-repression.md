@@ -13,7 +13,8 @@ description: >-
   revolutionized modern society, enhancing productivity and connectivity on a
   global scale. However, alongside these benefits come profound challenges,
   particularly in the realm of digital security.
-translation: 2024-08-11-navigating-the-digital-sphere-amidst-transnational-repression-bo
+translation: >-
+  https://tibcert-blog.vercel.app/post-bo/2024-08-11-navigating-the-digital-sphere-amidst-transnational-repression-bo
 heroImage: >-
   https://res.cloudinary.com/daarpik83/image/upload/v1724040530/China-repression_geepcz.png
 ---
