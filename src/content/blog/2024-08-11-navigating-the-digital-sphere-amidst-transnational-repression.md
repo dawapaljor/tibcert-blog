@@ -28,16 +28,16 @@ Dhonden, a Tibetan in Switzerland, [shared](https://www.theguardian.com/global-
 
 The CCP’s transnational repression is compounded by a series of targeted cyber attacks and espionage, stretching over two decades against key prominent figures and civil society organizations (CSOs) within the Tibetan diaspora community. From a cybersecurity perspective, individuals should exercise great caution in the digital sphere to prevent and mitigate potential surveillance, censorship, and other targeted cyber attacks. To maintain privacy and security on our devices in the face of intense censorship and surveillance, here are some important best practices:
 
-1\. Don’t Wait, Update: Regularly update your device software/OS to the latest version. This protects against outdated spywares and malwares that may be installed forcefully or accidentally.
+1\. **Don’t Wait, Update:** Regularly update your device software/OS to the latest version. This protects against outdated spywares and malwares that may be installed forcefully or accidentally.
 
-2\. Keep Your Devices Secure: Use strong passwords, enable two-factor authentication (2FA), and install anti-malware software to protect your devices from unauthorized access.
+2\. **Keep Your Devices Secure:** Use strong passwords, enable two-factor authentication (2FA), and install anti-malware software to protect your devices from unauthorized access.
 
-3\. Choose Secure Communication Platforms: Use secure messaging applications like Signal or WhatsApp when exchanging sensitive information to ensure your communications are encrypted and protected. 
+3\. **Choose Secure Communication Platforms:** Use secure messaging applications like Signal or WhatsApp when exchanging sensitive information to ensure your communications are encrypted and protected. 
 
-4\. Don’t Put Personal Information on Social Media: Avoid sharing personal information on social media platforms, as this can be used for surveillance and intimidation by authoritarian regimes.
+4\. D**on’t Put Personal Information on Social Media:** Avoid sharing personal information on social media platforms, as this can be used for surveillance and intimidation by authoritarian regimes.
 
-5\. Use Circumvention Tools such as VPNs or Tor: Hide your personal identity and reduce traceability by using reliable and trustworthy VPNs or Tor. These tools help protect your communications from being monitored by authorities.
+5\. **Use Circumvention Tools such as VPNs or Tor:** Hide your personal identity and reduce traceability by using reliable and trustworthy VPNs or Tor. These tools help protect your communications from being monitored by authorities.
 
-6. Be Cautious with Emails and Links: Avoid clicking on suspicious links or downloading attachments from unknown sources to prevent phishing attacks.
+6. **Be Cautious with Emails and Links:** Avoid clicking on suspicious links or downloading attachments from unknown sources to prevent phishing attacks.
 
 For more information on how you can best protect yourselves and your networks, visit [TibCERT Knowledge Base](https://learn.tibcert.org/). Should you find yourself targeted by transnational repression, don’t hesitate to reach out to our [Helpdesk](https://d7b6g.r.bh.d.sendibt3.com/mk/cl/f/sh/1f8JIKXx3IkdaCaufz9fUMoyMZ/qYxWTAxvYNcz) for assistance. We’re here to provide the necessary resources, support, and training to navigate these challenges effectively.
