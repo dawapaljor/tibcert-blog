@@ -10,10 +10,12 @@ import { reverse } from 'dns'
 
 
 
-
-const MAX_POSTS = 7 // max number of posts to show on the home page
+const MAX_POSTS = 20 // max number of posts to show on the home page
 const posts = await getPosts(MAX_POSTS)
 const language = "post"
+
+
+
 ---
 
 <BaseLayout title='Home'>

@@ -10,7 +10,11 @@ export const getCategories = async () => {
 export const getPosts = async (max?: number) => {
 	return (await getCollection('blog'))
 		.filter((post) => !post.data.draft)
-		.sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf())
+		.sort((a,b) => {
+			// Let's say there's a `publishedAt` property in each post
+			const timestampA = new Date(a.data.pubDate).getTime();
+			const timestampB = new Date(b.data.pubDate).getTime();
+			return timestampB - timestampA;})
 		.slice(0, max)
 }
 

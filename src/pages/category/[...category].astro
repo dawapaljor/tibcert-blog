@@ -18,10 +18,14 @@ export async function getStaticPaths() {
 }
 
 const unsluglifyNameCategory = unsluglify(category!.toLowerCase())
-const MAX_POSTS = 15
-const posts = await getPosts(MAX_POSTS)
+
+const posts = await getPosts()
+
+
+
 const filterPosts = posts.filter(
 	(post) => post.data.category.toLowerCase() === unsluglifyNameCategory
+	
 )
 ---
 <BaseLayout title={category}>
